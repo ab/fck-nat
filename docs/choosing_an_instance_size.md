@@ -7,7 +7,7 @@ baseline recommendations below.
 The rules of EC2 to internet networking:
 
 1. Most instances offer bandwidth "Up to" a certain amount. This is their burst capacity. Their baseline is
-    **signigicantly** smaller. The baseline value is available via the EC2 `describe-instance-types` API.
+   **significantly** smaller. The baseline value is available via the EC2 `describe-instance-types` API.
 2. Instances with fewer than 32 vCPUs are limited to a maximum of 5Gbps egress to the internet.
 3. Instances with >=32 vCPUs are allowed 50% their baseline bandwidth out to the internet.
 4. Certain instance types are excluded from this rule and are allowed their full baseline bandwidth out to the internet:
@@ -89,7 +89,7 @@ Here are the lowest-priced instances at each relevant bandwidth level:
 | 100Gbps   | c8gn.16xlarge | $ 2768.16       | $   27.68                |
 
 The `c8in` family provides economical options between 5Gbps and 25Gbps. The spec sheet says you could go all the way up
-to `c8in.48xlarge` for 300Gbps, but this is untested.
+to `c8in.48xlarge` for 300Gbps, but this is untested with fck-nat.
 
 ??? note "How were these values calculated?"
     Through some pain, effort, and a lot of `jq` you can produce the source data on your own and perform your own
