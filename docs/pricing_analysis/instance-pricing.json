@@ -1,933 +1,930 @@
 {
   "a1.2xlarge": {
-    "price": 0.3314000000
+    "price": 0.2040000000
   },
   "a1.4xlarge": {
-    "price": 0E-10
+    "price": 0.4080000000
   },
   "a1.large": {
-    "price": 0.0541000000
+    "price": 0.0510000000
   },
   "a1.medium": {
-    "price": 0.0414000000
+    "price": 0.0255000000
   },
   "a1.xlarge": {
-    "price": 0.1596000000
+    "price": 0.1020000000
   },
   "c1.medium": {
-    "price": 0.2310000000
+    "price": 0.1300000000
   },
   "c1.xlarge": {
-    "price": 1.1600000000
+    "price": 0.5200000000
   },
   "c3.2xlarge": {
-    "price": 0E-10
+    "price": 0.4200000000
   },
   "c3.4xlarge": {
-    "price": 7.0130000000
+    "price": 0.8400000000
   },
   "c3.8xlarge": {
     "price": 1.6800000000
   },
   "c3.large": {
-    "price": 0.1730000000
+    "price": 0.1050000000
   },
   "c3.xlarge": {
-    "price": 0E-10
+    "price": 0.2100000000
   },
   "c4.2xlarge": {
-    "price": 1.6550000000
+    "price": 0.3980000000
   },
   "c4.4xlarge": {
-    "price": 7.6120000000
+    "price": 0.7960000000
   },
   "c4.8xlarge": {
-    "price": 0E-10
+    "price": 1.5910000000
   },
   "c4.large": {
-    "price": 0E-10
+    "price": 0.1000000000
   },
   "c4.xlarge": {
-    "price": 0E-10
+    "price": 0.1990000000
   },
   "c5.12xlarge": {
-    "price": 0E-10
+    "price": 2.0400000000
   },
   "c5.18xlarge": {
-    "price": 11.7000000000
+    "price": 3.0600000000
   },
   "c5.24xlarge": {
-    "price": 4.3250000000
+    "price": 4.0800000000
   },
   "c5.2xlarge": {
-    "price": 0.5950000000
+    "price": 0.3400000000
   },
   "c5.4xlarge": {
-    "price": 0E-10
+    "price": 0.6800000000
   },
   "c5.9xlarge": {
-    "price": 0E-10
+    "price": 1.5300000000
   },
   "c5.large": {
-    "price": 0.6340000000
+    "price": 0.0850000000
   },
   "c5.xlarge": {
     "price": 0.1700000000
   },
   "c5a.12xlarge": {
-    "price": 8.9830000000
+    "price": 1.8480000000
   },
   "c5a.16xlarge": {
-    "price": 26.4640000000
+    "price": 2.4640000000
   },
   "c5a.24xlarge": {
-    "price": 0E-10
+    "price": 3.6960000000
   },
   "c5a.2xlarge": {
-    "price": 0.3220000000
+    "price": 0.3080000000
   },
   "c5a.4xlarge": {
-    "price": 0E-10
+    "price": 0.6160000000
   },
   "c5a.8xlarge": {
-    "price": 6.6670000000
+    "price": 1.2320000000
   },
   "c5a.large": {
-    "price": 0.0810000000
+    "price": 0.0770000000
   },
   "c5a.xlarge": {
-    "price": 0.2370000000
+    "price": 0.1540000000
   },
   "c5ad.12xlarge": {
-    "price": 22.2720000000
+    "price": 2.0640000000
   },
   "c5ad.16xlarge": {
-    "price": 3.1520000000
+    "price": 2.7520000000
   },
   "c5ad.24xlarge": {
-    "price": 0E-10
+    "price": 4.1280000000
   },
   "c5ad.2xlarge": {
     "price": 0.3440000000
   },
   "c5ad.4xlarge": {
-    "price": 0E-10
+    "price": 0.6880000000
   },
   "c5ad.8xlarge": {
-    "price": 0E-10
+    "price": 1.3760000000
   },
   "c5ad.large": {
-    "price": 0.5660000000
+    "price": 0.0860000000
   },
   "c5ad.xlarge": {
-    "price": 0E-10
+    "price": 0.1720000000
   },
   "c5d.12xlarge": {
-    "price": 3.2540000000
+    "price": 2.3040000000
   },
   "c5d.18xlarge": {
-    "price": 0E-10
+    "price": 3.4560000000
   },
   "c5d.24xlarge": {
-    "price": 40.6080000000
+    "price": 4.6080000000
   },
   "c5d.2xlarge": {
-    "price": 0E-10
+    "price": 0.3840000000
   },
   "c5d.4xlarge": {
-    "price": 7.2110000000
+    "price": 0.7680000000
   },
   "c5d.9xlarge": {
-    "price": 2.7250000000
+    "price": 1.7280000000
   },
   "c5d.large": {
-    "price": 0.1600000000
+    "price": 0.0960000000
   },
   "c5d.xlarge": {
-    "price": 0.8000000000
+    "price": 0.1920000000
   },
   "c5n.18xlarge": {
-    "price": 13.3060000000
+    "price": 3.8880000000
   },
   "c5n.2xlarge": {
-    "price": 0E-10
+    "price": 0.4320000000
   },
   "c5n.4xlarge": {
     "price": 0.8640000000
   },
   "c5n.9xlarge": {
-    "price": 2.1240000000
+    "price": 1.9440000000
   },
   "c5n.large": {
-    "price": 0.5880000000
+    "price": 0.1080000000
   },
   "c5n.xlarge": {
-    "price": 0.2970000000
+    "price": 0.2160000000
   },
   "c6a.12xlarge": {
-    "price": 0E-10
+    "price": 1.8360000000
   },
   "c6a.16xlarge": {
     "price": 2.4480000000
   },
   "c6a.24xlarge": {
-    "price": 19.6080000000
+    "price": 3.6720000000
   },
   "c6a.2xlarge": {
-    "price": 0E-10
+    "price": 0.3060000000
   },
   "c6a.32xlarge": {
-    "price": 0E-10
+    "price": 4.8960000000
   },
   "c6a.48xlarge": {
-    "price": 9.1872000000
+    "price": 7.3440000000
   },
   "c6a.4xlarge": {
-    "price": 3.3292000000
+    "price": 0.6120000000
   },
   "c6a.8xlarge": {
-    "price": 0E-10
+    "price": 1.2240000000
   },
   "c6a.large": {
-    "price": 0E-10
+    "price": 0.0765000000
   },
   "c6a.xlarge": {
-    "price": 0E-10
+    "price": 0.1530000000
   },
   "c6g.12xlarge": {
-    "price": 1.7160000000
+    "price": 1.6320000000
   },
   "c6g.16xlarge": {
-    "price": 2.3010000000
+    "price": 2.1760000000
   },
   "c6g.2xlarge": {
-    "price": 0E-10
+    "price": 0.2720000000
   },
   "c6g.4xlarge": {
-    "price": 0E-10
+    "price": 0.5440000000
   },
   "c6g.8xlarge": {
     "price": 1.0880000000
   },
   "c6g.large": {
-    "price": 0E-10
+    "price": 0.0680000000
   },
   "c6g.medium": {
-    "price": 0.0484000000
+    "price": 0.0340000000
   },
   "c6g.xlarge": {
     "price": 0.1360000000
   },
   "c6gd.12xlarge": {
-    "price": 2.3616000000
+    "price": 1.8432000000
   },
   "c6gd.16xlarge": {
-    "price": 2.5696000000
+    "price": 2.4576000000
   },
   "c6gd.2xlarge": {
-    "price": 0E-10
+    "price": 0.3072000000
   },
   "c6gd.4xlarge": {
-    "price": 1.0481000000
+    "price": 0.6144000000
   },
   "c6gd.8xlarge": {
-    "price": 2.0961000000
+    "price": 1.2288000000
   },
   "c6gd.large": {
-    "price": 0.1406000000
+    "price": 0.0768000000
   },
   "c6gd.medium": {
-    "price": 0.0528000000
+    "price": 0.0384000000
   },
   "c6gd.xlarge": {
-    "price": 0.2191000000
+    "price": 0.1536000000
   },
   "c6gn.12xlarge": {
-    "price": 0E-10
+    "price": 2.0736000000
   },
   "c6gn.16xlarge": {
-    "price": 2.8768000000
+    "price": 2.7648000000
   },
   "c6gn.2xlarge": {
     "price": 0.3456000000
   },
   "c6gn.4xlarge": {
-    "price": 1.0880000000
+    "price": 0.6912000000
   },
   "c6gn.8xlarge": {
-    "price": 0E-10
+    "price": 1.3824000000
   },
   "c6gn.large": {
-    "price": 0.1502000000
+    "price": 0.0864000000
   },
   "c6gn.medium": {
-    "price": 0.0449500000
+    "price": 0.0432000000
   },
   "c6gn.xlarge": {
-    "price": 0.1970800000
+    "price": 0.1728000000
   },
   "c6i.12xlarge": {
-    "price": 5.0592000000
+    "price": 2.0400000000
   },
   "c6i.16xlarge": {
-    "price": 11.9872000000
+    "price": 2.7200000000
   },
   "c6i.24xlarge": {
-    "price": 42.8688000000
+    "price": 4.0800000000
   },
   "c6i.2xlarge": {
-    "price": 3.3740000000
+    "price": 0.3400000000
   },
   "c6i.32xlarge": {
-    "price": 0E-10
+    "price": 5.4400000000
   },
   "c6i.4xlarge": {
-    "price": 0.7480000000
+    "price": 0.6800000000
   },
   "c6i.8xlarge": {
-    "price": 0E-10
+    "price": 1.3600000000
   },
   "c6i.large": {
-    "price": 0E-10
+    "price": 0.0850000000
   },
   "c6i.xlarge": {
-    "price": 0.8340000000
+    "price": 0.1700000000
   },
   "c6id.12xlarge": {
-    "price": 0E-10
+    "price": 2.4192000000
   },
   "c6id.16xlarge": {
-    "price": 0E-10
+    "price": 3.2256000000
   },
   "c6id.24xlarge": {
-    "price": 0E-10
+    "price": 4.8384000000
   },
   "c6id.2xlarge": {
     "price": 0.4032000000
   },
   "c6id.32xlarge": {
-    "price": 27.6992000000
+    "price": 6.4512000000
   },
   "c6id.4xlarge": {
-    "price": 3.5430400000
+    "price": 0.8064000000
   },
   "c6id.8xlarge": {
-    "price": 0E-10
+    "price": 1.6128000000
   },
   "c6id.large": {
-    "price": 0E-10
+    "price": 0.1008000000
   },
   "c6id.xlarge": {
-    "price": 1.7592000000
+    "price": 0.2016000000
   },
   "c6in.12xlarge": {
-    "price": 3.0777600000
+    "price": 2.7216000000
   },
   "c6in.16xlarge": {
-    "price": 0E-10
+    "price": 3.6288000000
   },
   "c6in.24xlarge": {
     "price": 5.4432000000
   },
   "c6in.2xlarge": {
-    "price": 0.4676000000
+    "price": 0.4536000000
   },
   "c6in.32xlarge": {
     "price": 7.2576000000
   },
   "c6in.4xlarge": {
-    "price": 0E-10
+    "price": 0.9072000000
   },
   "c6in.8xlarge": {
-    "price": 0E-10
+    "price": 1.8144000000
   },
   "c6in.large": {
-    "price": 0.2211400000
+    "price": 0.1134000000
   },
   "c6in.xlarge": {
-    "price": 0E-10
+    "price": 0.2268000000
   },
   "c7a.12xlarge": {
     "price": 2.4633600000
   },
   "c7a.16xlarge": {
-    "price": 0E-10
+    "price": 3.2844800000
   },
   "c7a.24xlarge": {
-    "price": 17.9761900000
+    "price": 4.9267200000
   },
   "c7a.2xlarge": {
-    "price": 0E-10
+    "price": 0.4105600000
   },
   "c7a.32xlarge": {
-    "price": 9.7986600000
+    "price": 6.5689600000
   },
   "c7a.48xlarge": {
-    "price": 10.1894400000
+    "price": 9.8534400000
   },
   "c7a.4xlarge": {
-    "price": 7.0760300000
+    "price": 0.8211200000
   },
   "c7a.8xlarge": {
-    "price": 14.4358400000
+    "price": 1.6422400000
   },
   "c7a.large": {
-    "price": 0E-10
+    "price": 0.1026400000
   },
   "c7a.medium": {
-    "price": 0.5313200000
+    "price": 0.0513200000
   },
   "c7a.xlarge": {
-    "price": 0E-10
+    "price": 0.2052800000
   },
   "c7g.12xlarge": {
-    "price": 2.2584000000
+    "price": 1.7400000000
   },
   "c7g.16xlarge": {
-    "price": 2.4320000000
+    "price": 2.3200000000
   },
   "c7g.2xlarge": {
-    "price": 0E-10
+    "price": 0.2900000000
   },
   "c7g.4xlarge": {
-    "price": 0.6080000000
+    "price": 0.5800000000
   },
   "c7g.8xlarge": {
-    "price": 0E-10
+    "price": 1.1600000000
   },
   "c7g.large": {
-    "price": 0.1363000000
+    "price": 0.0725000000
   },
   "c7g.medium": {
-    "price": 0E-10
+    "price": 0.0363000000
   },
   "c7g.xlarge": {
-    "price": 0.2104000000
+    "price": 0.1450000000
   },
   "c7gd.12xlarge": {
-    "price": 0E-10
+    "price": 2.1773000000
   },
   "c7gd.16xlarge": {
-    "price": 3.5942000000
+    "price": 2.9030000000
   },
   "c7gd.2xlarge": {
-    "price": 0E-10
+    "price": 0.3629000000
   },
   "c7gd.4xlarge": {
-    "price": 0.7693000000
+    "price": 0.7258000000
   },
   "c7gd.8xlarge": {
-    "price": 2.3322000000
+    "price": 1.4515000000
   },
   "c7gd.large": {
-    "price": 0.0997000000
+    "price": 0.0907000000
   },
   "c7gd.medium": {
     "price": 0.0454000000
   },
   "c7gd.xlarge": {
-    "price": 0.2486000000
+    "price": 0.1814000000
   },
   "c7gn.12xlarge": {
-    "price": 0E-10
+    "price": 2.9952000000
   },
   "c7gn.16xlarge": {
-    "price": 0E-10
+    "price": 3.9936000000
   },
   "c7gn.2xlarge": {
-    "price": 0.5292000000
+    "price": 0.4992000000
   },
   "c7gn.4xlarge": {
-    "price": 1.3952000000
+    "price": 0.9984000000
   },
   "c7gn.8xlarge": {
     "price": 1.9968000000
   },
   "c7gn.large": {
-    "price": 0.1811000000
+    "price": 0.1248000000
   },
   "c7gn.medium": {
-    "price": 0.0661000000
+    "price": 0.0624000000
   },
   "c7gn.xlarge": {
-    "price": 0E-10
+    "price": 0.2496000000
   },
   "c7i-flex.12xlarge": {
-    "price": 8.9853000000
+    "price": 2.0349000000
   },
   "c7i-flex.16xlarge": {
-    "price": 3.7948000000
+    "price": 2.7132000000
   },
   "c7i-flex.2xlarge": {
-    "price": 3.5943500000
+    "price": 0.3391500000
   },
   "c7i-flex.4xlarge": {
-    "price": 0E-10
+    "price": 0.6783000000
   },
   "c7i-flex.8xlarge": {
-    "price": 13.3566000000
+    "price": 1.3566000000
   },
   "c7i-flex.large": {
-    "price": 0.5647900000
+    "price": 0.0847900000
   },
   "c7i-flex.xlarge": {
-    "price": 0.2947800000
+    "price": 0.1695800000
   },
   "c7i.12xlarge": {
     "price": 2.1420000000
   },
   "c7i.16xlarge": {
-    "price": 0E-10
+    "price": 2.8560000000
   },
   "c7i.24xlarge": {
-    "price": 0E-10
+    "price": 4.2840000000
   },
   "c7i.2xlarge": {
-    "price": 0E-10
+    "price": 0.3570000000
   },
   "c7i.48xlarge": {
-    "price": 0E-10
+    "price": 8.5680000000
   },
   "c7i.4xlarge": {
-    "price": 1.0558000000
+    "price": 0.7140000000
   },
   "c7i.8xlarge": {
-    "price": 1.4720000000
+    "price": 1.4280000000
   },
   "c7i.large": {
-    "price": 0E-10
+    "price": 0.0892500000
   },
   "c7i.xlarge": {
-    "price": 0.8603500000
+    "price": 0.1785000000
   },
   "c8a.12xlarge": {
-    "price": 0E-10
+    "price": 2.5864800000
   },
   "c8a.16xlarge": {
-    "price": 0E-10
+    "price": 3.4486400000
   },
   "c8a.24xlarge": {
-    "price": 43.5537600000
+    "price": 5.1729600000
   },
   "c8a.2xlarge": {
-    "price": 0.7245900000
+    "price": 0.4310800000
   },
   "c8a.48xlarge": {
-    "price": 14.2051200000
+    "price": 10.3459200000
   },
   "c8a.4xlarge": {
-    "price": 3.6043800000
+    "price": 0.8621600000
   },
   "c8a.8xlarge": {
-    "price": 2.2651200000
+    "price": 1.7243200000
   },
   "c8a.large": {
-    "price": 0.1748500000
+    "price": 0.1077700000
   },
   "c8a.medium": {
-    "price": 0E-10
+    "price": 0.0538900000
   },
   "c8a.xlarge": {
-    "price": 0.8795400000
+    "price": 0.2155400000
   },
   "c8g.12xlarge": {
-    "price": 0E-10
+    "price": 1.9142400000
   },
   "c8g.16xlarge": {
-    "price": 0E-10
+    "price": 2.5523200000
   },
   "c8g.24xlarge": {
-    "price": 4.3363300000
+    "price": 3.8284800000
   },
   "c8g.2xlarge": {
-    "price": 0.3509400000
+    "price": 0.3190400000
   },
   "c8g.48xlarge": {
     "price": 7.6569600000
   },
   "c8g.4xlarge": {
-    "price": 0.8108800000
+    "price": 0.6380800000
   },
   "c8g.8xlarge": {
-    "price": 1.7493800000
+    "price": 1.2761600000
   },
   "c8g.large": {
-    "price": 0E-10
+    "price": 0.0797600000
   },
   "c8g.medium": {
-    "price": 0E-10
+    "price": 0.0398800000
   },
   "c8g.xlarge": {
-    "price": 0.1824700000
+    "price": 0.1595200000
   },
   "c8gb.12xlarge": {
-    "price": 4.2050400000
+    "price": 2.8440000000
   },
   "c8gb.16xlarge": {
-    "price": 4.1445200000
+    "price": 3.7920000000
   },
   "c8gb.24xlarge": {
-    "price": 0E-10
+    "price": 5.6880000000
   },
   "c8gb.2xlarge": {
-    "price": 0.6176400000
+    "price": 0.4740000000
   },
   "c8gb.48xlarge": {
-    "price": 15.2352000000
+    "price": 11.3760000000
   },
   "c8gb.4xlarge": {
-    "price": 1.4016800000
+    "price": 0.9480000000
   },
   "c8gb.8xlarge": {
-    "price": 0E-10
+    "price": 1.8960000000
   },
   "c8gb.large": {
-    "price": 0E-10
+    "price": 0.1185000000
   },
   "c8gb.medium": {
-    "price": 0E-10
+    "price": 0.0592500000
   },
   "c8gb.xlarge": {
-    "price": 0E-10
+    "price": 0.2370000000
   },
   "c8gd.12xlarge": {
-    "price": 2.4355200000
+    "price": 2.3515200000
   },
   "c8gd.16xlarge": {
-    "price": 0E-10
+    "price": 3.1353600000
   },
   "c8gd.24xlarge": {
-    "price": 0E-10
+    "price": 4.7030400000
   },
   "c8gd.2xlarge": {
-    "price": 0.5169200000
+    "price": 0.3919200000
   },
   "c8gd.48xlarge": {
-    "price": 0E-10
+    "price": 9.4060800000
   },
   "c8gd.4xlarge": {
-    "price": 0.8118400000
+    "price": 0.7838400000
   },
   "c8gd.8xlarge": {
-    "price": 2.3612800000
+    "price": 1.5676800000
   },
   "c8gd.large": {
-    "price": 0.1014800000
+    "price": 0.0979800000
   },
   "c8gd.medium": {
-    "price": 0E-10
+    "price": 0.0489900000
   },
   "c8gd.xlarge": {
-    "price": 0.2535600000
+    "price": 0.1959600000
   },
   "c8gn.12xlarge": {
-    "price": 0E-10
+    "price": 2.8440000000
   },
   "c8gn.16xlarge": {
-    "price": 4.1315000000
+    "price": 3.7920000000
   },
   "c8gn.24xlarge": {
-    "price": 5.8560000000
+    "price": 5.6880000000
   },
   "c8gn.2xlarge": {
-    "price": 0E-10
+    "price": 0.4740000000
   },
   "c8gn.48xlarge": {
-    "price": 11.7120000000
+    "price": 11.3760000000
   },
   "c8gn.4xlarge": {
-    "price": 0E-10
+    "price": 0.9480000000
   },
   "c8gn.8xlarge": {
-    "price": 0E-10
+    "price": 1.8960000000
   },
   "c8gn.large": {
-    "price": 0.1256000000
+    "price": 0.1185000000
   },
   "c8gn.medium": {
-    "price": 0E-10
+    "price": 0.0593000000
   },
   "c8gn.xlarge": {
-    "price": 0.2582000000
+    "price": 0.2370000000
   },
   "c8i-flex.12xlarge": {
-    "price": 7.8964800000
+    "price": 2.1364800000
   },
   "c8i-flex.16xlarge": {
-    "price": 12.1158400000
+    "price": 2.8486400000
   },
   "c8i-flex.2xlarge": {
-    "price": 3.3560800000
+    "price": 0.3560800000
   },
   "c8i-flex.4xlarge": {
-    "price": 0E-10
+    "price": 0.7121600000
   },
   "c8i-flex.8xlarge": {
     "price": 1.4243200000
   },
   "c8i-flex.large": {
-    "price": 0E-10
+    "price": 0.0890200000
   },
   "c8i-flex.xlarge": {
-    "price": 0.8328400000
+    "price": 0.1780400000
   },
   "c8i.12xlarge": {
-    "price": 0E-10
+    "price": 2.2490400000
   },
   "c8i.16xlarge": {
-    "price": 13.6227200000
+    "price": 2.9987200000
   },
   "c8i.24xlarge": {
-    "price": 5.9846900000
+    "price": 4.4980800000
   },
   "c8i.2xlarge": {
-    "price": 0E-10
+    "price": 0.3748400000
   },
   "c8i.32xlarge": {
-    "price": 0E-10
+    "price": 5.9974400000
   },
   "c8i.48xlarge": {
     "price": 8.9961600000
   },
   "c8i.4xlarge": {
-    "price": 2.6696800000
+    "price": 0.7496800000
   },
   "c8i.8xlarge": {
-    "price": 14.4429000000
+    "price": 1.4993600000
   },
   "c8i.96xlarge": {
-    "price": 67.7587200000
+    "price": 17.9923200000
   },
   "c8i.large": {
-    "price": 0.1575100000
+    "price": 0.0937100000
   },
   "c8i.xlarge": {
-    "price": 0E-10
+    "price": 0.1874200000
   },
   "c8ib.12xlarge": {
     "price": 3.2659200000
   },
   "c8ib.16xlarge": {
-    "price": 31.2985600000
+    "price": 4.3545600000
   },
   "c8ib.24xlarge": {
-    "price": 43.5686400000
+    "price": 6.5318400000
   },
   "c8ib.2xlarge": {
-    "price": 0.7237500000
+    "price": 0.5443200000
   },
   "c8ib.32xlarge": {
-    "price": 12.9720300000
+    "price": 8.7091200000
   },
   "c8ib.48xlarge": {
-    "price": 86.9068800000
+    "price": 13.0636800000
   },
   "c8ib.4xlarge": {
-    "price": 0.7360000000
+    "price": 1.0886400000
   },
   "c8ib.8xlarge": {
-    "price": 0E-10
+    "price": 2.1772800000
   },
   "c8ib.96xlarge": {
-    "price": 0E-10
+    "price": 26.1273600000
   },
   "c8ib.large": {
-    "price": 0E-10
+    "price": 0.1360800000
   },
   "c8ib.xlarge": {
-    "price": 0E-10
+    "price": 0.2721600000
   },
   "c8id.12xlarge": {
-    "price": 0E-10
+    "price": 2.6611200000
   },
   "c8id.16xlarge": {
-    "price": 0E-10
+    "price": 3.5481600000
   },
   "c8id.24xlarge": {
-    "price": 0E-10
+    "price": 5.3222400000
   },
   "c8id.2xlarge": {
-    "price": 0.5787200000
+    "price": 0.4435200000
   },
   "c8id.32xlarge": {
-    "price": 0E-10
+    "price": 7.0963200000
   },
   "c8id.48xlarge": {
-    "price": 0E-10
+    "price": 10.6444800000
   },
   "c8id.4xlarge": {
-    "price": 7.2838400000
+    "price": 0.8870400000
   },
   "c8id.8xlarge": {
-    "price": 1.9514900000
+    "price": 1.7740800000
   },
   "c8id.96xlarge": {
-    "price": 85.0329600000
+    "price": 21.2889600000
   },
   "c8id.large": {
-    "price": 0.6196800000
+    "price": 0.1108800000
   },
   "c8id.xlarge": {
-    "price": 0E-10
+    "price": 0.2217600000
   },
   "c8in.12xlarge": {
-    "price": 0E-10
+    "price": 3.2659200000
   },
   "c8in.16xlarge": {
-    "price": 0E-10
+    "price": 4.3545600000
   },
   "c8in.24xlarge": {
-    "price": 0E-10
+    "price": 6.5318400000
   },
   "c8in.2xlarge": {
-    "price": 0E-10
+    "price": 0.5443200000
   },
   "c8in.32xlarge": {
-    "price": 12.1011200000
+    "price": 8.7091200000
   },
   "c8in.48xlarge": {
-    "price": 14.3700500000
+    "price": 13.0636800000
   },
   "c8in.4xlarge": {
-    "price": 3.1814400000
+    "price": 1.0886400000
   },
   "c8in.8xlarge": {
-    "price": 2.7406100000
+    "price": 2.1772800000
   },
   "c8in.96xlarge": {
     "price": 26.1273600000
   },
   "c8in.large": {
-    "price": 0.1496900000
+    "price": 0.1360800000
   },
   "c8in.xlarge": {
-    "price": 0.3669800000
+    "price": 0.2721600000
   },
   "c8ine.12xlarge": {
-    "price": 0E-10
+    "price": 4.0824000000
   },
   "c8ine.2xlarge": {
-    "price": 3.6804000000
+    "price": 0.6804000000
   },
   "c8ine.4xlarge": {
     "price": 1.3608000000
   },
   "c8ine.8xlarge": {
-    "price": 6.9072000000
+    "price": 2.7216000000
   },
   "c8ine.large": {
-    "price": 0.1736000000
+    "price": 0.1701000000
   },
   "c8ine.xlarge": {
-    "price": 0E-10
+    "price": 0.3402000000
   },
   "c9g.12xlarge": {
-    "price": 2.2952200000
+    "price": 2.0865600000
   },
   "c9g.16xlarge": {
-    "price": 0E-10
+    "price": 2.7820800000
   },
   "c9g.24xlarge": {
-    "price": 0E-10
+    "price": 4.1731200000
   },
   "c9g.2xlarge": {
-    "price": 0.6377400000
+    "price": 0.3477600000
   },
   "c9g.48xlarge": {
-    "price": 8.6822400000
+    "price": 8.3462400000
   },
   "c9g.4xlarge": {
-    "price": 0.7650700000
+    "price": 0.6955200000
   },
   "c9g.8xlarge": {
-    "price": 0E-10
+    "price": 1.3910400000
   },
   "c9g.large": {
-    "price": 0.1244300000
+    "price": 0.0869400000
   },
   "c9g.medium": {
-    "price": 0E-10
+    "price": 0.0434700000
   },
   "c9g.xlarge": {
-    "price": 0.2475700000
+    "price": 0.1738800000
   },
   "c9gd.12xlarge": {
-    "price": 2.6882000000
+    "price": 2.5632000000
   },
   "c9gd.16xlarge": {
-    "price": 4.4505600000
+    "price": 3.4176000000
   },
   "c9gd.24xlarge": {
-    "price": 6.6758400000
+    "price": 5.1264000000
   },
   "c9gd.2xlarge": {
-    "price": 0.7251200000
+    "price": 0.4272000000
   },
   "c9gd.48xlarge": {
-    "price": 10.3778000000
+    "price": 10.2528000000
   },
   "c9gd.4xlarge": {
-    "price": 0E-10
+    "price": 0.8544000000
   },
   "c9gd.8xlarge": {
-    "price": 0E-10
+    "price": 1.7088000000
   },
   "c9gd.large": {
-    "price": 0.1737800000
+    "price": 0.1068000000
   },
   "c9gd.medium": {
-    "price": 0.0604900000
+    "price": 0.0534000000
   },
   "c9gd.xlarge": {
-    "price": 0.2206000000
-  },
-  "cc2.8xlarge": {
-    "price": 4.4100000000
+    "price": 0.2136000000
   },
   "cr1.8xlarge": {
-    "price": 3.6000000000
+    "price": 3.5000000000
   },
   "d2.2xlarge": {
-    "price": 0E-10
+    "price": 1.3800000000
   },
   "d2.4xlarge": {
-    "price": 3.1460000000
+    "price": 2.7600000000
   },
   "d2.8xlarge": {
-    "price": 5.5830000000
+    "price": 5.5200000000
   },
   "d2.xlarge": {
-    "price": 0.8690000000
+    "price": 0.6900000000
   },
   "d3.2xlarge": {
-    "price": 4.0990000000
+    "price": 0.9990000000
   },
   "d3.4xlarge": {
-    "price": 4.8540000000
+    "price": 1.9980000000
   },
   "d3.8xlarge": {
-    "price": 4.9358700000
+    "price": 3.9955200000
   },
   "d3.xlarge": {
-    "price": 2.2330000000
+    "price": 0.4990000000
   },
   "d3en.12xlarge": {
-    "price": 0E-10
+    "price": 6.3086400000
   },
   "d3en.2xlarge": {
-    "price": 2.0110000000
+    "price": 1.0510000000
   },
   "d3en.4xlarge": {
-    "price": 0E-10
+    "price": 2.1030000000
   },
   "d3en.6xlarge": {
-    "price": 0E-10
+    "price": 3.1540000000
   },
   "d3en.8xlarge": {
-    "price": 6.6391400000
+    "price": 4.2057600000
   },
   "d3en.xlarge": {
-    "price": 1.0580000000
+    "price": 0.5260000000
   },
   "dl1.24xlarge": {
     "price": 13.1090400000
@@ -936,496 +933,490 @@
     "price": 13.2000000000
   },
   "f1.2xlarge": {
-    "price": 0E-10
+    "price": 1.6500000000
   },
   "f1.4xlarge": {
-    "price": 3.7300000000
+    "price": 3.3000000000
   },
   "f2.12xlarge": {
-    "price": 0E-10
+    "price": 3.9600000000
   },
   "f2.48xlarge": {
-    "price": 15.9650000000
+    "price": 15.8400000000
   },
   "f2.6xlarge": {
-    "price": 2.0220000000
+    "price": 1.9800000000
   },
   "g2.2xlarge": {
-    "price": 0E-10
+    "price": 0.6500000000
   },
   "g2.8xlarge": {
-    "price": 2.7000000000
+    "price": 2.6000000000
   },
   "g3.16xlarge": {
-    "price": 4.6720000000
+    "price": 4.5600000000
   },
   "g3.4xlarge": {
-    "price": 0E-10
+    "price": 1.1400000000
   },
   "g3.8xlarge": {
-    "price": 3.3016000000
+    "price": 2.2800000000
   },
   "g3s.xlarge": {
-    "price": 0E-10
+    "price": 0.7500000000
   },
   "g4ad.16xlarge": {
-    "price": 0E-10
+    "price": 3.4680000000
   },
   "g4ad.2xlarge": {
-    "price": 0.5952900000
+    "price": 0.5411700000
   },
   "g4ad.4xlarge": {
-    "price": 1.6897000000
+    "price": 0.8670000000
   },
   "g4ad.8xlarge": {
-    "price": 0E-10
+    "price": 1.7340000000
   },
   "g4ad.xlarge": {
-    "price": 0E-10
+    "price": 0.3785300000
   },
   "g4dn.12xlarge": {
-    "price": 4.0370000000
+    "price": 3.9120000000
   },
   "g4dn.16xlarge": {
-    "price": 0E-10
+    "price": 4.3520000000
   },
   "g4dn.2xlarge": {
-    "price": 0.7660000000
+    "price": 0.7520000000
   },
   "g4dn.4xlarge": {
-    "price": 0E-10
+    "price": 1.2040000000
   },
   "g4dn.8xlarge": {
-    "price": 0E-10
+    "price": 2.1760000000
   },
   "g4dn.xlarge": {
-    "price": 0.5650000000
+    "price": 0.5260000000
   },
   "g5.12xlarge": {
-    "price": 7.8800000000
+    "price": 5.6720000000
   },
   "g5.16xlarge": {
-    "price": 7.4496000000
+    "price": 4.0960000000
   },
   "g5.24xlarge": {
-    "price": 12.5600000000
+    "price": 8.1440000000
   },
   "g5.2xlarge": {
-    "price": 0E-10
+    "price": 1.2120000000
   },
   "g5.48xlarge": {
-    "price": 0E-10
+    "price": 16.2880000000
   },
   "g5.4xlarge": {
-    "price": 1.8144000000
+    "price": 1.6240000000
   },
   "g5.8xlarge": {
     "price": 2.4480000000
   },
   "g5.xlarge": {
-    "price": 0E-10
+    "price": 1.0060000000
   },
   "g5g.16xlarge": {
-    "price": 4.3312000000
+    "price": 2.7440000000
   },
   "g5g.2xlarge": {
-    "price": 0.5894000000
+    "price": 0.5560000000
   },
   "g5g.4xlarge": {
-    "price": 0E-10
+    "price": 0.8280000000
   },
   "g5g.8xlarge": {
     "price": 1.3720000000
   },
   "g5g.xlarge": {
-    "price": 0.4763000000
+    "price": 0.4200000000
   },
   "g6.12xlarge": {
-    "price": 0E-10
+    "price": 4.6016000000
   },
   "g6.16xlarge": {
-    "price": 30.3408000000
+    "price": 3.3968000000
   },
   "g6.24xlarge": {
-    "price": 0E-10
+    "price": 6.6752000000
   },
   "g6.2xlarge": {
-    "price": 0E-10
+    "price": 0.9776000000
   },
   "g6.48xlarge": {
-    "price": 87.1936000000
+    "price": 13.3504000000
   },
   "g6.4xlarge": {
-    "price": 0E-10
+    "price": 1.3232000000
   },
   "g6.8xlarge": {
-    "price": 2.3408400000
+    "price": 2.0144000000
   },
   "g6.xlarge": {
     "price": 0.8048000000
   },
   "g6e.12xlarge": {
-    "price": 12.0603000000
+    "price": 10.4926400000
   },
   "g6e.16xlarge": {
-    "price": 0E-10
+    "price": 7.5771900000
   },
   "g6e.24xlarge": {
-    "price": 0E-10
+    "price": 15.0655900000
   },
   "g6e.2xlarge": {
-    "price": 0E-10
+    "price": 2.2420800000
   },
   "g6e.48xlarge": {
-    "price": 8.8320000000
+    "price": 30.1311800000
   },
   "g6e.4xlarge": {
-    "price": 0E-10
+    "price": 3.0042400000
   },
   "g6e.8xlarge": {
-    "price": 0E-10
+    "price": 4.5285600000
   },
   "g6e.xlarge": {
-    "price": 0E-10
+    "price": 1.8610000000
   },
   "g6f.2xlarge": {
-    "price": 0E-10
+    "price": 0.4750000000
   },
   "g6f.4xlarge": {
-    "price": 7.2178000000
+    "price": 0.9500000000
   },
   "g6f.large": {
-    "price": 0.2055000000
+    "price": 0.2020000000
   },
   "g6f.xlarge": {
-    "price": 0E-10
+    "price": 0.2375000000
   },
   "g7.12xlarge": {
-    "price": 0E-10
+    "price": 7.1283200000
   },
   "g7.24xlarge": {
-    "price": 14.3816400000
+    "price": 14.2566400000
   },
   "g7.2xlarge": {
-    "price": 0E-10
+    "price": 2.5200000000
   },
   "g7.48xlarge": {
-    "price": 32.3724800000
+    "price": 28.5132800000
   },
   "g7.4xlarge": {
-    "price": 3.2148800000
+    "price": 3.0420800000
   },
   "g7.8xlarge": {
-    "price": 4.1422400000
+    "price": 4.0862400000
   },
   "g7e.12xlarge": {
-    "price": 10.4442900000
+    "price": 8.2860800000
   },
   "g7e.24xlarge": {
-    "price": 18.3543800000
+    "price": 16.5721600000
   },
   "g7e.2xlarge": {
-    "price": 6.6183200000
+    "price": 3.3631200000
   },
   "g7e.48xlarge": {
-    "price": 56.1843200000
+    "price": 33.1443200000
   },
   "g7e.4xlarge": {
-    "price": 4.2685600000
+    "price": 3.9981600000
   },
   "g7e.8xlarge": {
-    "price": 0E-10
+    "price": 5.2682400000
   },
   "gr6.4xlarge": {
-    "price": 1.9824000000
+    "price": 1.5392000000
   },
   "gr6.8xlarge": {
-    "price": 0E-10
+    "price": 2.4464000000
   },
   "gr6f.4xlarge": {
-    "price": 1.4430000000
+    "price": 1.0660000000
   },
   "h1.16xlarge": {
-    "price": 11.4240000000
+    "price": 3.7440000000
   },
   "h1.2xlarge": {
-    "price": 1.4580000000
+    "price": 0.4680000000
   },
   "h1.4xlarge": {
-    "price": 2.1780000000
+    "price": 0.9360000000
   },
   "h1.8xlarge": {
     "price": 1.8720000000
   },
   "hpc7g.16xlarge": {
-    "price": 3.2704000000
+    "price": 1.6832000000
   },
   "hpc7g.4xlarge": {
-    "price": 1.8082000000
+    "price": 1.6832000000
   },
   "hpc7g.8xlarge": {
-    "price": 2.0288000000
-  },
-  "hs1.8xlarge": {
-    "price": 5.1440000000
+    "price": 1.6832000000
   },
   "i2.2xlarge": {
-    "price": 5.2440000000
+    "price": 1.7050000000
   },
   "i2.4xlarge": {
-    "price": 0E-10
+    "price": 3.4100000000
   },
   "i2.8xlarge": {
     "price": 6.8200000000
   },
-  "i2.large": {
-    "price": 0E-10
-  },
   "i2.xlarge": {
-    "price": 2.4110000000
+    "price": 0.8530000000
   },
   "i3.16xlarge": {
-    "price": 0E-10
+    "price": 4.9920000000
   },
   "i3.2xlarge": {
-    "price": 0.7860000000
+    "price": 0.6240000000
   },
   "i3.4xlarge": {
-    "price": 0E-10
+    "price": 1.2480000000
   },
   "i3.8xlarge": {
-    "price": 3.0910000000
+    "price": 2.4960000000
   },
   "i3.large": {
-    "price": 0.2560000000
+    "price": 0.1560000000
   },
   "i3.xlarge": {
-    "price": 0.8230000000
+    "price": 0.3120000000
   },
   "i3en.12xlarge": {
-    "price": 0E-10
+    "price": 5.4240000000
   },
   "i3en.24xlarge": {
-    "price": 0E-10
+    "price": 10.8480000000
   },
   "i3en.2xlarge": {
-    "price": 0E-10
+    "price": 0.9040000000
   },
   "i3en.3xlarge": {
-    "price": 1.5740000000
+    "price": 1.3560000000
   },
   "i3en.6xlarge": {
-    "price": 4.3980000000
+    "price": 2.7120000000
   },
   "i3en.large": {
-    "price": 0.3220000000
+    "price": 0.2260000000
   },
   "i3en.xlarge": {
-    "price": 0E-10
+    "price": 0.4520000000
   },
   "i4g.16xlarge": {
-    "price": 5.0540800000
+    "price": 4.9420800000
   },
   "i4g.2xlarge": {
-    "price": 0.8729600000
+    "price": 0.6177600000
   },
   "i4g.4xlarge": {
-    "price": 1.5318700000
+    "price": 1.2355200000
   },
   "i4g.8xlarge": {
-    "price": 2.8166400000
+    "price": 2.4710400000
   },
   "i4g.large": {
-    "price": 0.2336800000
+    "price": 0.1544400000
   },
   "i4g.xlarge": {
-    "price": 0.4673700000
+    "price": 0.3088800000
   },
   "i4i.12xlarge": {
-    "price": 5.4480000000
+    "price": 4.1180000000
   },
   "i4i.16xlarge": {
-    "price": 7.0780000000
+    "price": 5.4910000000
   },
   "i4i.24xlarge": {
-    "price": 14.2752000000
+    "price": 8.2368000000
   },
   "i4i.2xlarge": {
-    "price": 3.9420000000
+    "price": 0.6860000000
   },
   "i4i.32xlarge": {
-    "price": 11.1074000000
+    "price": 10.9824000000
   },
   "i4i.4xlarge": {
-    "price": 1.5100000000
+    "price": 1.3730000000
   },
   "i4i.8xlarge": {
     "price": 2.7460000000
   },
   "i4i.large": {
-    "price": 0E-10
+    "price": 0.1720000000
   },
   "i4i.xlarge": {
-    "price": 1.9710000000
+    "price": 0.3430000000
   },
   "i7i.12xlarge": {
-    "price": 6.0006000000
+    "price": 4.5302000000
   },
   "i7i.16xlarge": {
-    "price": 6.1523000000
+    "price": 6.0403000000
   },
   "i7i.24xlarge": {
-    "price": 46.0973000000
+    "price": 9.0605000000
   },
   "i7i.2xlarge": {
-    "price": 1.7150000000
+    "price": 0.7550000000
   },
   "i7i.48xlarge": {
-    "price": 93.9802000000
+    "price": 18.1210000000
   },
   "i7i.4xlarge": {
-    "price": 0E-10
+    "price": 1.5101000000
   },
   "i7i.8xlarge": {
-    "price": 8.5188000000
+    "price": 3.0202000000
   },
   "i7i.large": {
-    "price": 0E-10
+    "price": 0.1888000000
   },
   "i7i.xlarge": {
-    "price": 0.9385000000
+    "price": 0.3775000000
   },
   "i7ie.12xlarge": {
-    "price": 6.3626000000
+    "price": 6.2376000000
   },
   "i7ie.18xlarge": {
-    "price": 0E-10
+    "price": 9.3564000000
   },
   "i7ie.24xlarge": {
-    "price": 0E-10
+    "price": 12.4752000000
   },
   "i7ie.2xlarge": {
-    "price": 0E-10
+    "price": 1.0396000000
   },
   "i7ie.3xlarge": {
-    "price": 0E-10
+    "price": 1.5594000000
   },
   "i7ie.48xlarge": {
-    "price": 49.6087000000
+    "price": 24.9504000000
   },
   "i7ie.6xlarge": {
-    "price": 3.7267000000
+    "price": 3.1188000000
   },
   "i7ie.large": {
-    "price": 0.2634000000
+    "price": 0.2599000000
   },
   "i7ie.xlarge": {
-    "price": 0E-10
+    "price": 0.5198000000
   },
   "i8g.12xlarge": {
-    "price": 0E-10
+    "price": 4.1184000000
   },
   "i8g.16xlarge": {
-    "price": 6.7315200000
+    "price": 5.4912000000
   },
   "i8g.24xlarge": {
-    "price": 9.2284800000
+    "price": 8.2368000000
   },
   "i8g.2xlarge": {
-    "price": 0.9416000000
+    "price": 0.6864000000
   },
   "i8g.48xlarge": {
-    "price": 0E-10
+    "price": 16.4736000000
   },
   "i8g.4xlarge": {
-    "price": 0E-10
+    "price": 1.3728000000
   },
   "i8g.8xlarge": {
-    "price": 0E-10
+    "price": 2.7456000000
   },
   "i8g.large": {
-    "price": 0.1923000000
+    "price": 0.1716000000
   },
   "i8g.xlarge": {
-    "price": 0E-10
+    "price": 0.3432000000
   },
   "i8ge.12xlarge": {
     "price": 5.6952000000
   },
   "i8ge.18xlarge": {
-    "price": 9.3204000000
+    "price": 8.5428000000
   },
   "i8ge.24xlarge": {
-    "price": 11.5154000000
+    "price": 11.3904000000
   },
   "i8ge.2xlarge": {
-    "price": 0E-10
+    "price": 0.9492000000
   },
   "i8ge.3xlarge": {
-    "price": 1.5488000000
+    "price": 1.4238000000
   },
   "i8ge.48xlarge": {
-    "price": 26.1058000000
+    "price": 22.7808000000
   },
   "i8ge.6xlarge": {
-    "price": 0E-10
+    "price": 2.8476000000
   },
   "i8ge.large": {
-    "price": 0E-10
+    "price": 0.2373000000
   },
   "i8ge.xlarge": {
-    "price": 0E-10
+    "price": 0.4746000000
   },
   "im4gn.16xlarge": {
-    "price": 7.4078700000
+    "price": 5.8206700000
   },
   "im4gn.2xlarge": {
-    "price": 0.7415800000
+    "price": 0.7275800000
   },
   "im4gn.4xlarge": {
-    "price": 0E-10
+    "price": 1.4551700000
   },
   "im4gn.8xlarge": {
-    "price": 3.3263700000
+    "price": 2.9103400000
   },
   "im4gn.large": {
-    "price": 0E-10
+    "price": 0.1819000000
   },
   "im4gn.xlarge": {
-    "price": 0E-10
+    "price": 0.3637900000
   },
   "inf1.24xlarge": {
-    "price": 0E-10
+    "price": 4.7210000000
   },
   "inf1.2xlarge": {
-    "price": 1.3440000000
+    "price": 0.3620000000
   },
   "inf1.6xlarge": {
-    "price": 0E-10
+    "price": 1.1800000000
   },
   "inf1.xlarge": {
-    "price": 0.2350000000
+    "price": 0.2280000000
   },
   "inf2.24xlarge": {
     "price": 6.4906300000
   },
   "inf2.48xlarge": {
-    "price": 16.1225900000
+    "price": 12.9812700000
   },
   "inf2.8xlarge": {
-    "price": 0E-10
+    "price": 1.9678600000
   },
   "inf2.xlarge": {
-    "price": 0.8158000000
+    "price": 0.7582000000
   },
   "is4gen.2xlarge": {
-    "price": 0E-10
+    "price": 1.1526000000
   },
   "is4gen.4xlarge": {
-    "price": 2.4302000000
+    "price": 2.3052000000
   },
   "is4gen.8xlarge": {
-    "price": 4.7354000000
+    "price": 4.6104000000
   },
   "is4gen.large": {
     "price": 0.2881500000
@@ -1434,460 +1425,460 @@
     "price": 0.1440800000
   },
   "is4gen.xlarge": {
-    "price": 0.5833000000
+    "price": 0.5763000000
   },
   "m1.large": {
-    "price": 1.0510000000
+    "price": 0.1750000000
   },
   "m1.medium": {
     "price": 0.0870000000
   },
   "m1.small": {
-    "price": 0E-10
+    "price": 0.0440000000
   },
   "m1.xlarge": {
-    "price": 0E-10
+    "price": 0.3500000000
   },
   "m2.2xlarge": {
-    "price": 0.6900000000
+    "price": 0.4900000000
   },
   "m2.4xlarge": {
-    "price": 1.1930000000
+    "price": 0.9800000000
   },
   "m2.xlarge": {
-    "price": 0.2700000000
+    "price": 0.2450000000
   },
   "m3.2xlarge": {
-    "price": 3.5360000000
+    "price": 0.5320000000
   },
   "m3.large": {
     "price": 0.1330000000
   },
   "m3.medium": {
-    "price": 0E-10
+    "price": 0.0670000000
   },
   "m3.xlarge": {
-    "price": 0E-10
+    "price": 0.2660000000
   },
   "m4.10xlarge": {
-    "price": 2.0700000000
+    "price": 2.0000000000
   },
   "m4.16xlarge": {
-    "price": 30.1440000000
+    "price": 3.2000000000
   },
   "m4.2xlarge": {
-    "price": 0E-10
+    "price": 0.4000000000
   },
   "m4.4xlarge": {
-    "price": 1.1968000000
+    "price": 0.8000000000
   },
   "m4.large": {
-    "price": 0.2020000000
+    "price": 0.1000000000
   },
   "m4.xlarge": {
-    "price": 0E-10
+    "price": 0.2000000000
   },
   "m5.12xlarge": {
-    "price": 0E-10
+    "price": 2.3040000000
   },
   "m5.16xlarge": {
-    "price": 0E-10
+    "price": 3.0720000000
   },
   "m5.24xlarge": {
-    "price": 10.6460000000
+    "price": 4.6080000000
   },
   "m5.2xlarge": {
-    "price": 1.6380000000
+    "price": 0.3840000000
   },
   "m5.4xlarge": {
-    "price": 1.0180000000
+    "price": 0.7680000000
   },
   "m5.8xlarge": {
-    "price": 2.1700000000
+    "price": 1.5360000000
   },
   "m5.large": {
-    "price": 0E-10
+    "price": 0.0960000000
   },
   "m5.xlarge": {
-    "price": 1.8760000000
+    "price": 0.1920000000
   },
   "m5a.12xlarge": {
-    "price": 3.2540000000
+    "price": 2.0640000000
   },
   "m5a.16xlarge": {
     "price": 2.7520000000
   },
   "m5a.24xlarge": {
-    "price": 42.5090000000
+    "price": 4.1280000000
   },
   "m5a.2xlarge": {
-    "price": 0E-10
+    "price": 0.3440000000
   },
   "m5a.4xlarge": {
-    "price": 3.3860000000
+    "price": 0.6880000000
   },
   "m5a.8xlarge": {
-    "price": 0E-10
+    "price": 1.3760000000
   },
   "m5a.large": {
-    "price": 0E-10
+    "price": 0.0860000000
   },
   "m5a.xlarge": {
-    "price": 0.7900000000
+    "price": 0.1720000000
   },
   "m5ad.12xlarge": {
-    "price": 20.4720000000
+    "price": 2.4720000000
   },
   "m5ad.16xlarge": {
-    "price": 10.9760000000
+    "price": 3.2960000000
   },
   "m5ad.24xlarge": {
-    "price": 41.2450000000
+    "price": 4.9440000000
   },
   "m5ad.2xlarge": {
-    "price": 3.5270000000
+    "price": 0.4120000000
   },
   "m5ad.4xlarge": {
-    "price": 0.8740000000
+    "price": 0.8240000000
   },
   "m5ad.8xlarge": {
-    "price": 1.8030000000
+    "price": 1.6480000000
   },
   "m5ad.large": {
-    "price": 0.6180000000
+    "price": 0.1030000000
   },
   "m5ad.xlarge": {
-    "price": 1.8340000000
+    "price": 0.2060000000
   },
   "m5d.12xlarge": {
-    "price": 0E-10
+    "price": 2.7120000000
   },
   "m5d.16xlarge": {
-    "price": 0E-10
+    "price": 3.6160000000
   },
   "m5d.24xlarge": {
-    "price": 11.4620000000
+    "price": 5.4240000000
   },
   "m5d.2xlarge": {
-    "price": 0.5520000000
+    "price": 0.4520000000
   },
   "m5d.4xlarge": {
-    "price": 7.6400000000
+    "price": 0.9040000000
   },
   "m5d.8xlarge": {
-    "price": 0E-10
+    "price": 1.8080000000
   },
   "m5d.large": {
-    "price": 0E-10
+    "price": 0.1130000000
   },
   "m5d.xlarge": {
-    "price": 0E-10
+    "price": 0.2260000000
   },
   "m5dn.12xlarge": {
-    "price": 4.6500000000
+    "price": 3.2640000000
   },
   "m5dn.16xlarge": {
-    "price": 0E-10
+    "price": 4.3520000000
   },
   "m5dn.24xlarge": {
-    "price": 42.5280000000
+    "price": 6.5280000000
   },
   "m5dn.2xlarge": {
-    "price": 0E-10
+    "price": 0.5440000000
   },
   "m5dn.4xlarge": {
-    "price": 7.4850000000
+    "price": 1.0880000000
   },
   "m5dn.8xlarge": {
-    "price": 2.9700000000
+    "price": 2.1760000000
   },
   "m5dn.large": {
-    "price": 0.1650000000
+    "price": 0.1360000000
   },
   "m5dn.xlarge": {
-    "price": 0.3300000000
+    "price": 0.2720000000
   },
   "m5n.12xlarge": {
-    "price": 0E-10
+    "price": 2.8560000000
   },
   "m5n.16xlarge": {
-    "price": 0E-10
+    "price": 3.8080000000
   },
   "m5n.24xlarge": {
-    "price": 19.6130000000
+    "price": 5.7120000000
   },
   "m5n.2xlarge": {
-    "price": 3.6200000000
+    "price": 0.4760000000
   },
   "m5n.4xlarge": {
-    "price": 0E-10
+    "price": 0.9520000000
   },
   "m5n.8xlarge": {
-    "price": 2.6980000000
+    "price": 1.9040000000
   },
   "m5n.large": {
-    "price": 0E-10
+    "price": 0.1190000000
   },
   "m5n.xlarge": {
-    "price": 0.2590000000
+    "price": 0.2380000000
   },
   "m5zn.12xlarge": {
-    "price": 4.0481000000
+    "price": 3.9641000000
   },
   "m5zn.2xlarge": {
-    "price": 0E-10
+    "price": 0.6607000000
   },
   "m5zn.3xlarge": {
-    "price": 1.6421000000
+    "price": 0.9910000000
   },
   "m5zn.6xlarge": {
-    "price": 5.9660000000
+    "price": 1.9820000000
   },
   "m5zn.large": {
-    "price": 0E-10
+    "price": 0.1652000000
   },
   "m5zn.xlarge": {
-    "price": 0E-10
+    "price": 0.3303000000
   },
   "m6a.12xlarge": {
-    "price": 0E-10
+    "price": 2.0736000000
   },
   "m6a.16xlarge": {
-    "price": 3.1532800000
+    "price": 2.7648000000
   },
   "m6a.24xlarge": {
-    "price": 15.6672000000
+    "price": 4.1472000000
   },
   "m6a.2xlarge": {
-    "price": 0.8488000000
+    "price": 0.3456000000
   },
   "m6a.32xlarge": {
-    "price": 0E-10
+    "price": 5.5296000000
   },
   "m6a.48xlarge": {
-    "price": 35.1936000000
+    "price": 8.2944000000
   },
   "m6a.4xlarge": {
-    "price": 0E-10
+    "price": 0.6912000000
   },
   "m6a.8xlarge": {
-    "price": 1.6456400000
+    "price": 1.3824000000
   },
   "m6a.large": {
     "price": 0.0864000000
   },
   "m6a.xlarge": {
-    "price": 0.8368000000
+    "price": 0.1728000000
   },
   "m6g.12xlarge": {
-    "price": 0E-10
+    "price": 1.8480000000
   },
   "m6g.16xlarge": {
     "price": 2.4640000000
   },
   "m6g.2xlarge": {
-    "price": 0.4416000000
+    "price": 0.3080000000
   },
   "m6g.4xlarge": {
-    "price": 0.6440000000
+    "price": 0.6160000000
   },
   "m6g.8xlarge": {
     "price": 1.2320000000
   },
   "m6g.large": {
-    "price": 0.0816000000
+    "price": 0.0770000000
   },
   "m6g.medium": {
-    "price": 0E-10
+    "price": 0.0385000000
   },
   "m6g.xlarge": {
     "price": 0.1540000000
   },
   "m6gd.12xlarge": {
-    "price": 0E-10
+    "price": 2.1696000000
   },
   "m6gd.16xlarge": {
     "price": 2.8928000000
   },
   "m6gd.2xlarge": {
-    "price": 0E-10
+    "price": 0.3616000000
   },
   "m6gd.4xlarge": {
-    "price": 0E-10
+    "price": 0.7232000000
   },
   "m6gd.8xlarge": {
-    "price": 1.7920000000
+    "price": 1.4464000000
   },
   "m6gd.large": {
-    "price": 0.1521000000
+    "price": 0.0904000000
   },
   "m6gd.medium": {
-    "price": 0.0771000000
+    "price": 0.0452000000
   },
   "m6gd.xlarge": {
-    "price": 0.2371000000
+    "price": 0.1808000000
   },
   "m6i.12xlarge": {
-    "price": 3.3456000000
+    "price": 2.3040000000
   },
   "m6i.16xlarge": {
-    "price": 0E-10
+    "price": 3.0720000000
   },
   "m6i.24xlarge": {
-    "price": 5.1938000000
+    "price": 4.6080000000
   },
   "m6i.2xlarge": {
-    "price": 0E-10
+    "price": 0.3840000000
   },
   "m6i.32xlarge": {
-    "price": 7.3728000000
+    "price": 6.1440000000
   },
   "m6i.4xlarge": {
-    "price": 0E-10
+    "price": 0.7680000000
   },
   "m6i.8xlarge": {
-    "price": 2.4224000000
+    "price": 1.5360000000
   },
   "m6i.large": {
-    "price": 0E-10
+    "price": 0.0960000000
   },
   "m6i.xlarge": {
-    "price": 0.3388000000
+    "price": 0.1920000000
   },
   "m6id.12xlarge": {
     "price": 2.8476000000
   },
   "m6id.16xlarge": {
-    "price": 27.7968000000
+    "price": 3.7968000000
   },
   "m6id.24xlarge": {
     "price": 5.6952000000
   },
   "m6id.2xlarge": {
-    "price": 0.7250000000
+    "price": 0.4746000000
   },
   "m6id.32xlarge": {
-    "price": 13.4816000000
+    "price": 7.5936000000
   },
   "m6id.4xlarge": {
-    "price": 0E-10
+    "price": 0.9492000000
   },
   "m6id.8xlarge": {
-    "price": 0E-10
+    "price": 1.8984000000
   },
   "m6id.large": {
-    "price": 0.6274500000
+    "price": 0.1186500000
   },
   "m6id.xlarge": {
-    "price": 0E-10
+    "price": 0.2373000000
   },
   "m6idn.12xlarge": {
-    "price": 0E-10
+    "price": 3.8188800000
   },
   "m6idn.16xlarge": {
-    "price": 9.1174400000
+    "price": 5.0918400000
   },
   "m6idn.24xlarge": {
-    "price": 24.3375400000
+    "price": 7.6377600000
   },
   "m6idn.2xlarge": {
-    "price": 1.0681300000
+    "price": 0.6364800000
   },
   "m6idn.32xlarge": {
-    "price": 10.4076800000
+    "price": 10.1836800000
   },
   "m6idn.4xlarge": {
-    "price": 1.6697600000
+    "price": 1.2729600000
   },
   "m6idn.8xlarge": {
-    "price": 15.1461100000
+    "price": 2.5459200000
   },
   "m6idn.large": {
-    "price": 0E-10
+    "price": 0.1591200000
   },
   "m6idn.xlarge": {
-    "price": 0E-10
+    "price": 0.3182400000
   },
   "m6in.12xlarge": {
-    "price": 10.6260700000
+    "price": 3.3415200000
   },
   "m6in.16xlarge": {
-    "price": 6.4881000000
+    "price": 4.4553600000
   },
   "m6in.24xlarge": {
-    "price": 0E-10
+    "price": 6.6830400000
   },
   "m6in.2xlarge": {
-    "price": 0.7478100000
+    "price": 0.5569200000
   },
   "m6in.32xlarge": {
-    "price": 30.1587200000
+    "price": 8.9107200000
   },
   "m6in.4xlarge": {
-    "price": 7.5106400000
+    "price": 1.1138400000
   },
   "m6in.8xlarge": {
-    "price": 6.0676800000
+    "price": 2.2276800000
   },
   "m6in.large": {
-    "price": 0E-10
+    "price": 0.1392300000
   },
   "m6in.xlarge": {
-    "price": 0.9424600000
+    "price": 0.2784600000
   },
   "m7a.12xlarge": {
-    "price": 20.7820800000
+    "price": 2.7820800000
   },
   "m7a.16xlarge": {
     "price": 3.7094400000
   },
   "m7a.24xlarge": {
-    "price": 18.1209600000
+    "price": 5.5641600000
   },
   "m7a.2xlarge": {
-    "price": 1.7252500000
+    "price": 0.4636800000
   },
   "m7a.32xlarge": {
-    "price": 62.0487700000
+    "price": 7.4188800000
   },
   "m7a.48xlarge": {
-    "price": 14.9875200000
+    "price": 11.1283200000
   },
   "m7a.4xlarge": {
-    "price": 1.3241600000
+    "price": 0.9273600000
   },
   "m7a.8xlarge": {
-    "price": 13.8547200000
+    "price": 1.8547200000
   },
   "m7a.large": {
-    "price": 0.1447200000
+    "price": 0.1159200000
   },
   "m7a.medium": {
-    "price": 0E-10
+    "price": 0.0579600000
   },
   "m7a.xlarge": {
-    "price": 1.7894400000
+    "price": 0.2318400000
   },
   "m7g.12xlarge": {
-    "price": 2.0818000000
+    "price": 1.9584000000
   },
   "m7g.16xlarge": {
-    "price": 2.7362000000
+    "price": 2.6112000000
   },
   "m7g.2xlarge": {
-    "price": 0E-10
+    "price": 0.3264000000
   },
   "m7g.4xlarge": {
-    "price": 0E-10
+    "price": 0.6528000000
   },
   "m7g.8xlarge": {
-    "price": 1.3616000000
+    "price": 1.3056000000
   },
   "m7g.large": {
-    "price": 0.0867000000
+    "price": 0.0816000000
   },
   "m7g.medium": {
-    "price": 0.0434000000
+    "price": 0.0408000000
   },
   "m7g.xlarge": {
     "price": 0.1632000000
@@ -1896,271 +1887,271 @@
     "price": 2.5628000000
   },
   "m7gd.16xlarge": {
-    "price": 0E-10
+    "price": 3.4171000000
   },
   "m7gd.2xlarge": {
-    "price": 0.5521000000
+    "price": 0.4271000000
   },
   "m7gd.4xlarge": {
-    "price": 1.2511000000
+    "price": 0.8543000000
   },
   "m7gd.8xlarge": {
-    "price": 1.8111000000
+    "price": 1.7086000000
   },
   "m7gd.large": {
-    "price": 0.1132000000
+    "price": 0.1068000000
   },
   "m7gd.medium": {
-    "price": 0E-10
+    "price": 0.0534000000
   },
   "m7gd.xlarge": {
-    "price": 0.2827000000
+    "price": 0.2136000000
   },
   "m7i-flex.12xlarge": {
-    "price": 0E-10
+    "price": 2.2982400000
   },
   "m7i-flex.16xlarge": {
-    "price": 0E-10
+    "price": 3.0643200000
   },
   "m7i-flex.2xlarge": {
-    "price": 0E-10
+    "price": 0.3830400000
   },
   "m7i-flex.4xlarge": {
-    "price": 3.3852800000
+    "price": 0.7660800000
   },
   "m7i-flex.8xlarge": {
-    "price": 6.1657600000
+    "price": 1.5321600000
   },
   "m7i-flex.large": {
-    "price": 0.0992600000
+    "price": 0.0957600000
   },
   "m7i-flex.xlarge": {
-    "price": 0E-10
+    "price": 0.1915200000
   },
   "m7i.12xlarge": {
-    "price": 0E-10
+    "price": 2.4192000000
   },
   "m7i.16xlarge": {
-    "price": 7.2512000000
+    "price": 3.2256000000
   },
   "m7i.24xlarge": {
-    "price": 0E-10
+    "price": 4.8384000000
   },
   "m7i.2xlarge": {
-    "price": 0.5184000000
+    "price": 0.4032000000
   },
   "m7i.48xlarge": {
-    "price": 14.7648000000
+    "price": 9.6768000000
   },
   "m7i.4xlarge": {
     "price": 0.8064000000
   },
   "m7i.8xlarge": {
-    "price": 5.6140800000
+    "price": 1.6128000000
   },
   "m7i.large": {
-    "price": 0E-10
+    "price": 0.1008000000
   },
   "m7i.xlarge": {
     "price": 0.2016000000
   },
   "m8a.12xlarge": {
-    "price": 3.2134100000
+    "price": 2.9212800000
   },
   "m8a.16xlarge": {
-    "price": 0E-10
+    "price": 3.8950400000
   },
   "m8a.24xlarge": {
-    "price": 6.4268200000
+    "price": 5.8425600000
   },
   "m8a.2xlarge": {
-    "price": 3.6020800000
+    "price": 0.4868800000
   },
   "m8a.48xlarge": {
-    "price": 0E-10
+    "price": 11.6851200000
   },
   "m8a.4xlarge": {
-    "price": 3.1639400000
+    "price": 0.9737600000
   },
   "m8a.8xlarge": {
-    "price": 0E-10
+    "price": 1.9475200000
   },
   "m8a.large": {
-    "price": 0E-10
+    "price": 0.1217200000
   },
   "m8a.medium": {
-    "price": 0E-10
+    "price": 0.0608600000
   },
   "m8a.xlarge": {
-    "price": 0.3686400000
+    "price": 0.2434400000
   },
   "m8azn.12xlarge": {
-    "price": 25.6585400000
+    "price": 4.9550400000
   },
   "m8azn.24xlarge": {
-    "price": 11.9378900000
+    "price": 9.9100800000
   },
   "m8azn.3xlarge": {
-    "price": 0E-10
+    "price": 1.2387600000
   },
   "m8azn.6xlarge": {
-    "price": 2.7672700000
+    "price": 2.4775200000
   },
   "m8azn.large": {
-    "price": 0E-10
+    "price": 0.2064600000
   },
   "m8azn.medium": {
-    "price": 0.1153000000
+    "price": 0.1032300000
   },
   "m8azn.xlarge": {
-    "price": 0E-10
+    "price": 0.4129200000
   },
   "m8g.12xlarge": {
-    "price": 2.2792400000
+    "price": 2.1542400000
   },
   "m8g.16xlarge": {
-    "price": 3.2715500000
+    "price": 2.8723200000
   },
   "m8g.24xlarge": {
-    "price": 4.7393300000
+    "price": 4.3084800000
   },
   "m8g.2xlarge": {
-    "price": 0.3730400000
+    "price": 0.3590400000
   },
   "m8g.48xlarge": {
     "price": 8.6169600000
   },
   "m8g.4xlarge": {
-    "price": 1.1148800000
+    "price": 0.7180800000
   },
   "m8g.8xlarge": {
-    "price": 0E-10
+    "price": 1.4361600000
   },
   "m8g.large": {
     "price": 0.0897600000
   },
   "m8g.medium": {
-    "price": 0E-10
+    "price": 0.0448800000
   },
   "m8g.xlarge": {
-    "price": 0.2371200000
+    "price": 0.1795200000
   },
   "m8gb.12xlarge": {
-    "price": 3.5760000000
+    "price": 3.4920000000
   },
   "m8gb.16xlarge": {
-    "price": 0E-10
+    "price": 4.6560000000
   },
   "m8gb.24xlarge": {
-    "price": 7.5710400000
+    "price": 6.9840000000
   },
   "m8gb.2xlarge": {
-    "price": 0.7321200000
+    "price": 0.5820000000
   },
   "m8gb.48xlarge": {
-    "price": 0E-10
+    "price": 13.9680000000
   },
   "m8gb.4xlarge": {
-    "price": 1.3368000000
+    "price": 1.1640000000
   },
   "m8gb.8xlarge": {
-    "price": 0E-10
+    "price": 2.3280000000
   },
   "m8gb.large": {
-    "price": 0E-10
+    "price": 0.1455000000
   },
   "m8gb.medium": {
-    "price": 0.0915200000
+    "price": 0.0727500000
   },
   "m8gb.xlarge": {
-    "price": 0.3154600000
+    "price": 0.2910000000
   },
   "m8gd.12xlarge": {
-    "price": 4.2348500000
+    "price": 2.7676800000
   },
   "m8gd.16xlarge": {
-    "price": 4.1712600000
+    "price": 3.6902400000
   },
   "m8gd.24xlarge": {
-    "price": 0E-10
+    "price": 5.5353600000
   },
   "m8gd.2xlarge": {
-    "price": 0E-10
+    "price": 0.4612800000
   },
   "m8gd.48xlarge": {
-    "price": 12.9139200000
+    "price": 11.0707200000
   },
   "m8gd.4xlarge": {
-    "price": 0E-10
+    "price": 0.9225600000
   },
   "m8gd.8xlarge": {
-    "price": 1.9011200000
+    "price": 1.8451200000
   },
   "m8gd.large": {
-    "price": 0.1303500000
+    "price": 0.1153200000
   },
   "m8gd.medium": {
-    "price": 0.1197300000
+    "price": 0.0576600000
   },
   "m8gd.xlarge": {
-    "price": 0E-10
+    "price": 0.2306400000
   },
   "m8gn.12xlarge": {
-    "price": 0E-10
+    "price": 3.4920000000
   },
   "m8gn.16xlarge": {
-    "price": 4.9354000000
+    "price": 4.6560000000
   },
   "m8gn.24xlarge": {
-    "price": 8.0208000000
+    "price": 6.9840000000
   },
   "m8gn.2xlarge": {
-    "price": 0E-10
+    "price": 0.5820000000
   },
   "m8gn.48xlarge": {
-    "price": 14.3040000000
+    "price": 13.9680000000
   },
   "m8gn.4xlarge": {
-    "price": 1.2890000000
+    "price": 1.1640000000
   },
   "m8gn.8xlarge": {
-    "price": 2.6736000000
+    "price": 2.3280000000
   },
   "m8gn.large": {
-    "price": 0.2180000000
+    "price": 0.1455000000
   },
   "m8gn.medium": {
-    "price": 0.1047000000
+    "price": 0.0728000000
   },
   "m8gn.xlarge": {
-    "price": 0.3486000000
+    "price": 0.2910000000
   },
   "m8i-flex.12xlarge": {
-    "price": 8.6916000000
+    "price": 2.4132000000
   },
   "m8i-flex.16xlarge": {
-    "price": 27.2176000000
+    "price": 3.2176000000
   },
   "m8i-flex.2xlarge": {
-    "price": 0E-10
+    "price": 0.4022000000
   },
   "m8i-flex.4xlarge": {
     "price": 0.8044000000
   },
   "m8i-flex.8xlarge": {
-    "price": 0E-10
+    "price": 1.6088000000
   },
   "m8i-flex.large": {
     "price": 0.1005500000
   },
   "m8i-flex.xlarge": {
-    "price": 0E-10
+    "price": 0.2011000000
   },
   "m8i.12xlarge": {
-    "price": 9.4905600000
+    "price": 2.5401600000
   },
   "m8i.16xlarge": {
-    "price": 0E-10
+    "price": 3.3868800000
   },
   "m8i.24xlarge": {
     "price": 5.0803200000
@@ -2169,712 +2160,712 @@
     "price": 0.4233600000
   },
   "m8i.32xlarge": {
-    "price": 57.3465600000
+    "price": 6.7737600000
   },
   "m8i.48xlarge": {
-    "price": 10.2856400000
+    "price": 10.1606400000
   },
   "m8i.4xlarge": {
-    "price": 0E-10
+    "price": 0.8467200000
   },
   "m8i.8xlarge": {
-    "price": 1.8627800000
+    "price": 1.6934400000
   },
   "m8i.96xlarge": {
-    "price": 0E-10
+    "price": 20.3212800000
   },
   "m8i.large": {
-    "price": 1.7084200000
+    "price": 0.1058400000
   },
   "m8i.xlarge": {
-    "price": 0.7128500000
+    "price": 0.2116800000
   },
   "m8ib.12xlarge": {
     "price": 4.0099200000
   },
   "m8ib.16xlarge": {
-    "price": 15.1484200000
+    "price": 5.3465600000
   },
   "m8ib.24xlarge": {
-    "price": 49.2378200000
+    "price": 8.0198400000
   },
   "m8ib.2xlarge": {
-    "price": 0E-10
+    "price": 0.6683200000
   },
   "m8ib.32xlarge": {
-    "price": 0E-10
+    "price": 10.6931200000
   },
   "m8ib.48xlarge": {
-    "price": 40.6836500000
+    "price": 16.0396800000
   },
   "m8ib.4xlarge": {
-    "price": 1.7407000000
+    "price": 1.3366400000
   },
   "m8ib.8xlarge": {
-    "price": 0E-10
+    "price": 2.6732800000
   },
   "m8ib.96xlarge": {
     "price": 32.0793600000
   },
   "m8ib.large": {
-    "price": 0.1837900000
+    "price": 0.1670800000
   },
   "m8ib.xlarge": {
     "price": 0.3341600000
   },
   "m8id.12xlarge": {
-    "price": 10.0828800000
+    "price": 3.1324800000
   },
   "m8id.16xlarge": {
-    "price": 0E-10
+    "price": 4.1766400000
   },
   "m8id.24xlarge": {
-    "price": 4.4160000000
+    "price": 6.2649600000
   },
   "m8id.2xlarge": {
-    "price": 1.6494900000
+    "price": 0.5220800000
   },
   "m8id.32xlarge": {
-    "price": 62.2412800000
+    "price": 8.3532800000
   },
   "m8id.48xlarge": {
-    "price": 0E-10
+    "price": 12.5299200000
   },
   "m8id.4xlarge": {
-    "price": 0E-10
+    "price": 1.0441600000
   },
   "m8id.8xlarge": {
-    "price": 2.4339200000
+    "price": 2.0883200000
   },
   "m8id.96xlarge": {
-    "price": 32.7782400000
+    "price": 25.0598400000
   },
   "m8id.large": {
-    "price": 0.2073700000
+    "price": 0.1305200000
   },
   "m8id.xlarge": {
-    "price": 0E-10
+    "price": 0.2610400000
   },
   "m8idb.12xlarge": {
-    "price": 0E-10
+    "price": 4.5825600000
   },
   "m8idb.16xlarge": {
-    "price": 33.0540800000
+    "price": 6.1100800000
   },
   "m8idb.24xlarge": {
-    "price": 0E-10
+    "price": 9.1651200000
   },
   "m8idb.2xlarge": {
-    "price": 0E-10
+    "price": 0.7637600000
   },
   "m8idb.32xlarge": {
-    "price": 34.6901800000
+    "price": 12.2201600000
   },
   "m8idb.48xlarge": {
-    "price": 0E-10
+    "price": 18.3302400000
   },
   "m8idb.4xlarge": {
-    "price": 0E-10
+    "price": 1.5275200000
   },
   "m8idb.8xlarge": {
-    "price": 3.9013400000
+    "price": 3.0550400000
   },
   "m8idb.96xlarge": {
-    "price": 0E-10
+    "price": 36.6604800000
   },
   "m8idb.large": {
-    "price": 0E-10
+    "price": 0.1909400000
   },
   "m8idb.xlarge": {
-    "price": 0.9000700000
+    "price": 0.3818800000
   },
   "m8idn.12xlarge": {
-    "price": 10.8609600000
+    "price": 4.5825600000
   },
   "m8idn.16xlarge": {
-    "price": 0E-10
+    "price": 6.1100800000
   },
   "m8idn.24xlarge": {
-    "price": 10.2496300000
+    "price": 9.1651200000
   },
   "m8idn.2xlarge": {
-    "price": 0.8989600000
+    "price": 0.7637600000
   },
   "m8idn.32xlarge": {
     "price": 12.2201600000
   },
   "m8idn.48xlarge": {
-    "price": 0E-10
+    "price": 18.3302400000
   },
   "m8idn.4xlarge": {
-    "price": 7.9243200000
+    "price": 1.5275200000
   },
   "m8idn.8xlarge": {
-    "price": 15.4006400000
+    "price": 3.0550400000
   },
   "m8idn.96xlarge": {
-    "price": 0E-10
+    "price": 36.6604800000
   },
   "m8idn.large": {
-    "price": 0E-10
+    "price": 0.1909400000
   },
   "m8idn.xlarge": {
-    "price": 0.6040700000
+    "price": 0.3818800000
   },
   "m8in.12xlarge": {
-    "price": 6.6189100000
+    "price": 4.0099200000
   },
   "m8in.16xlarge": {
-    "price": 0E-10
+    "price": 5.3465600000
   },
   "m8in.24xlarge": {
-    "price": 21.3786200000
+    "price": 8.0198400000
   },
   "m8in.2xlarge": {
-    "price": 0E-10
+    "price": 0.6683200000
   },
   "m8in.32xlarge": {
-    "price": 0E-10
+    "price": 10.6931200000
   },
   "m8in.48xlarge": {
-    "price": 0E-10
+    "price": 16.0396800000
   },
   "m8in.4xlarge": {
-    "price": 7.7334400000
+    "price": 1.3366400000
   },
   "m8in.8xlarge": {
-    "price": 14.6732800000
+    "price": 2.6732800000
   },
   "m8in.96xlarge": {
-    "price": 81.8457600000
+    "price": 32.0793600000
   },
   "m8in.large": {
-    "price": 0.6758800000
+    "price": 0.1670800000
   },
   "m8in.xlarge": {
-    "price": 1.9251800000
+    "price": 0.3341600000
   },
   "m8ine.12xlarge": {
-    "price": 24.2028000000
+    "price": 5.0124000000
   },
   "m8ine.2xlarge": {
-    "price": 0.9706000000
+    "price": 0.8354000000
   },
   "m8ine.4xlarge": {
-    "price": 2.4068000000
+    "price": 1.6708000000
   },
   "m8ine.8xlarge": {
-    "price": 16.8136000000
+    "price": 3.3416000000
   },
   "m8ine.large": {
-    "price": 0.2376500000
+    "price": 0.2088500000
   },
   "m8ine.xlarge": {
-    "price": 0E-10
+    "price": 0.4177000000
   },
   "m9g.12xlarge": {
-    "price": 0E-10
+    "price": 2.3481600000
   },
   "m9g.16xlarge": {
-    "price": 3.2558800000
+    "price": 3.1308800000
   },
   "m9g.24xlarge": {
-    "price": 5.3339500000
+    "price": 4.6963200000
   },
   "m9g.2xlarge": {
-    "price": 0.5163600000
+    "price": 0.3913600000
   },
   "m9g.48xlarge": {
-    "price": 10.4569000000
+    "price": 9.3926400000
   },
   "m9g.4xlarge": {
-    "price": 0E-10
+    "price": 0.7827200000
   },
   "m9g.8xlarge": {
-    "price": 1.8469800000
+    "price": 1.5654400000
   },
   "m9g.large": {
-    "price": 0.1541400000
+    "price": 0.0978400000
   },
   "m9g.medium": {
-    "price": 0.0633200000
+    "price": 0.0489200000
   },
   "m9g.xlarge": {
-    "price": 0.2152500000
+    "price": 0.1956800000
   },
   "m9gd.12xlarge": {
-    "price": 0E-10
+    "price": 3.0168000000
   },
   "m9gd.16xlarge": {
-    "price": 4.4246400000
+    "price": 4.0224000000
   },
   "m9gd.24xlarge": {
-    "price": 9.0177600000
+    "price": 6.0336000000
   },
   "m9gd.2xlarge": {
-    "price": 0E-10
+    "price": 0.5028000000
   },
   "m9gd.48xlarge": {
-    "price": 0E-10
+    "price": 12.0672000000
   },
   "m9gd.4xlarge": {
-    "price": 0E-10
+    "price": 1.0056000000
   },
   "m9gd.8xlarge": {
-    "price": 2.3373200000
+    "price": 2.0112000000
   },
   "m9gd.large": {
-    "price": 0.1670700000
+    "price": 0.1257000000
   },
   "m9gd.medium": {
-    "price": 0.0835400000
+    "price": 0.0628500000
   },
   "m9gd.xlarge": {
-    "price": 0E-10
+    "price": 0.2514000000
   },
   "p2.16xlarge": {
     "price": 14.4000000000
   },
   "p2.8xlarge": {
-    "price": 0E-10
+    "price": 7.2000000000
   },
   "p2.xlarge": {
-    "price": 0.9970000000
+    "price": 0.9000000000
   },
   "p3.16xlarge": {
-    "price": 0E-10
+    "price": 24.4800000000
   },
   "p3.2xlarge": {
-    "price": 3.2590000000
+    "price": 3.0600000000
   },
   "p3.8xlarge": {
-    "price": 0E-10
+    "price": 12.2400000000
   },
   "p3dn.24xlarge": {
-    "price": 35.6280000000
+    "price": 31.2120000000
   },
   "p4d.24xlarge": {
-    "price": 24.1534062000
+    "price": 21.9576420000
   },
   "p4de.24xlarge": {
-    "price": 0E-10
+    "price": 27.4470500000
   },
   "p5.48xlarge": {
     "price": 55.0400000000
   },
   "p5.4xlarge": {
-    "price": 0E-10
+    "price": 6.8800000000
   },
   "p5en.48xlarge": {
-    "price": 0E-10
+    "price": 63.2960000000
   },
   "p6-b200.48xlarge": {
-    "price": 0E-10
+    "price": 113.9328000000
   },
   "p6-b300.48xlarge": {
-    "price": 151.2969600000
+    "price": 142.4160000000
   },
   "r3.2xlarge": {
-    "price": 1.6240000000
+    "price": 0.6650000000
   },
   "r3.4xlarge": {
-    "price": 5.0440000000
+    "price": 1.3300000000
   },
   "r3.8xlarge": {
-    "price": 3.1970000000
+    "price": 2.6600000000
   },
   "r3.large": {
-    "price": 0E-10
+    "price": 0.1660000000
   },
   "r3.xlarge": {
-    "price": 0E-10
+    "price": 0.3330000000
   },
   "r4.16xlarge": {
-    "price": 5.8432000000
+    "price": 4.2560000000
   },
   "r4.2xlarge": {
-    "price": 0E-10
+    "price": 0.5320000000
   },
   "r4.4xlarge": {
-    "price": 0E-10
+    "price": 1.0640000000
   },
   "r4.8xlarge": {
-    "price": 0E-10
+    "price": 2.1280000000
   },
   "r4.large": {
-    "price": 0.1751000000
+    "price": 0.1330000000
   },
   "r4.xlarge": {
-    "price": 0E-10
+    "price": 0.2660000000
   },
   "r5.12xlarge": {
     "price": 3.0240000000
   },
   "r5.16xlarge": {
-    "price": 0E-10
+    "price": 4.0320000000
   },
   "r5.24xlarge": {
-    "price": 6.1730000000
+    "price": 6.0480000000
   },
   "r5.2xlarge": {
     "price": 0.5040000000
   },
   "r5.4xlarge": {
-    "price": 0E-10
+    "price": 1.0080000000
   },
   "r5.8xlarge": {
-    "price": 0E-10
+    "price": 2.0160000000
   },
   "r5.large": {
     "price": 0.1260000000
   },
   "r5.xlarge": {
-    "price": 0E-10
+    "price": 0.2520000000
   },
   "r5a.12xlarge": {
-    "price": 2.8750000000
+    "price": 2.7120000000
   },
   "r5a.16xlarge": {
-    "price": 5.2030000000
+    "price": 3.6160000000
   },
   "r5a.24xlarge": {
-    "price": 6.4610000000
+    "price": 5.4240000000
   },
   "r5a.2xlarge": {
-    "price": 1.4390000000
+    "price": 0.4520000000
   },
   "r5a.4xlarge": {
-    "price": 1.1740000000
+    "price": 0.9040000000
   },
   "r5a.8xlarge": {
-    "price": 1.9720000000
+    "price": 1.8080000000
   },
   "r5a.large": {
-    "price": 0.2050000000
+    "price": 0.1130000000
   },
   "r5a.xlarge": {
-    "price": 0.4240000000
+    "price": 0.2260000000
   },
   "r5ad.12xlarge": {
-    "price": 3.4580000000
+    "price": 3.1440000000
   },
   "r5ad.16xlarge": {
-    "price": 13.7110000000
+    "price": 4.1920000000
   },
   "r5ad.24xlarge": {
-    "price": 18.8450000000
+    "price": 6.2880000000
   },
   "r5ad.2xlarge": {
-    "price": 0.6800000000
+    "price": 0.5240000000
   },
   "r5ad.4xlarge": {
-    "price": 0E-10
+    "price": 1.0480000000
   },
   "r5ad.8xlarge": {
-    "price": 0E-10
+    "price": 2.0960000000
   },
   "r5ad.large": {
-    "price": 0E-10
+    "price": 0.1310000000
   },
   "r5ad.xlarge": {
-    "price": 1.9460000000
+    "price": 0.2620000000
   },
   "r5b.12xlarge": {
     "price": 3.5760000000
   },
   "r5b.16xlarge": {
-    "price": 0E-10
+    "price": 4.7680000000
   },
   "r5b.24xlarge": {
     "price": 7.1520000000
   },
   "r5b.2xlarge": {
-    "price": 0E-10
+    "price": 0.5960000000
   },
   "r5b.4xlarge": {
-    "price": 0E-10
+    "price": 1.1920000000
   },
   "r5b.8xlarge": {
-    "price": 4.6352000000
+    "price": 2.3840000000
   },
   "r5b.large": {
-    "price": 0E-10
+    "price": 0.1490000000
   },
   "r5b.xlarge": {
-    "price": 0E-10
+    "price": 0.2980000000
   },
   "r5d.12xlarge": {
-    "price": 4.4750000000
+    "price": 3.4560000000
   },
   "r5d.16xlarge": {
     "price": 4.6080000000
   },
   "r5d.24xlarge": {
-    "price": 0E-10
+    "price": 6.9120000000
   },
   "r5d.2xlarge": {
-    "price": 0E-10
+    "price": 0.5760000000
   },
   "r5d.4xlarge": {
-    "price": 0E-10
+    "price": 1.1520000000
   },
   "r5d.8xlarge": {
-    "price": 3.2360000000
+    "price": 2.3040000000
   },
   "r5d.large": {
-    "price": 0E-10
+    "price": 0.1440000000
   },
   "r5d.xlarge": {
-    "price": 0.3630000000
+    "price": 0.2880000000
   },
   "r5dn.12xlarge": {
-    "price": 4.3324800000
+    "price": 4.0080000000
   },
   "r5dn.16xlarge": {
-    "price": 14.9318400000
+    "price": 5.3440000000
   },
   "r5dn.24xlarge": {
-    "price": 8.1840000000
+    "price": 8.0160000000
   },
   "r5dn.2xlarge": {
     "price": 0.6680000000
   },
   "r5dn.4xlarge": {
-    "price": 8.1520000000
+    "price": 1.3360000000
   },
   "r5dn.8xlarge": {
-    "price": 0E-10
+    "price": 2.6720000000
   },
   "r5dn.large": {
-    "price": 0.6758000000
+    "price": 0.1670000000
   },
   "r5dn.xlarge": {
-    "price": 1.9116400000
+    "price": 0.3340000000
   },
   "r5n.12xlarge": {
-    "price": 0E-10
+    "price": 3.5760000000
   },
   "r5n.16xlarge": {
-    "price": 0E-10
+    "price": 4.7680000000
   },
   "r5n.24xlarge": {
-    "price": 0E-10
+    "price": 7.1520000000
   },
   "r5n.2xlarge": {
-    "price": 0E-10
+    "price": 0.5960000000
   },
   "r5n.4xlarge": {
-    "price": 1.2640000000
+    "price": 1.1920000000
   },
   "r5n.8xlarge": {
-    "price": 3.0680000000
+    "price": 2.3840000000
   },
   "r5n.large": {
-    "price": 0.2050000000
+    "price": 0.1490000000
   },
   "r5n.xlarge": {
-    "price": 0.4820000000
+    "price": 0.2980000000
   },
   "r6a.12xlarge": {
-    "price": 2.2080000000
+    "price": 2.7216000000
   },
   "r6a.16xlarge": {
-    "price": 6.9356800000
+    "price": 3.6288000000
   },
   "r6a.24xlarge": {
-    "price": 0E-10
+    "price": 5.4432000000
   },
   "r6a.2xlarge": {
-    "price": 0E-10
+    "price": 0.4536000000
   },
   "r6a.32xlarge": {
-    "price": 0E-10
+    "price": 7.2576000000
   },
   "r6a.48xlarge": {
-    "price": 35.7696000000
+    "price": 10.8864000000
   },
   "r6a.4xlarge": {
-    "price": 0E-10
+    "price": 0.9072000000
   },
   "r6a.8xlarge": {
-    "price": 3.2864000000
+    "price": 1.8144000000
   },
   "r6a.large": {
-    "price": 0E-10
+    "price": 0.1134000000
   },
   "r6a.xlarge": {
-    "price": 0.7644000000
+    "price": 0.2268000000
   },
   "r6g.12xlarge": {
-    "price": 2.5442000000
+    "price": 2.4192000000
   },
   "r6g.16xlarge": {
-    "price": 0E-10
+    "price": 3.2256000000
   },
   "r6g.2xlarge": {
-    "price": 0.4274000000
+    "price": 0.4032000000
   },
   "r6g.4xlarge": {
     "price": 0.8064000000
   },
   "r6g.8xlarge": {
-    "price": 2.4064000000
+    "price": 1.6128000000
   },
   "r6g.large": {
-    "price": 0E-10
+    "price": 0.1008000000
   },
   "r6g.medium": {
-    "price": 0.0844000000
+    "price": 0.0504000000
   },
   "r6g.xlarge": {
-    "price": 0E-10
+    "price": 0.2016000000
   },
   "r6gd.12xlarge": {
-    "price": 3.9552000000
+    "price": 2.7648000000
   },
   "r6gd.16xlarge": {
-    "price": 3.7984000000
+    "price": 3.6864000000
   },
   "r6gd.2xlarge": {
-    "price": 0E-10
+    "price": 0.4608000000
   },
   "r6gd.4xlarge": {
-    "price": 0E-10
+    "price": 0.9216000000
   },
   "r6gd.8xlarge": {
-    "price": 0E-10
+    "price": 1.8432000000
   },
   "r6gd.large": {
-    "price": 0.1509000000
+    "price": 0.1152000000
   },
   "r6gd.medium": {
     "price": 0.0576000000
   },
   "r6gd.xlarge": {
-    "price": 0.2512000000
+    "price": 0.2304000000
   },
   "r6i.12xlarge": {
-    "price": 21.5424000000
+    "price": 3.0240000000
   },
   "r6i.16xlarge": {
-    "price": 0E-10
+    "price": 4.0320000000
   },
   "r6i.24xlarge": {
-    "price": 18.6048000000
+    "price": 6.0480000000
   },
   "r6i.2xlarge": {
-    "price": 0.5684000000
+    "price": 0.5040000000
   },
   "r6i.32xlarge": {
-    "price": 0E-10
+    "price": 8.0640000000
   },
   "r6i.4xlarge": {
     "price": 1.0080000000
   },
   "r6i.8xlarge": {
-    "price": 0E-10
+    "price": 2.0160000000
   },
   "r6i.large": {
-    "price": 0.7106000000
+    "price": 0.1260000000
   },
   "r6i.xlarge": {
-    "price": 0.4048000000
+    "price": 0.2520000000
   },
   "r6id.12xlarge": {
-    "price": 0E-10
+    "price": 3.6288000000
   },
   "r6id.16xlarge": {
-    "price": 0E-10
+    "price": 4.8384000000
   },
   "r6id.24xlarge": {
-    "price": 0E-10
+    "price": 7.2576000000
   },
   "r6id.2xlarge": {
-    "price": 1.8200000000
+    "price": 0.6048000000
   },
   "r6id.32xlarge": {
-    "price": 26.2656000000
+    "price": 9.6768000000
   },
   "r6id.4xlarge": {
-    "price": 3.6473600000
+    "price": 1.2096000000
   },
   "r6id.8xlarge": {
-    "price": 0E-10
+    "price": 2.4192000000
   },
   "r6id.large": {
-    "price": 0E-10
+    "price": 0.1512000000
   },
   "r6id.xlarge": {
-    "price": 0E-10
+    "price": 0.3024000000
   },
   "r6idn.12xlarge": {
-    "price": 0E-10
+    "price": 4.6893600000
   },
   "r6idn.16xlarge": {
-    "price": 0E-10
+    "price": 6.2524800000
   },
   "r6idn.24xlarge": {
-    "price": 0E-10
+    "price": 9.3787200000
   },
   "r6idn.2xlarge": {
-    "price": 2.1095600000
+    "price": 0.7815600000
   },
   "r6idn.32xlarge": {
-    "price": 0E-10
+    "price": 12.5049600000
   },
   "r6idn.4xlarge": {
-    "price": 0E-10
+    "price": 1.5631200000
   },
   "r6idn.8xlarge": {
-    "price": 7.7598400000
+    "price": 3.1262400000
   },
   "r6idn.large": {
-    "price": 0.2825300000
+    "price": 0.1953900000
   },
   "r6idn.xlarge": {
-    "price": 0.4298600000
+    "price": 0.3907800000
   },
   "r6in.12xlarge": {
-    "price": 4.7273100000
+    "price": 4.1839200000
   },
   "r6in.16xlarge": {
-    "price": 15.4036200000
+    "price": 5.5785600000
   },
   "r6in.24xlarge": {
-    "price": 11.8638200000
+    "price": 8.3678400000
   },
   "r6in.2xlarge": {
-    "price": 0E-10
+    "price": 0.6973200000
   },
   "r6in.32xlarge": {
-    "price": 0E-10
+    "price": 11.1571200000
   },
   "r6in.4xlarge": {
-    "price": 0E-10
+    "price": 1.3946400000
   },
   "r6in.8xlarge": {
-    "price": 1.4720000000
+    "price": 2.7892800000
   },
   "r6in.large": {
-    "price": 0.7005600000
+    "price": 0.1743300000
   },
   "r6in.xlarge": {
-    "price": 0E-10
+    "price": 0.3486600000
   },
   "r7a.12xlarge": {
-    "price": 0E-10
+    "price": 3.6516000000
   },
   "r7a.16xlarge": {
-    "price": 0E-10
+    "price": 4.8688000000
   },
   "r7a.24xlarge": {
-    "price": 0E-10
+    "price": 7.3032000000
   },
   "r7a.2xlarge": {
-    "price": 0E-10
+    "price": 0.6086000000
   },
   "r7a.32xlarge": {
-    "price": 10.8363600000
+    "price": 9.7376000000
   },
   "r7a.48xlarge": {
     "price": 14.6064000000
@@ -2883,331 +2874,331 @@
     "price": 1.2172000000
   },
   "r7a.8xlarge": {
-    "price": 6.5178400000
+    "price": 2.4344000000
   },
   "r7a.large": {
-    "price": 0E-10
+    "price": 0.1521500000
   },
   "r7a.medium": {
-    "price": 0.5780800000
+    "price": 0.0760800000
   },
   "r7a.xlarge": {
-    "price": 0.9119000000
+    "price": 0.3043000000
   },
   "r7g.12xlarge": {
-    "price": 2.8573000000
+    "price": 2.5704000000
   },
   "r7g.16xlarge": {
-    "price": 0E-10
+    "price": 3.4272000000
   },
   "r7g.2xlarge": {
-    "price": 0.6836000000
+    "price": 0.4284000000
   },
   "r7g.4xlarge": {
-    "price": 0.8848000000
+    "price": 0.8568000000
   },
   "r7g.8xlarge": {
-    "price": 2.1672000000
+    "price": 1.7136000000
   },
   "r7g.large": {
-    "price": 0E-10
+    "price": 0.1071000000
   },
   "r7g.medium": {
-    "price": 0.1099000000
+    "price": 0.0536000000
   },
   "r7g.xlarge": {
-    "price": 0.2212000000
+    "price": 0.2142000000
   },
   "r7gd.12xlarge": {
-    "price": 0E-10
+    "price": 3.2659000000
   },
   "r7gd.16xlarge": {
-    "price": 5.0458000000
+    "price": 4.3546000000
   },
   "r7gd.2xlarge": {
-    "price": 0E-10
+    "price": 0.5443000000
   },
   "r7gd.4xlarge": {
-    "price": 0E-10
+    "price": 1.0886000000
   },
   "r7gd.8xlarge": {
-    "price": 2.3076000000
+    "price": 2.1773000000
   },
   "r7gd.large": {
-    "price": 0E-10
+    "price": 0.1361000000
   },
   "r7gd.medium": {
-    "price": 0.0698000000
+    "price": 0.0680000000
   },
   "r7gd.xlarge": {
-    "price": 0.3461000000
+    "price": 0.2722000000
   },
   "r7i.12xlarge": {
     "price": 3.1752000000
   },
   "r7i.16xlarge": {
-    "price": 13.9241600000
+    "price": 4.2336000000
   },
   "r7i.24xlarge": {
-    "price": 0E-10
+    "price": 6.3504000000
   },
   "r7i.2xlarge": {
-    "price": 1.0324000000
+    "price": 0.5292000000
   },
   "r7i.48xlarge": {
-    "price": 0E-10
+    "price": 12.7008000000
   },
   "r7i.4xlarge": {
-    "price": 0E-10
+    "price": 1.0584000000
   },
   "r7i.8xlarge": {
-    "price": 0E-10
+    "price": 2.1168000000
   },
   "r7i.large": {
-    "price": 0.6123000000
+    "price": 0.1323000000
   },
   "r7i.xlarge": {
     "price": 0.2646000000
   },
   "r7iz.12xlarge": {
-    "price": 10.6704000000
+    "price": 4.4640000000
   },
   "r7iz.16xlarge": {
-    "price": 6.0640000000
+    "price": 5.9520000000
   },
   "r7iz.2xlarge": {
-    "price": 0.9336000000
+    "price": 0.7440000000
   },
   "r7iz.32xlarge": {
-    "price": 0E-10
+    "price": 11.9040000000
   },
   "r7iz.4xlarge": {
-    "price": 8.0336000000
+    "price": 1.4880000000
   },
   "r7iz.8xlarge": {
-    "price": 0E-10
+    "price": 2.9760000000
   },
   "r7iz.large": {
-    "price": 0.2609000000
+    "price": 0.1860000000
   },
   "r7iz.xlarge": {
-    "price": 0.5368000000
+    "price": 0.3720000000
   },
   "r8a.12xlarge": {
-    "price": 11.1680600000
+    "price": 3.8342400000
   },
   "r8a.16xlarge": {
-    "price": 15.7363200000
+    "price": 5.1123200000
   },
   "r8a.24xlarge": {
-    "price": 12.8513300000
+    "price": 7.6684800000
   },
   "r8a.2xlarge": {
-    "price": 0E-10
+    "price": 0.6390400000
   },
   "r8a.48xlarge": {
-    "price": 20.4249600000
+    "price": 15.3369600000
   },
   "r8a.4xlarge": {
-    "price": 2.0140800000
+    "price": 1.2780800000
   },
   "r8a.8xlarge": {
     "price": 2.5561600000
   },
   "r8a.large": {
-    "price": 0.1632600000
+    "price": 0.1597600000
   },
   "r8a.medium": {
-    "price": 0.1117800000
+    "price": 0.0798800000
   },
   "r8a.xlarge": {
-    "price": 0E-10
+    "price": 0.3195200000
   },
   "r8g.12xlarge": {
-    "price": 3.1944500000
+    "price": 2.8276800000
   },
   "r8g.16xlarge": {
-    "price": 4.4614400000
+    "price": 3.7702400000
   },
   "r8g.24xlarge": {
-    "price": 0E-10
+    "price": 5.6553600000
   },
   "r8g.2xlarge": {
-    "price": 0.6336100000
+    "price": 0.4712800000
   },
   "r8g.48xlarge": {
-    "price": 11.6467200000
+    "price": 11.3107200000
   },
   "r8g.4xlarge": {
-    "price": 1.3393600000
+    "price": 0.9425600000
   },
   "r8g.8xlarge": {
     "price": 1.8851200000
   },
   "r8g.large": {
-    "price": 0E-10
+    "price": 0.1178200000
   },
   "r8g.medium": {
-    "price": 0.1211000000
+    "price": 0.0589100000
   },
   "r8g.xlarge": {
-    "price": 0.2932400000
+    "price": 0.2356400000
   },
   "r8gb.12xlarge": {
-    "price": 0E-10
+    "price": 4.3723200000
   },
   "r8gb.16xlarge": {
-    "price": 6.1795500000
+    "price": 5.8297600000
   },
   "r8gb.24xlarge": {
-    "price": 9.2693200000
+    "price": 8.7446400000
   },
   "r8gb.2xlarge": {
-    "price": 0E-10
+    "price": 0.7287200000
   },
   "r8gb.48xlarge": {
     "price": 17.4892800000
   },
   "r8gb.4xlarge": {
-    "price": 1.7176900000
+    "price": 1.4574400000
   },
   "r8gb.8xlarge": {
-    "price": 3.7084800000
+    "price": 2.9148800000
   },
   "r8gb.large": {
-    "price": 0.2494100000
+    "price": 0.1821800000
   },
   "r8gb.medium": {
-    "price": 0E-10
+    "price": 0.0910900000
   },
   "r8gb.xlarge": {
-    "price": 0E-10
+    "price": 0.3643600000
   },
   "r8gd.12xlarge": {
-    "price": 3.6520400000
+    "price": 3.5270400000
   },
   "r8gd.16xlarge": {
-    "price": 4.8147200000
+    "price": 4.7027200000
   },
   "r8gd.24xlarge": {
-    "price": 0E-10
+    "price": 7.0540800000
   },
   "r8gd.2xlarge": {
-    "price": 0E-10
+    "price": 0.5878400000
   },
   "r8gd.48xlarge": {
-    "price": 14.4441600000
+    "price": 14.1081600000
   },
   "r8gd.4xlarge": {
-    "price": 0E-10
+    "price": 1.1756800000
   },
   "r8gd.8xlarge": {
-    "price": 2.4073600000
+    "price": 2.3513600000
   },
   "r8gd.large": {
-    "price": 0.2254600000
+    "price": 0.1469600000
   },
   "r8gd.medium": {
-    "price": 0.1297800000
+    "price": 0.0734800000
   },
   "r8gd.xlarge": {
-    "price": 0E-10
+    "price": 0.2939200000
   },
   "r8gn.12xlarge": {
-    "price": 0E-10
+    "price": 4.3723000000
   },
   "r8gn.16xlarge": {
-    "price": 0E-10
+    "price": 5.8298000000
   },
   "r8gn.24xlarge": {
-    "price": 11.6501000000
+    "price": 8.7446000000
   },
   "r8gn.2xlarge": {
     "price": 0.7287000000
   },
   "r8gn.48xlarge": {
-    "price": 0E-10
+    "price": 17.4893000000
   },
   "r8gn.4xlarge": {
-    "price": 0E-10
+    "price": 1.4574000000
   },
   "r8gn.8xlarge": {
-    "price": 2.9709000000
+    "price": 2.9149000000
   },
   "r8gn.large": {
-    "price": 0.2460000000
+    "price": 0.1822000000
   },
   "r8gn.medium": {
-    "price": 0.1474000000
+    "price": 0.0911000000
   },
   "r8gn.xlarge": {
-    "price": 0E-10
+    "price": 0.3644000000
   },
   "r8i-flex.12xlarge": {
     "price": 3.1672800000
   },
   "r8i-flex.16xlarge": {
-    "price": 4.9142400000
+    "price": 4.2230400000
   },
   "r8i-flex.2xlarge": {
-    "price": 0.6528800000
+    "price": 0.5278800000
   },
   "r8i-flex.4xlarge": {
-    "price": 0E-10
+    "price": 1.0557600000
   },
   "r8i-flex.8xlarge": {
-    "price": 14.9051200000
+    "price": 2.1115200000
   },
   "r8i-flex.large": {
     "price": 0.1319700000
   },
   "r8i-flex.xlarge": {
-    "price": 1.8215400000
+    "price": 0.2639400000
   },
   "r8i.12xlarge": {
-    "price": 3.4590800000
+    "price": 3.3340800000
   },
   "r8i.16xlarge": {
-    "price": 6.2182400000
+    "price": 4.4454400000
   },
   "r8i.24xlarge": {
-    "price": 18.8549800000
+    "price": 6.6681600000
   },
   "r8i.2xlarge": {
-    "price": 0E-10
+    "price": 0.5556800000
   },
   "r8i.32xlarge": {
-    "price": 27.7127700000
+    "price": 8.8908800000
   },
   "r8i.48xlarge": {
-    "price": 37.7099500000
+    "price": 13.3363200000
   },
   "r8i.4xlarge": {
-    "price": 1.2225000000
+    "price": 1.1113600000
   },
   "r8i.8xlarge": {
-    "price": 6.6305900000
+    "price": 2.2227200000
   },
   "r8i.96xlarge": {
-    "price": 170.6726400000
+    "price": 26.6726400000
   },
   "r8i.large": {
-    "price": 0.2065200000
+    "price": 0.1389200000
   },
   "r8i.xlarge": {
-    "price": 0E-10
+    "price": 0.2778400000
   },
   "r8ib.12xlarge": {
-    "price": 24.2112000000
+    "price": 5.0208000000
   },
   "r8ib.16xlarge": {
-    "price": 0E-10
+    "price": 6.6944000000
   },
   "r8ib.24xlarge": {
-    "price": 47.0784000000
+    "price": 10.0416000000
   },
   "r8ib.2xlarge": {
-    "price": 1.7968000000
+    "price": 0.8368000000
   },
   "r8ib.32xlarge": {
     "price": 13.3888000000
@@ -3216,211 +3207,211 @@
     "price": 20.0832000000
   },
   "r8ib.4xlarge": {
-    "price": 4.1577600000
+    "price": 1.6736000000
   },
   "r8ib.8xlarge": {
     "price": 3.3472000000
   },
   "r8ib.96xlarge": {
-    "price": 0E-10
+    "price": 40.1664000000
   },
   "r8ib.large": {
-    "price": 0E-10
+    "price": 0.2092000000
   },
   "r8ib.xlarge": {
-    "price": 2.1442400000
+    "price": 0.4184000000
   },
   "r8id.12xlarge": {
-    "price": 11.3412500000
+    "price": 3.9916800000
   },
   "r8id.16xlarge": {
-    "price": 0E-10
+    "price": 5.3222400000
   },
   "r8id.24xlarge": {
     "price": 7.9833600000
   },
   "r8id.2xlarge": {
-    "price": 0.7804800000
+    "price": 0.6652800000
   },
   "r8id.32xlarge": {
-    "price": 59.8732800000
+    "price": 10.6444800000
   },
   "r8id.48xlarge": {
-    "price": 19.4065900000
+    "price": 15.9667200000
   },
   "r8id.4xlarge": {
-    "price": 0E-10
+    "price": 1.3305600000
   },
   "r8id.8xlarge": {
-    "price": 4.1331200000
+    "price": 2.6611200000
   },
   "r8id.96xlarge": {
-    "price": 35.6198400000
+    "price": 31.9334400000
   },
   "r8id.large": {
-    "price": 0.6917500000
+    "price": 0.1663200000
   },
   "r8id.xlarge": {
-    "price": 0E-10
+    "price": 0.3326400000
   },
   "r8idb.12xlarge": {
-    "price": 0E-10
+    "price": 5.6272800000
   },
   "r8idb.16xlarge": {
-    "price": 0E-10
+    "price": 7.5030400000
   },
   "r8idb.24xlarge": {
-    "price": 0E-10
+    "price": 11.2545600000
   },
   "r8idb.2xlarge": {
-    "price": 1.1930800000
+    "price": 0.9378800000
   },
   "r8idb.32xlarge": {
-    "price": 0E-10
+    "price": 15.0060800000
   },
   "r8idb.48xlarge": {
-    "price": 0E-10
+    "price": 22.5091200000
   },
   "r8idb.4xlarge": {
-    "price": 7.8757600000
+    "price": 1.8757600000
   },
   "r8idb.8xlarge": {
-    "price": 0E-10
+    "price": 3.7515200000
   },
   "r8idb.96xlarge": {
     "price": 45.0182400000
   },
   "r8idb.large": {
-    "price": 0E-10
+    "price": 0.2344700000
   },
   "r8idb.xlarge": {
-    "price": 0E-10
+    "price": 0.4689400000
   },
   "r8idn.12xlarge": {
-    "price": 8.3980100000
+    "price": 5.6272800000
   },
   "r8idn.16xlarge": {
-    "price": 0E-10
+    "price": 7.5030400000
   },
   "r8idn.24xlarge": {
-    "price": 4.4160000000
+    "price": 11.2545600000
   },
   "r8idn.2xlarge": {
-    "price": 1.3058800000
+    "price": 0.9378800000
   },
   "r8idn.32xlarge": {
-    "price": 5.8880000000
+    "price": 15.0060800000
   },
   "r8idn.48xlarge": {
-    "price": 0E-10
+    "price": 22.5091200000
   },
   "r8idn.4xlarge": {
-    "price": 4.3801400000
+    "price": 1.8757600000
   },
   "r8idn.8xlarge": {
-    "price": 0E-10
+    "price": 3.7515200000
   },
   "r8idn.96xlarge": {
-    "price": 196.7366400000
+    "price": 45.0182400000
   },
   "r8idn.large": {
-    "price": 0E-10
+    "price": 0.2344700000
   },
   "r8idn.xlarge": {
-    "price": 0.6434300000
+    "price": 0.4689400000
   },
   "r8in.12xlarge": {
-    "price": 25.2288000000
+    "price": 5.0208000000
   },
   "r8in.16xlarge": {
-    "price": 0E-10
+    "price": 6.6944000000
   },
   "r8in.24xlarge": {
-    "price": 11.0457600000
+    "price": 10.0416000000
   },
   "r8in.2xlarge": {
-    "price": 2.1648000000
+    "price": 0.8368000000
   },
   "r8in.32xlarge": {
-    "price": 0E-10
+    "price": 13.3888000000
   },
   "r8in.48xlarge": {
-    "price": 46.9824000000
+    "price": 20.0832000000
   },
   "r8in.4xlarge": {
-    "price": 1.8689600000
+    "price": 1.6736000000
   },
   "r8in.8xlarge": {
-    "price": 3.4032000000
+    "price": 3.3472000000
   },
   "r8in.96xlarge": {
-    "price": 57.8304000000
+    "price": 40.1664000000
   },
   "r8in.large": {
-    "price": 0E-10
+    "price": 0.2092000000
   },
   "r8in.xlarge": {
-    "price": 0E-10
+    "price": 0.4184000000
   },
   "r9g.12xlarge": {
-    "price": 4.5806900000
+    "price": 3.0820800000
   },
   "r9g.16xlarge": {
     "price": 4.1094400000
   },
   "r9g.24xlarge": {
-    "price": 7.8173800000
+    "price": 6.1641600000
   },
   "r9g.2xlarge": {
-    "price": 0E-10
+    "price": 0.5136800000
   },
   "r9g.48xlarge": {
-    "price": 17.4203500000
+    "price": 12.3283200000
   },
   "r9g.4xlarge": {
-    "price": 0E-10
+    "price": 1.0273600000
   },
   "r9g.8xlarge": {
-    "price": 2.3161900000
+    "price": 2.0547200000
   },
   "r9g.large": {
-    "price": 0.1975600000
+    "price": 0.1284200000
   },
   "r9g.medium": {
-    "price": 0.0706300000
+    "price": 0.0642100000
   },
   "r9g.xlarge": {
-    "price": 0E-10
+    "price": 0.2568400000
   },
   "r9gd.12xlarge": {
-    "price": 4.3537500000
+    "price": 3.8443200000
   },
   "r9gd.16xlarge": {
-    "price": 0E-10
+    "price": 5.1257600000
   },
   "r9gd.24xlarge": {
-    "price": 8.7254400000
+    "price": 7.6886400000
   },
   "r9gd.2xlarge": {
-    "price": 0.7187900000
+    "price": 0.6407200000
   },
   "r9gd.48xlarge": {
-    "price": 0E-10
+    "price": 15.3772800000
   },
   "r9gd.4xlarge": {
-    "price": 1.5823800000
+    "price": 1.2814400000
   },
   "r9gd.8xlarge": {
-    "price": 0E-10
+    "price": 2.5628800000
   },
   "r9gd.large": {
-    "price": 0.1797000000
+    "price": 0.1601800000
   },
   "r9gd.medium": {
     "price": 0.0800900000
   },
   "r9gd.xlarge": {
-    "price": 0E-10
+    "price": 0.3203600000
   },
   "t1.micro": {
     "price": 0.0200000000
@@ -3429,318 +3420,318 @@
     "price": 0.3712000000
   },
   "t2.large": {
-    "price": 0.1208000000
+    "price": 0.0928000000
   },
   "t2.medium": {
-    "price": 0.0499000000
+    "price": 0.0464000000
   },
   "t2.micro": {
-    "price": 0.0260000000
+    "price": 0.0116000000
   },
   "t2.nano": {
     "price": 0.0058000000
   },
   "t2.small": {
-    "price": 0.1052000000
+    "price": 0.0230000000
   },
   "t2.xlarge": {
     "price": 0.1856000000
   },
   "t3.2xlarge": {
-    "price": 0.3667000000
+    "price": 0.3328000000
   },
   "t3.large": {
-    "price": 0.1784000000
+    "price": 0.0832000000
   },
   "t3.medium": {
-    "price": 0E-10
+    "price": 0.0416000000
   },
   "t3.micro": {
     "price": 0.0104000000
   },
   "t3.nano": {
-    "price": 0E-10
+    "price": 0.0052000000
   },
   "t3.small": {
-    "price": 0E-10
+    "price": 0.0208000000
   },
   "t3.xlarge": {
     "price": 0.1664000000
   },
   "t3a.2xlarge": {
-    "price": 3.4480000000
+    "price": 0.3008000000
   },
   "t3a.large": {
-    "price": 0.1704000000
+    "price": 0.0752000000
   },
   "t3a.medium": {
-    "price": 0E-10
+    "price": 0.0376000000
   },
   "t3a.micro": {
-    "price": 0.0382000000
+    "price": 0.0094000000
   },
   "t3a.nano": {
-    "price": 0.0082000000
+    "price": 0.0047000000
   },
   "t3a.small": {
     "price": 0.0188000000
   },
   "t3a.xlarge": {
-    "price": 0.2780000000
+    "price": 0.1504000000
   },
   "t4g.2xlarge": {
-    "price": 0E-10
+    "price": 0.2688000000
   },
   "t4g.large": {
-    "price": 0E-10
+    "price": 0.0672000000
   },
   "t4g.medium": {
-    "price": 0.0371000000
+    "price": 0.0336000000
   },
   "t4g.micro": {
-    "price": 0E-10
+    "price": 0.0084000000
   },
   "t4g.nano": {
     "price": 0.0042000000
   },
   "t4g.small": {
-    "price": 0.0456000000
+    "price": 0.0168000000
   },
   "t4g.xlarge": {
-    "price": 0.1414000000
+    "price": 0.1344000000
   },
   "trn1.2xlarge": {
-    "price": 1.4687500000
+    "price": 1.3437500000
   },
   "trn1.32xlarge": {
-    "price": 21.6250000000
+    "price": 21.5000000000
   },
   "trn1n.32xlarge": {
     "price": 24.7800000000
   },
   "u-12tb1.112xlarge": {
-    "price": 137.3792000000
+    "price": 109.2000000000
   },
   "u-18tb1.112xlarge": {
-    "price": 0E-10
+    "price": 163.8000000000
   },
   "u-24tb1.112xlarge": {
-    "price": 0E-10
+    "price": 218.4000000000
   },
   "u-3tb1.56xlarge": {
-    "price": 29.4504000000
+    "price": 27.3000000000
   },
   "u-6tb1.112xlarge": {
-    "price": 226.9008000000
+    "price": 54.6000000000
   },
   "u-6tb1.56xlarge": {
-    "price": 130.4039100000
+    "price": 46.4039100000
   },
   "u-9tb1.112xlarge": {
-    "price": 7.5712000000
+    "price": 81.9000000000
   },
   "u7i-12tb.224xlarge": {
-    "price": 166.7978200000
+    "price": 125.5818200000
   },
   "u7i-6tb.112xlarge": {
-    "price": 90.9692000000
+    "price": 62.7900000000
   },
   "u7i-8tb.112xlarge": {
-    "price": 0E-10
+    "price": 83.7200000000
   },
   "u7in-16tb.224xlarge": {
-    "price": 189.0771800000
+    "price": 180.4755800000
   },
   "u7in-24tb.224xlarge": {
-    "price": 396.2608800000
+    "price": 270.7312800000
   },
   "u7in-32tb.224xlarge": {
-    "price": 0E-10
+    "price": 360.9869500000
   },
   "vt1.24xlarge": {
-    "price": 0E-10
+    "price": 5.2000000000
   },
   "vt1.3xlarge": {
-    "price": 0E-10
+    "price": 0.6500000000
   },
   "vt1.6xlarge": {
-    "price": 0E-10
+    "price": 1.3000000000
   },
   "x1.16xlarge": {
-    "price": 31.3600000000
+    "price": 6.6690000000
   },
   "x1.32xlarge": {
-    "price": 0E-10
+    "price": 13.3380000000
   },
   "x1e.16xlarge": {
-    "price": 0E-10
+    "price": 13.3440000000
   },
   "x1e.2xlarge": {
-    "price": 4.9230000000
+    "price": 1.6680000000
   },
   "x1e.32xlarge": {
-    "price": 0E-10
+    "price": 26.6880000000
   },
   "x1e.4xlarge": {
-    "price": 0E-10
+    "price": 3.3360000000
   },
   "x1e.8xlarge": {
-    "price": 9.3520000000
+    "price": 6.6720000000
   },
   "x1e.xlarge": {
-    "price": 0E-10
+    "price": 0.8340000000
   },
   "x2gd.12xlarge": {
-    "price": 4.4088000000
+    "price": 4.0080000000
   },
   "x2gd.16xlarge": {
-    "price": 5.4560000000
+    "price": 5.3440000000
   },
   "x2gd.2xlarge": {
-    "price": 0E-10
+    "price": 0.6680000000
   },
   "x2gd.4xlarge": {
-    "price": 0E-10
+    "price": 1.3360000000
   },
   "x2gd.8xlarge": {
-    "price": 0E-10
+    "price": 2.6720000000
   },
   "x2gd.large": {
-    "price": 0.1958000000
+    "price": 0.1670000000
   },
   "x2gd.medium": {
-    "price": 0E-10
+    "price": 0.0835000000
   },
   "x2gd.xlarge": {
-    "price": 0.4250000000
+    "price": 0.3340000000
   },
   "x2idn.16xlarge": {
     "price": 6.6690000000
   },
   "x2idn.24xlarge": {
-    "price": 0E-10
+    "price": 10.0035000000
   },
   "x2idn.32xlarge": {
-    "price": 0E-10
+    "price": 13.3380000000
   },
   "x2iedn.16xlarge": {
-    "price": 23.9620000000
+    "price": 13.3380000000
   },
   "x2iedn.24xlarge": {
-    "price": 35.9430000000
+    "price": 20.0070000000
   },
   "x2iedn.2xlarge": {
-    "price": 2.8824500000
+    "price": 1.6672500000
   },
   "x2iedn.32xlarge": {
-    "price": 0E-10
+    "price": 26.6760000000
   },
   "x2iedn.4xlarge": {
-    "price": 9.8407500000
+    "price": 3.3345000000
   },
   "x2iedn.8xlarge": {
-    "price": 0E-10
+    "price": 6.6690000000
   },
   "x2iedn.xlarge": {
-    "price": 1.0852300000
+    "price": 0.8336300000
   },
   "x2iezn.12xlarge": {
-    "price": 11.1984000000
+    "price": 10.0080000000
   },
   "x2iezn.2xlarge": {
-    "price": 0E-10
+    "price": 1.6680000000
   },
   "x2iezn.4xlarge": {
-    "price": 3.7792000000
+    "price": 3.3360000000
   },
   "x2iezn.6xlarge": {
-    "price": 0E-10
+    "price": 5.0040000000
   },
   "x2iezn.8xlarge": {
-    "price": 10.5120000000
+    "price": 6.6720000000
   },
   "x8g.12xlarge": {
-    "price": 5.2080000000
+    "price": 4.6896000000
   },
   "x8g.16xlarge": {
-    "price": 6.3778000000
+    "price": 6.2528000000
   },
   "x8g.24xlarge": {
-    "price": 0E-10
+    "price": 9.3792000000
   },
   "x8g.2xlarge": {
-    "price": 0E-10
+    "price": 0.7816000000
   },
   "x8g.48xlarge": {
-    "price": 0E-10
+    "price": 18.7584000000
   },
   "x8g.4xlarge": {
-    "price": 0E-10
+    "price": 1.5632000000
   },
   "x8g.8xlarge": {
-    "price": 3.1824000000
+    "price": 3.1264000000
   },
   "x8g.large": {
     "price": 0.1954000000
   },
   "x8g.medium": {
-    "price": 0.1218700000
+    "price": 0.0977000000
   },
   "x8g.xlarge": {
-    "price": 0.3978000000
+    "price": 0.3908000000
   },
   "x8i.12xlarge": {
     "price": 5.2519200000
   },
   "x8i.16xlarge": {
-    "price": 11.0281600000
+    "price": 7.0025600000
   },
   "x8i.24xlarge": {
-    "price": 0E-10
+    "price": 10.5038400000
   },
   "x8i.2xlarge": {
-    "price": 0E-10
+    "price": 0.8753200000
   },
   "x8i.32xlarge": {
-    "price": 64.6344300000
+    "price": 14.0051200000
   },
   "x8i.48xlarge": {
-    "price": 0E-10
+    "price": 21.0076800000
   },
   "x8i.4xlarge": {
-    "price": 0E-10
+    "price": 1.7506400000
   },
   "x8i.64xlarge": {
-    "price": 0E-10
+    "price": 28.0102400000
   },
   "x8i.8xlarge": {
-    "price": 0E-10
+    "price": 3.5012800000
   },
   "x8i.96xlarge": {
-    "price": 0E-10
+    "price": 48.7443800000
   },
   "x8i.large": {
-    "price": 0E-10
+    "price": 0.2188300000
   },
   "x8i.xlarge": {
-    "price": 0.9614300000
+    "price": 0.4376600000
   },
   "z1d.12xlarge": {
-    "price": 6.6720000000
+    "price": 4.4640000000
   },
   "z1d.2xlarge": {
-    "price": 4.1570000000
+    "price": 0.7440000000
   },
   "z1d.3xlarge": {
-    "price": 5.8130000000
+    "price": 1.1160000000
   },
   "z1d.6xlarge": {
-    "price": 2.4910000000
+    "price": 2.2320000000
   },
   "z1d.large": {
-    "price": 0.7410000000
+    "price": 0.1860000000
   },
   "z1d.xlarge": {
-    "price": 0.8520000000
+    "price": 0.3720000000
   }
 }
