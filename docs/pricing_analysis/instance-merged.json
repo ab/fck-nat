@@ -1,21 +1,21 @@
 {
-  "p2.16xlarge": {
-    "price": 14.4000000000,
-    "vcpus": 64,
-    "baseline": 5.0,
-    "burst": "25 Gigabit",
-    "max_egress": 2.5,
-    "ratio": 0.1736111111111111,
-    "price_monthly": 10512
+  "u7in-24tb.224xlarge": {
+    "price": 396.2608800000,
+    "vcpus": 896,
+    "baseline": 100.0,
+    "burst": "200 Gigabit",
+    "max_egress": 50,
+    "ratio": 0.12617950073698922,
+    "price_monthly": 289270.4424
   },
-  "f1.16xlarge": {
-    "price": 13.2000000000,
+  "x1.16xlarge": {
+    "price": 31.3600000000,
     "vcpus": 64,
-    "baseline": 5.0,
-    "burst": "25 Gigabit",
-    "max_egress": 2.5,
-    "ratio": 0.1893939393939394,
-    "price_monthly": 9636
+    "baseline": 10.0,
+    "burst": "10 Gigabit",
+    "max_egress": 5,
+    "ratio": 0.15943877551020408,
+    "price_monthly": 22892.8
   },
   "i2.2xlarge": {
     "price": 5.2440000000,
@@ -26,23 +26,32 @@
     "ratio": 0.19069412662090007,
     "price_monthly": 3828.12
   },
-  "x1.16xlarge": {
-    "price": 30.7990000000,
-    "vcpus": 64,
-    "baseline": 12.0,
-    "burst": "10 Gigabit",
-    "max_egress": 6,
-    "ratio": 0.19481151985454073,
-    "price_monthly": 22483.27
-  },
   "u-6tb1.112xlarge": {
-    "price": 222.7300000000,
+    "price": 226.9008000000,
     "vcpus": 448,
     "baseline": 100.0,
     "burst": "100 Gigabit",
     "max_egress": 50,
-    "ratio": 0.22448704709738249,
-    "price_monthly": 162592.9
+    "ratio": 0.22036061574044694,
+    "price_monthly": 165637.584
+  },
+  "c7i-flex.8xlarge": {
+    "price": 13.3566000000,
+    "vcpus": 32,
+    "baseline": 6.25,
+    "burst": "Up to 12.5 Gigabit",
+    "max_egress": 3.125,
+    "ratio": 0.2339667280595361,
+    "price_monthly": 9750.318
+  },
+  "m5a.24xlarge": {
+    "price": 42.5090000000,
+    "vcpus": 96,
+    "baseline": 20.0,
+    "burst": "20 Gigabit",
+    "max_egress": 10,
+    "ratio": 0.23524430120680326,
+    "price_monthly": 31031.57
   },
   "m5ad.24xlarge": {
     "price": 41.2450000000,
@@ -62,23 +71,32 @@
     "ratio": 0.2442360296991012,
     "price_monthly": 14944.560000000001
   },
-  "m5a.24xlarge": {
-    "price": 40.2930000000,
-    "vcpus": 96,
-    "baseline": 20.0,
-    "burst": "20 Gigabit",
-    "max_egress": 10,
-    "ratio": 0.24818206636388454,
-    "price_monthly": 29413.89
+  "r8i-flex.8xlarge": {
+    "price": 14.9051200000,
+    "vcpus": 32,
+    "baseline": 7.5,
+    "burst": "Up to 15 Gigabit",
+    "max_egress": 3.75,
+    "ratio": 0.2515913994654186,
+    "price_monthly": 10880.7376
   },
   "x1e.2xlarge": {
-    "price": 4.8330000000,
+    "price": 4.9230000000,
     "vcpus": 8,
     "baseline": 1.25,
     "burst": "Up to 10 Gigabit",
     "max_egress": 1.25,
-    "ratio": 0.25863852679495136,
-    "price_monthly": 3528.09
+    "ratio": 0.253910217347146,
+    "price_monthly": 3593.79
+  },
+  "u7in-16tb.224xlarge": {
+    "price": 189.0771800000,
+    "vcpus": 896,
+    "baseline": 100.0,
+    "burst": "200 Gigabit",
+    "max_egress": 50,
+    "ratio": 0.2644422769580126,
+    "price_monthly": 138026.3414
   },
   "x1e.8xlarge": {
     "price": 9.3520000000,
@@ -98,6 +116,15 @@
     "ratio": 0.26939655172413796,
     "price_monthly": 16258.56
   },
+  "m8i-flex.16xlarge": {
+    "price": 27.2176000000,
+    "vcpus": 64,
+    "baseline": 15.0,
+    "burst": "Up to 30 Gigabit",
+    "max_egress": 7.5,
+    "ratio": 0.27555699253424254,
+    "price_monthly": 19868.848
+  },
   "m3.2xlarge": {
     "price": 3.5360000000,
     "vcpus": 8,
@@ -107,41 +134,41 @@
     "ratio": 0.2828054298642534,
     "price_monthly": 2581.28
   },
-  "r5b.24xlarge": {
-    "price": 43.9972000000,
-    "vcpus": 96,
-    "baseline": 25.0,
-    "burst": "25 Gigabit",
-    "max_egress": 12.5,
-    "ratio": 0.2841089887538298,
-    "price_monthly": 32117.956
-  },
   "c3.4xlarge": {
-    "price": 6.9700000000,
+    "price": 7.0130000000,
     "vcpus": 16,
     "baseline": 2.0,
     "burst": "High",
     "max_egress": 2.0,
-    "ratio": 0.28694404591104733,
-    "price_monthly": 5088.099999999999
+    "ratio": 0.2851846570654499,
+    "price_monthly": 5119.49
   },
   "i2.xlarge": {
-    "price": 2.4130000000,
+    "price": 2.4110000000,
     "vcpus": 4,
     "baseline": 0.7,
     "burst": "Moderate",
     "max_egress": 0.7,
-    "ratio": 0.29009531703273933,
-    "price_monthly": 1761.4899999999998
+    "ratio": 0.29033596018249685,
+    "price_monthly": 1760.03
   },
-  "m5d.metal": {
-    "price": 41.5890000000,
-    "vcpus": 96,
-    "baseline": 25.0,
-    "burst": "25 Gigabit",
-    "max_egress": 12.5,
-    "ratio": 0.3005602442953666,
-    "price_monthly": 30359.969999999998
+  "r8i.96xlarge": {
+    "price": 170.6726400000,
+    "vcpus": 384,
+    "baseline": 100.0,
+    "burst": "100 Gigabit",
+    "max_egress": 50,
+    "ratio": 0.2929584964526242,
+    "price_monthly": 124591.0272
+  },
+  "u7i-12tb.224xlarge": {
+    "price": 166.7978200000,
+    "vcpus": 896,
+    "baseline": 100.0,
+    "burst": "100 Gigabit",
+    "max_egress": 50,
+    "ratio": 0.29976410962685246,
+    "price_monthly": 121762.4086
   },
   "c5d.24xlarge": {
     "price": 40.6080000000,
@@ -151,15 +178,6 @@
     "max_egress": 12.5,
     "ratio": 0.3078211189913318,
     "price_monthly": 29643.839999999997
-  },
-  "u-12tb1.112xlarge": {
-    "price": 137.3792000000,
-    "vcpus": 448,
-    "baseline": 100.0,
-    "burst": "100 Gigabit",
-    "max_egress": 50,
-    "ratio": 0.3639561156274021,
-    "price_monthly": 100286.81599999999
   },
   "c5a.16xlarge": {
     "price": 26.4640000000,
@@ -179,6 +197,15 @@
     "ratio": 0.383424085980244,
     "price_monthly": 95194.85429999999
   },
+  "x8i.32xlarge": {
+    "price": 64.6344300000,
+    "vcpus": 128,
+    "baseline": 50.0,
+    "burst": "50 Gigabit",
+    "max_egress": 25,
+    "ratio": 0.38679075532962853,
+    "price_monthly": 47183.13389999999
+  },
   "r3.4xlarge": {
     "price": 5.0440000000,
     "vcpus": 16,
@@ -187,6 +214,15 @@
     "max_egress": 2.0,
     "ratio": 0.39651070578905634,
     "price_monthly": 3682.12
+  },
+  "m8id.32xlarge": {
+    "price": 62.2412800000,
+    "vcpus": 128,
+    "baseline": 50.0,
+    "burst": "50 Gigabit",
+    "max_egress": 25,
+    "ratio": 0.40166269074157857,
+    "price_monthly": 45436.1344
   },
   "m7a.32xlarge": {
     "price": 62.0487700000,
@@ -197,6 +233,15 @@
     "ratio": 0.4029088731331822,
     "price_monthly": 45295.6021
   },
+  "g6.16xlarge": {
+    "price": 30.3408000000,
+    "vcpus": 64,
+    "baseline": 25.0,
+    "burst": "25 Gigabit",
+    "max_egress": 12.5,
+    "ratio": 0.4119865000263671,
+    "price_monthly": 22148.784
+  },
   "m4.16xlarge": {
     "price": 30.1440000000,
     "vcpus": 64,
@@ -206,32 +251,68 @@
     "ratio": 0.41467622080679406,
     "price_monthly": 22005.12
   },
-  "c7i.metal-24xl": {
-    "price": 45.1284000000,
-    "vcpus": 96,
-    "baseline": 37.5,
-    "burst": "37.5 Gigabit",
-    "max_egress": 18.75,
-    "ratio": 0.4154811604222618,
-    "price_monthly": 32943.731999999996
-  },
-  "r6i.12xlarge": {
-    "price": 21.1540000000,
-    "vcpus": 48,
-    "baseline": 18.75,
-    "burst": "18.75 Gigabit",
-    "max_egress": 9.375,
-    "ratio": 0.44317859506476315,
-    "price_monthly": 15442.42
-  },
-  "m6id.metal": {
-    "price": 55.7586000000,
+  "r8id.32xlarge": {
+    "price": 59.8732800000,
     "vcpus": 128,
     "baseline": 50.0,
     "burst": "50 Gigabit",
     "max_egress": 25,
-    "ratio": 0.448361329014717,
-    "price_monthly": 40703.778
+    "ratio": 0.4175485291602531,
+    "price_monthly": 43707.4944
+  },
+  "c7a.8xlarge": {
+    "price": 14.4358400000,
+    "vcpus": 32,
+    "baseline": 12.5,
+    "burst": "12.5 Gigabit",
+    "max_egress": 6.25,
+    "ratio": 0.43295021280368856,
+    "price_monthly": 10538.1632
+  },
+  "c7i-flex.2xlarge": {
+    "price": 3.5943500000,
+    "vcpus": 8,
+    "baseline": 1.562,
+    "burst": "Up to 12.5 Gigabit",
+    "max_egress": 1.562,
+    "ratio": 0.43457092381098117,
+    "price_monthly": 2623.8755
+  },
+  "r6i.12xlarge": {
+    "price": 21.5424000000,
+    "vcpus": 48,
+    "baseline": 18.75,
+    "burst": "18.75 Gigabit",
+    "max_egress": 9.375,
+    "ratio": 0.4351882798573975,
+    "price_monthly": 15725.952000000001
+  },
+  "m8i.32xlarge": {
+    "price": 57.3465600000,
+    "vcpus": 128,
+    "baseline": 50.0,
+    "burst": "50 Gigabit",
+    "max_egress": 25,
+    "ratio": 0.43594593991339675,
+    "price_monthly": 41862.9888
+  },
+  "c6i.24xlarge": {
+    "price": 42.8688000000,
+    "vcpus": 96,
+    "baseline": 37.5,
+    "burst": "37.5 Gigabit",
+    "max_egress": 18.75,
+    "ratio": 0.4373810323591983,
+    "price_monthly": 31294.224000000002
+  },
+  "r5ad.16xlarge": {
+    "price": 13.7110000000,
+    "vcpus": 64,
+    "baseline": 12.0,
+    "burst": "12 Gigabit",
+    "max_egress": 6,
+    "ratio": 0.4376048428269273,
+    "price_monthly": 10009.03
   },
   "m6id.16xlarge": {
     "price": 27.7968000000,
@@ -241,15 +322,6 @@
     "max_egress": 12.5,
     "ratio": 0.4496920508835549,
     "price_monthly": 20291.664
-  },
-  "m6id.24xlarge": {
-    "price": 41.6952000000,
-    "vcpus": 96,
-    "baseline": 37.5,
-    "burst": "37.5 Gigabit",
-    "max_egress": 18.75,
-    "ratio": 0.44969205088355496,
-    "price_monthly": 30437.496
   },
   "m7a.8xlarge": {
     "price": 13.8547200000,
@@ -269,68 +341,77 @@
     "ratio": 0.45110980229120473,
     "price_monthly": 15170.9184
   },
-  "c7a.8xlarge": {
-    "price": 13.8072400000,
-    "vcpus": 32,
-    "baseline": 12.5,
-    "burst": "12.5 Gigabit",
-    "max_egress": 6.25,
-    "ratio": 0.45266106767174324,
-    "price_monthly": 10079.2852
-  },
-  "c6i.24xlarge": {
-    "price": 40.6530000000,
+  "c8a.24xlarge": {
+    "price": 43.5537600000,
     "vcpus": 96,
-    "baseline": 37.5,
-    "burst": "37.5 Gigabit",
-    "max_egress": 18.75,
-    "ratio": 0.46122057412737066,
-    "price_monthly": 29676.69
+    "baseline": 40.0,
+    "burst": "40 Gigabit",
+    "max_egress": 20,
+    "ratio": 0.459202603862445,
+    "price_monthly": 31794.244799999997
   },
-  "r5ad.16xlarge": {
-    "price": 12.2890000000,
-    "vcpus": 64,
-    "baseline": 12.0,
-    "burst": "12 Gigabit",
-    "max_egress": 6,
-    "ratio": 0.4882415168036455,
-    "price_monthly": 8970.97
-  },
-  "p5.48xlarge": {
-    "price": 98.3200000000,
-    "vcpus": 192,
-    "baseline": 100.0,
-    "burst": "3200 Gigabit",
-    "max_egress": 50,
-    "ratio": 0.5085435313262816,
-    "price_monthly": 71773.59999999999
+  "m7i-flex.8xlarge": {
+    "price": 6.1657600000,
+    "vcpus": 32,
+    "baseline": 6.25,
+    "burst": "Up to 12.5 Gigabit",
+    "max_egress": 3.125,
+    "ratio": 0.5068312746522732,
+    "price_monthly": 4501.0048
   },
   "x2iedn.4xlarge": {
-    "price": 9.7979500000,
+    "price": 9.8407500000,
     "vcpus": 16,
     "baseline": 12.5,
     "burst": "Up to 25 Gigabit",
     "max_egress": 5.0,
-    "ratio": 0.5103108303267521,
-    "price_monthly": 7152.5035
+    "ratio": 0.5080913548255976,
+    "price_monthly": 7183.7474999999995
   },
-  "g3.16xlarge": {
-    "price": 4.6720000000,
-    "vcpus": 64,
-    "baseline": 5.0,
-    "burst": "25 Gigabit",
-    "max_egress": 2.5,
-    "ratio": 0.5351027397260274,
-    "price_monthly": 3410.56
+  "r8i-flex.xlarge": {
+    "price": 1.8215400000,
+    "vcpus": 4,
+    "baseline": 0.937,
+    "burst": "Up to 12.5 Gigabit",
+    "max_egress": 0.937,
+    "ratio": 0.51439990337846,
+    "price_monthly": 1329.7241999999999
+  },
+  "c8i.8xlarge": {
+    "price": 14.4429000000,
+    "vcpus": 32,
+    "baseline": 15.0,
+    "burst": "15 Gigabit",
+    "max_egress": 7.5,
+    "ratio": 0.5192862929190121,
+    "price_monthly": 10543.317
+  },
+  "c7i-flex.12xlarge": {
+    "price": 8.9853000000,
+    "vcpus": 48,
+    "baseline": 9.375,
+    "burst": "Up to 18.75 Gigabit",
+    "max_egress": 4.6875,
+    "ratio": 0.521685419518547,
+    "price_monthly": 6559.269
   },
   "r5ad.24xlarge": {
-    "price": 18.3150000000,
+    "price": 18.8450000000,
     "vcpus": 96,
     "baseline": 20.0,
     "burst": "20 Gigabit",
     "max_egress": 10,
-    "ratio": 0.5460005460005459,
-    "price_monthly": 13369.95
+    "ratio": 0.5306447333510215,
+    "price_monthly": 13756.849999999999
+  },
+  "i7i.48xlarge": {
+    "price": 93.9802000000,
+    "vcpus": 192,
+    "baseline": 100.0,
+    "burst": "Up to 100 Gigabit",
+    "max_egress": 50,
+    "ratio": 0.5320269588700599,
+    "price_monthly": 68605.546
   },
   "m5ad.16xlarge": {
     "price": 10.9760000000,
@@ -341,14 +422,50 @@
     "ratio": 0.5466472303206996,
     "price_monthly": 8012.4800000000005
   },
-  "m7i-flex.8xlarge": {
-    "price": 5.5371600000,
-    "vcpus": 32,
-    "baseline": 6.25,
+  "m8i.large": {
+    "price": 1.7084200000,
+    "vcpus": 2,
+    "baseline": 0.937,
     "burst": "Up to 12.5 Gigabit",
-    "max_egress": 3.125,
-    "ratio": 0.5643687377644857,
-    "price_monthly": 4042.1268
+    "max_egress": 0.937,
+    "ratio": 0.5484599805668395,
+    "price_monthly": 1247.1466
+  },
+  "u7i-6tb.112xlarge": {
+    "price": 90.9692000000,
+    "vcpus": 448,
+    "baseline": 100.0,
+    "burst": "100 Gigabit",
+    "max_egress": 50,
+    "ratio": 0.5496365802931102,
+    "price_monthly": 66407.516
+  },
+  "c8i-flex.2xlarge": {
+    "price": 3.3560800000,
+    "vcpus": 8,
+    "baseline": 1.875,
+    "burst": "Up to 15 Gigabit",
+    "max_egress": 1.875,
+    "ratio": 0.5586875163881672,
+    "price_monthly": 2449.9384
+  },
+  "g6.48xlarge": {
+    "price": 87.1936000000,
+    "vcpus": 192,
+    "baseline": 100.0,
+    "burst": "100 Gigabit",
+    "max_egress": 50,
+    "ratio": 0.573436582501468,
+    "price_monthly": 63651.328
+  },
+  "c8id.96xlarge": {
+    "price": 85.0329600000,
+    "vcpus": 384,
+    "baseline": 100.0,
+    "burst": "100 Gigabit",
+    "max_egress": 50,
+    "ratio": 0.588007285645472,
+    "price_monthly": 62074.0608
   },
   "t3a.2xlarge": {
     "price": 3.4480000000,
@@ -368,6 +485,15 @@
     "ratio": 0.6013952369497233,
     "price_monthly": 3034.61
   },
+  "i7i.24xlarge": {
+    "price": 46.0973000000,
+    "vcpus": 96,
+    "baseline": 56.25,
+    "burst": "Up to 56.25 Gigabit",
+    "max_egress": 28.125,
+    "ratio": 0.6101225017517296,
+    "price_monthly": 33651.028999999995
+  },
   "r5dn.4xlarge": {
     "price": 8.1520000000,
     "vcpus": 16,
@@ -386,14 +512,41 @@
     "ratio": 0.6157635467980295,
     "price_monthly": 1185.52
   },
+  "c8i-flex.16xlarge": {
+    "price": 12.1158400000,
+    "vcpus": 64,
+    "baseline": 15.0,
+    "burst": "Up to 30 Gigabit",
+    "max_egress": 7.5,
+    "ratio": 0.6190243515926258,
+    "price_monthly": 8844.5632
+  },
   "r7iz.4xlarge": {
-    "price": 7.8018000000,
+    "price": 8.0336000000,
     "vcpus": 16,
     "baseline": 6.25,
     "burst": "Up to 12.5 Gigabit",
     "max_egress": 5.0,
-    "ratio": 0.6408777461611423,
-    "price_monthly": 5695.314
+    "ratio": 0.6223859788886676,
+    "price_monthly": 5864.528
+  },
+  "m8idn.4xlarge": {
+    "price": 7.9243200000,
+    "vcpus": 16,
+    "baseline": 25.0,
+    "burst": "Up to 50 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 0.6309689664223554,
+    "price_monthly": 5784.7536
+  },
+  "r8idb.4xlarge": {
+    "price": 7.8757600000,
+    "vcpus": 16,
+    "baseline": 16.666,
+    "burst": "Up to 33.33 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 0.6348593659532541,
+    "price_monthly": 5749.3048
   },
   "r5ad.xlarge": {
     "price": 1.9460000000,
@@ -403,6 +556,24 @@
     "max_egress": 1.25,
     "ratio": 0.6423432682425488,
     "price_monthly": 1420.58
+  },
+  "m8in.4xlarge": {
+    "price": 7.7334400000,
+    "vcpus": 16,
+    "baseline": 25.0,
+    "burst": "Up to 50 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 0.6465428063061199,
+    "price_monthly": 5645.4112
+  },
+  "m8i-flex.12xlarge": {
+    "price": 8.6916000000,
+    "vcpus": 48,
+    "baseline": 11.25,
+    "burst": "Up to 22.5 Gigabit",
+    "max_egress": 5.625,
+    "ratio": 0.6471765842882784,
+    "price_monthly": 6344.8679999999995
   },
   "m5d.4xlarge": {
     "price": 7.6400000000,
@@ -422,6 +593,15 @@
     "ratio": 0.6568575932737782,
     "price_monthly": 5556.76
   },
+  "m6in.4xlarge": {
+    "price": 7.5106400000,
+    "vcpus": 16,
+    "baseline": 25.0,
+    "burst": "Up to 50 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 0.6657222287315062,
+    "price_monthly": 5482.7672
+  },
   "m1.large": {
     "price": 1.0510000000,
     "vcpus": 2,
@@ -440,59 +620,122 @@
     "ratio": 0.6663113006396589,
     "price_monthly": 1369.48
   },
-  "m6in.4xlarge": {
-    "price": 7.2788400000,
-    "vcpus": 16,
-    "baseline": 25.0,
-    "burst": "Up to 50 Gigabit",
-    "max_egress": 5.0,
-    "ratio": 0.6869226415198026,
-    "price_monthly": 5313.553199999999
+  "c5a.12xlarge": {
+    "price": 8.9830000000,
+    "vcpus": 48,
+    "baseline": 12.0,
+    "burst": "12 Gigabit",
+    "max_egress": 6,
+    "ratio": 0.6679283090281642,
+    "price_monthly": 6557.59
   },
   "m5dn.4xlarge": {
-    "price": 7.2530000000,
+    "price": 7.4850000000,
     "vcpus": 16,
     "baseline": 16.25,
     "burst": "Up to 25 Gigabit",
     "max_egress": 5.0,
-    "ratio": 0.6893699158968702,
-    "price_monthly": 5294.6900000000005
+    "ratio": 0.668002672010688,
+    "price_monthly": 5464.05
+  },
+  "r7a.medium": {
+    "price": 0.5780800000,
+    "vcpus": 1,
+    "baseline": 0.39,
+    "burst": "Up to 12.5 Gigabit",
+    "max_egress": 0.39,
+    "ratio": 0.674647107666759,
+    "price_monthly": 421.9984
   },
   "m5ad.xlarge": {
-    "price": 1.8010000000,
+    "price": 1.8340000000,
     "vcpus": 4,
     "baseline": 1.25,
     "burst": "Up to 10 Gigabit",
     "max_egress": 1.25,
-    "ratio": 0.694058856191005,
-    "price_monthly": 1314.73
+    "ratio": 0.6815703380588877,
+    "price_monthly": 1338.8200000000002
   },
-  "m5ad.2xlarge": {
-    "price": 3.5420000000,
-    "vcpus": 8,
-    "baseline": 2.5,
-    "burst": "Up to 10 Gigabit",
-    "max_egress": 2.5,
-    "ratio": 0.7058159232072276,
-    "price_monthly": 2585.66
-  },
-  "c7a.4xlarge": {
-    "price": 7.0332300000,
+  "c8id.4xlarge": {
+    "price": 7.2838400000,
     "vcpus": 16,
-    "baseline": 6.25,
-    "burst": "Up to 12.5 Gigabit",
+    "baseline": 7.5,
+    "burst": "Up to 15 Gigabit",
     "max_egress": 5.0,
-    "ratio": 0.7109109185964344,
-    "price_monthly": 5134.2579
+    "ratio": 0.6864511027150514,
+    "price_monthly": 5317.2032
+  },
+  "c7i-flex.large": {
+    "price": 0.5647900000,
+    "vcpus": 2,
+    "baseline": 0.39,
+    "burst": "Up to 12.5 Gigabit",
+    "max_egress": 0.39,
+    "ratio": 0.6905221409727509,
+    "price_monthly": 412.2967
+  },
+  "g6f.4xlarge": {
+    "price": 7.2178000000,
+    "vcpus": 16,
+    "baseline": 10.0,
+    "burst": "Up to 25 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 0.6927318573526559,
+    "price_monthly": 5268.994000000001
   },
   "c5d.4xlarge": {
-    "price": 6.9790000000,
+    "price": 7.2110000000,
     "vcpus": 16,
     "baseline": 5.0,
     "burst": "Up to 10 Gigabit",
     "max_egress": 5.0,
-    "ratio": 0.7164350193437455,
-    "price_monthly": 5094.67
+    "ratio": 0.6933851060879213,
+    "price_monthly": 5264.030000000001
+  },
+  "r6a.48xlarge": {
+    "price": 35.7696000000,
+    "vcpus": 192,
+    "baseline": 50.0,
+    "burst": "50 Gigabit",
+    "max_egress": 25,
+    "ratio": 0.6989175165503668,
+    "price_monthly": 26111.807999999997
+  },
+  "c7a.4xlarge": {
+    "price": 7.0760300000,
+    "vcpus": 16,
+    "baseline": 6.25,
+    "burst": "Up to 12.5 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 0.7066109103551003,
+    "price_monthly": 5165.5019
+  },
+  "m5ad.2xlarge": {
+    "price": 3.5270000000,
+    "vcpus": 8,
+    "baseline": 2.5,
+    "burst": "Up to 10 Gigabit",
+    "max_egress": 2.5,
+    "ratio": 0.7088176920895946,
+    "price_monthly": 2574.71
+  },
+  "m6a.48xlarge": {
+    "price": 35.1936000000,
+    "vcpus": 192,
+    "baseline": 50.0,
+    "burst": "50 Gigabit",
+    "max_egress": 25,
+    "ratio": 0.7103564284415348,
+    "price_monthly": 25691.328
+  },
+  "c8i-flex.12xlarge": {
+    "price": 7.8964800000,
+    "vcpus": 48,
+    "baseline": 11.25,
+    "burst": "Up to 22.5 Gigabit",
+    "max_egress": 5.625,
+    "ratio": 0.7123427147285879,
+    "price_monthly": 5764.4304
   },
   "i2.8xlarge": {
     "price": 6.8200000000,
@@ -512,23 +755,14 @@
     "ratio": 0.7340209290070014,
     "price_monthly": 387.8636
   },
-  "r6a.48xlarge": {
-    "price": 34.0564000000,
-    "vcpus": 192,
-    "baseline": 50.0,
-    "burst": "50 Gigabit",
-    "max_egress": 25,
-    "ratio": 0.7340764144184354,
-    "price_monthly": 24861.172
-  },
-  "c5ad.2xlarge": {
-    "price": 3.3780000000,
-    "vcpus": 8,
-    "baseline": 2.5,
-    "burst": "Up to 10 Gigabit",
-    "max_egress": 2.5,
-    "ratio": 0.7400828892835998,
-    "price_monthly": 2465.94
+  "c8i.96xlarge": {
+    "price": 67.7587200000,
+    "vcpus": 384,
+    "baseline": 100.0,
+    "burst": "100 Gigabit",
+    "max_egress": 50,
+    "ratio": 0.7379124044846184,
+    "price_monthly": 49463.8656
   },
   "c5a.8xlarge": {
     "price": 6.6670000000,
@@ -539,23 +773,23 @@
     "ratio": 0.7499625018749063,
     "price_monthly": 4866.91
   },
-  "c5a.12xlarge": {
-    "price": 7.9580000000,
-    "vcpus": 48,
-    "baseline": 12.0,
-    "burst": "12 Gigabit",
-    "max_egress": 6,
-    "ratio": 0.7539582809751194,
-    "price_monthly": 5809.34
-  },
-  "p3.2xlarge": {
-    "price": 3.2590000000,
+  "g7e.2xlarge": {
+    "price": 6.6183200000,
     "vcpus": 8,
-    "baseline": 2.5,
-    "burst": "Up to 10 Gigabit",
-    "max_egress": 2.5,
-    "ratio": 0.7671064743786438,
-    "price_monthly": 2379.0699999999997
+    "baseline": 50.0,
+    "burst": "50 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 0.7554787317627435,
+    "price_monthly": 4831.3736
+  },
+  "r8idn.96xlarge": {
+    "price": 196.7366400000,
+    "vcpus": 384,
+    "baseline": 300.0,
+    "burst": "600 Gigabit",
+    "max_egress": 150,
+    "ratio": 0.7624405906291782,
+    "price_monthly": 143617.74719999998
   },
   "r3.8xlarge": {
     "price": 3.1970000000,
@@ -566,24 +800,6 @@
     "ratio": 0.781983109164842,
     "price_monthly": 2333.81
   },
-  "m6a.48xlarge": {
-    "price": 31.4994000000,
-    "vcpus": 192,
-    "baseline": 50.0,
-    "burst": "50 Gigabit",
-    "max_egress": 25,
-    "ratio": 0.7936659110967192,
-    "price_monthly": 22994.562
-  },
-  "m2.4xlarge": {
-    "price": 1.2080000000,
-    "vcpus": 8,
-    "baseline": 1.0,
-    "burst": "High",
-    "max_egress": 1.0,
-    "ratio": 0.8278145695364238,
-    "price_monthly": 881.8399999999999
-  },
   "m5zn.6xlarge": {
     "price": 5.9660000000,
     "vcpus": 24,
@@ -592,6 +808,24 @@
     "max_egress": 5.0,
     "ratio": 0.8380824673147838,
     "price_monthly": 4355.18
+  },
+  "m2.4xlarge": {
+    "price": 1.1930000000,
+    "vcpus": 8,
+    "baseline": 1.0,
+    "burst": "High",
+    "max_egress": 1.0,
+    "ratio": 0.8382229673093042,
+    "price_monthly": 870.8900000000001
+  },
+  "u-3tb1.56xlarge": {
+    "price": 29.4504000000,
+    "vcpus": 224,
+    "baseline": 50.0,
+    "burst": "50 Gigabit",
+    "max_egress": 25,
+    "ratio": 0.8488849047890691,
+    "price_monthly": 21498.791999999998
   },
   "z1d.3xlarge": {
     "price": 5.8130000000,
@@ -612,31 +846,22 @@
     "price_monthly": 846.8
   },
   "m7a.xlarge": {
-    "price": 1.7918400000,
+    "price": 1.7894400000,
     "vcpus": 4,
     "baseline": 1.562,
     "burst": "Up to 12.5 Gigabit",
     "max_egress": 1.562,
-    "ratio": 0.8717296187159568,
-    "price_monthly": 1308.0432
+    "ratio": 0.8728987839771102,
+    "price_monthly": 1306.2912
   },
   "c6id.xlarge": {
-    "price": 1.7616000000,
+    "price": 1.7592000000,
     "vcpus": 4,
     "baseline": 1.562,
     "burst": "Up to 12.5 Gigabit",
     "max_egress": 1.562,
-    "ratio": 0.8866939146230699,
-    "price_monthly": 1285.968
-  },
-  "t2.micro": {
-    "price": 0.0716000000,
-    "vcpus": 1,
-    "baseline": 0.064,
-    "burst": "Low to Moderate",
-    "max_egress": 0.064,
-    "ratio": 0.893854748603352,
-    "price_monthly": 52.268
+    "ratio": 0.8879035925420645,
+    "price_monthly": 1284.2160000000001
   },
   "d2.8xlarge": {
     "price": 5.5830000000,
@@ -647,6 +872,24 @@
     "ratio": 0.8955758552749418,
     "price_monthly": 4075.59
   },
+  "r7i.16xlarge": {
+    "price": 13.9241600000,
+    "vcpus": 64,
+    "baseline": 25.0,
+    "burst": "25 Gigabit",
+    "max_egress": 12.5,
+    "ratio": 0.8977202215429871,
+    "price_monthly": 10164.6368
+  },
+  "r8i.32xlarge": {
+    "price": 27.7127700000,
+    "vcpus": 128,
+    "baseline": 50.0,
+    "burst": "50 Gigabit",
+    "max_egress": 25,
+    "ratio": 0.9021111927822445,
+    "price_monthly": 20230.322099999998
+  },
   "c6id.32xlarge": {
     "price": 27.6992000000,
     "vcpus": 128,
@@ -656,23 +899,14 @@
     "ratio": 0.9025531423290203,
     "price_monthly": 20220.416
   },
-  "u-3tb1.56xlarge": {
-    "price": 27.4300000000,
-    "vcpus": 224,
-    "baseline": 50.0,
-    "burst": "50 Gigabit",
-    "max_egress": 25,
-    "ratio": 0.911410864017499,
-    "price_monthly": 20023.9
-  },
-  "t3a.micro": {
-    "price": 0.0694000000,
-    "vcpus": 2,
-    "baseline": 0.064,
-    "burst": "Up to 5 Gigabit",
-    "max_egress": 0.064,
-    "ratio": 0.9221902017291066,
-    "price_monthly": 50.662
+  "p5.48xlarge": {
+    "price": 55.0400000000,
+    "vcpus": 192,
+    "baseline": 100.0,
+    "burst": "3200 Gigabit",
+    "max_egress": 50,
+    "ratio": 0.9084302325581396,
+    "price_monthly": 40179.2
   },
   "m7i-flex.4xlarge": {
     "price": 3.3852800000,
@@ -692,14 +926,32 @@
     "ratio": 0.9262003556609365,
     "price_monthly": 2463.02
   },
-  "g3.8xlarge": {
-    "price": 2.6730000000,
-    "vcpus": 32,
-    "baseline": 5.0,
-    "burst": "10 Gigabit",
-    "max_egress": 2.5,
-    "ratio": 0.9352787130564908,
-    "price_monthly": 1951.29
+  "i4i.xlarge": {
+    "price": 1.9710000000,
+    "vcpus": 4,
+    "baseline": 1.875,
+    "burst": "Up to 10 Gigabit",
+    "max_egress": 1.875,
+    "ratio": 0.9512937595129376,
+    "price_monthly": 1438.8300000000002
+  },
+  "r6id.32xlarge": {
+    "price": 26.2656000000,
+    "vcpus": 128,
+    "baseline": 50.0,
+    "burst": "50 Gigabit",
+    "max_egress": 25,
+    "ratio": 0.9518153021442496,
+    "price_monthly": 19173.888
+  },
+  "r8a.16xlarge": {
+    "price": 15.7363200000,
+    "vcpus": 64,
+    "baseline": 30.0,
+    "burst": "30 Gigabit",
+    "max_egress": 15,
+    "ratio": 0.9532088823816496,
+    "price_monthly": 11487.5136
   },
   "c6a.24xlarge": {
     "price": 19.6080000000,
@@ -719,41 +971,68 @@
     "ratio": 0.9589066316448395,
     "price_monthly": 4758.0232
   },
-  "i4i.xlarge": {
-    "price": 1.9380000000,
-    "vcpus": 4,
-    "baseline": 1.875,
-    "burst": "Up to 10 Gigabit",
-    "max_egress": 1.875,
-    "ratio": 0.9674922600619196,
-    "price_monthly": 1414.74
+  "r8id.12xlarge": {
+    "price": 11.3412500000,
+    "vcpus": 48,
+    "baseline": 22.5,
+    "burst": "22.5 Gigabit",
+    "max_egress": 11.25,
+    "ratio": 0.9919541496748594,
+    "price_monthly": 8279.112500000001
   },
-  "r6id.32xlarge": {
-    "price": 25.1668000000,
-    "vcpus": 128,
-    "baseline": 50.0,
-    "burst": "50 Gigabit",
-    "max_egress": 25,
-    "ratio": 0.993372220544527,
-    "price_monthly": 18371.764
+  "r8i.48xlarge": {
+    "price": 37.7099500000,
+    "vcpus": 192,
+    "baseline": 75.0,
+    "burst": "75 Gigabit",
+    "max_egress": 37.5,
+    "ratio": 0.9944325038882311,
+    "price_monthly": 27528.2635
   },
-  "r7i.16xlarge": {
-    "price": 12.5019600000,
-    "vcpus": 64,
-    "baseline": 25.0,
-    "burst": "25 Gigabit",
-    "max_egress": 12.5,
-    "ratio": 0.9998432245823855,
-    "price_monthly": 9126.4308
+  "r8a.12xlarge": {
+    "price": 11.1680600000,
+    "vcpus": 48,
+    "baseline": 22.5,
+    "burst": "22.5 Gigabit",
+    "max_egress": 11.25,
+    "ratio": 1.0073369949660012,
+    "price_monthly": 8152.683800000001
   },
-  "r7i.metal-24xl": {
-    "price": 18.5054400000,
+  "r6i.24xlarge": {
+    "price": 18.6048000000,
     "vcpus": 96,
     "baseline": 37.5,
     "burst": "37.5 Gigabit",
     "max_egress": 18.75,
-    "ratio": 1.0132155733665344,
-    "price_monthly": 13508.9712
+    "ratio": 1.0078044375644994,
+    "price_monthly": 13581.504
+  },
+  "i7ie.48xlarge": {
+    "price": 49.6087000000,
+    "vcpus": 192,
+    "baseline": 100.0,
+    "burst": "200 Gigabit",
+    "max_egress": 50,
+    "ratio": 1.0078877293700501,
+    "price_monthly": 36214.351
+  },
+  "m8idb.16xlarge": {
+    "price": 33.0540800000,
+    "vcpus": 64,
+    "baseline": 66.666,
+    "burst": "66.66 Gigabit",
+    "max_egress": 33.333,
+    "ratio": 1.0084382926404245,
+    "price_monthly": 24129.4784
+  },
+  "z1d.large": {
+    "price": 0.7410000000,
+    "vcpus": 2,
+    "baseline": 0.75,
+    "burst": "Up to 10 Gigabit",
+    "max_egress": 0.75,
+    "ratio": 1.0121457489878543,
+    "price_monthly": 540.93
   },
   "m2.2xlarge": {
     "price": 0.6900000000,
@@ -764,6 +1043,15 @@
     "ratio": 1.0144927536231885,
     "price_monthly": 503.7
   },
+  "m8ib.24xlarge": {
+    "price": 49.2378200000,
+    "vcpus": 96,
+    "baseline": 100.0,
+    "burst": "100 Gigabit",
+    "max_egress": 50,
+    "ratio": 1.0154795642861525,
+    "price_monthly": 35943.6086
+  },
   "d3.4xlarge": {
     "price": 4.8540000000,
     "vcpus": 16,
@@ -772,6 +1060,51 @@
     "max_egress": 5.0,
     "ratio": 1.0300782859497322,
     "price_monthly": 3543.42
+  },
+  "r8ib.12xlarge": {
+    "price": 24.2112000000,
+    "vcpus": 48,
+    "baseline": 50.0,
+    "burst": "50 Gigabit",
+    "max_egress": 25,
+    "ratio": 1.032579962992334,
+    "price_monthly": 17674.176
+  },
+  "m7a.24xlarge": {
+    "price": 18.1209600000,
+    "vcpus": 96,
+    "baseline": 37.5,
+    "burst": "37.5 Gigabit",
+    "max_egress": 18.75,
+    "ratio": 1.0347133926679382,
+    "price_monthly": 13228.3008
+  },
+  "m8a.2xlarge": {
+    "price": 3.6020800000,
+    "vcpus": 8,
+    "baseline": 3.75,
+    "burst": "Up to 15 Gigabit",
+    "max_egress": 3.75,
+    "ratio": 1.041065162350642,
+    "price_monthly": 2629.5184
+  },
+  "c6i.16xlarge": {
+    "price": 11.9872000000,
+    "vcpus": 64,
+    "baseline": 25.0,
+    "burst": "25 Gigabit",
+    "max_egress": 12.5,
+    "ratio": 1.0427789642285104,
+    "price_monthly": 8750.655999999999
+  },
+  "c7a.24xlarge": {
+    "price": 17.9761900000,
+    "vcpus": 96,
+    "baseline": 37.5,
+    "burst": "37.5 Gigabit",
+    "max_egress": 18.75,
+    "ratio": 1.043046385246262,
+    "price_monthly": 13122.618699999999
   },
   "x2iedn.16xlarge": {
     "price": 23.9620000000,
@@ -791,23 +1124,32 @@
     "ratio": 1.0433185877639597,
     "price_monthly": 26238.39
   },
-  "r6i.24xlarge": {
-    "price": 17.6980000000,
+  "r8i.24xlarge": {
+    "price": 18.8549800000,
     "vcpus": 96,
-    "baseline": 37.5,
-    "burst": "37.5 Gigabit",
-    "max_egress": 18.75,
-    "ratio": 1.0594417448299243,
-    "price_monthly": 12919.54
+    "baseline": 40.0,
+    "burst": "40 Gigabit",
+    "max_egress": 20,
+    "ratio": 1.0607277228615464,
+    "price_monthly": 13764.135400000001
   },
-  "m5dn.metal": {
-    "price": 46.9440000000,
+  "r8ib.24xlarge": {
+    "price": 47.0784000000,
     "vcpus": 96,
     "baseline": 100.0,
     "burst": "100 Gigabit",
     "max_egress": 50,
-    "ratio": 1.0650988411724607,
-    "price_monthly": 34269.12
+    "ratio": 1.062058183795541,
+    "price_monthly": 34367.232
+  },
+  "c8ib.16xlarge": {
+    "price": 31.2985600000,
+    "vcpus": 64,
+    "baseline": 66.666,
+    "burst": "66.66 Gigabit",
+    "max_egress": 33.333,
+    "ratio": 1.0650010735318174,
+    "price_monthly": 22847.9488
   },
   "c5.18xlarge": {
     "price": 11.7000000000,
@@ -827,15 +1169,6 @@
     "ratio": 1.07870210562651,
     "price_monthly": 3383.6960000000004
   },
-  "m7a.24xlarge": {
-    "price": 17.2141600000,
-    "vcpus": 96,
-    "baseline": 37.5,
-    "burst": "37.5 Gigabit",
-    "max_egress": 18.75,
-    "ratio": 1.0892195727238507,
-    "price_monthly": 12566.3368
-  },
   "m5d.24xlarge": {
     "price": 11.4620000000,
     "vcpus": 96,
@@ -854,15 +1187,6 @@
     "ratio": 1.0941876750700281,
     "price_monthly": 8339.52
   },
-  "c7a.24xlarge": {
-    "price": 17.0693900000,
-    "vcpus": 96,
-    "baseline": 37.5,
-    "burst": "37.5 Gigabit",
-    "max_egress": 18.75,
-    "ratio": 1.0984575312884644,
-    "price_monthly": 12460.6547
-  },
   "r6i.large": {
     "price": 0.7106000000,
     "vcpus": 2,
@@ -871,6 +1195,15 @@
     "max_egress": 0.781,
     "ratio": 1.0990712074303406,
     "price_monthly": 518.738
+  },
+  "c8i.16xlarge": {
+    "price": 13.6227200000,
+    "vcpus": 64,
+    "baseline": 30.0,
+    "burst": "30 Gigabit",
+    "max_egress": 15,
+    "ratio": 1.1011016889431773,
+    "price_monthly": 9944.5856
   },
   "m2.xlarge": {
     "price": 0.2700000000,
@@ -890,6 +1223,33 @@
     "ratio": 1.1132723438212493,
     "price_monthly": 4098.2784
   },
+  "m8id.12xlarge": {
+    "price": 10.0828800000,
+    "vcpus": 48,
+    "baseline": 22.5,
+    "burst": "22.5 Gigabit",
+    "max_egress": 11.25,
+    "ratio": 1.1157526421022566,
+    "price_monthly": 7360.502399999999
+  },
+  "c8i-flex.xlarge": {
+    "price": 0.8328400000,
+    "vcpus": 4,
+    "baseline": 0.937,
+    "burst": "Up to 12.5 Gigabit",
+    "max_egress": 0.937,
+    "ratio": 1.1250660390951444,
+    "price_monthly": 607.9732
+  },
+  "r8i.8xlarge": {
+    "price": 6.6305900000,
+    "vcpus": 32,
+    "baseline": 15.0,
+    "burst": "15 Gigabit",
+    "max_egress": 7.5,
+    "ratio": 1.1311210616249836,
+    "price_monthly": 4840.3306999999995
+  },
   "i3en.6xlarge": {
     "price": 4.3980000000,
     "vcpus": 24,
@@ -898,6 +1258,60 @@
     "max_egress": 5.0,
     "ratio": 1.1368804001819008,
     "price_monthly": 3210.54
+  },
+  "r8idn.4xlarge": {
+    "price": 4.3801400000,
+    "vcpus": 16,
+    "baseline": 25.0,
+    "burst": "Up to 50 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 1.1415160246019533,
+    "price_monthly": 3197.5022
+  },
+  "c8ib.24xlarge": {
+    "price": 43.5686400000,
+    "vcpus": 96,
+    "baseline": 100.0,
+    "burst": "100 Gigabit",
+    "max_egress": 50,
+    "ratio": 1.1476144309301368,
+    "price_monthly": 31805.107200000002
+  },
+  "c8ib.48xlarge": {
+    "price": 86.9068800000,
+    "vcpus": 192,
+    "baseline": 200.0,
+    "burst": "200 Gigabit",
+    "max_egress": 100,
+    "ratio": 1.1506568870036527,
+    "price_monthly": 63442.0224
+  },
+  "r5a.16xlarge": {
+    "price": 5.2030000000,
+    "vcpus": 64,
+    "baseline": 12.0,
+    "burst": "12 Gigabit",
+    "max_egress": 6,
+    "ratio": 1.1531808571977704,
+    "price_monthly": 3798.19
+  },
+  "p6-b300.48xlarge": {
+    "price": 151.2969600000,
+    "vcpus": 192,
+    "baseline": 350.0,
+    "burst": "6400 Gigabit",
+    "max_egress": 175,
+    "ratio": 1.1566656725951399,
+    "price_monthly": 110446.78080000001
+  },
+  "g7e.4xlarge": {
+    "price": 4.2685600000,
+    "vcpus": 16,
+    "baseline": 50.0,
+    "burst": "50 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 1.1713552111250634,
+    "price_monthly": 3116.0488
   },
   "r7iz.12xlarge": {
     "price": 10.6704000000,
@@ -926,14 +1340,32 @@
     "ratio": 1.175696012039127,
     "price_monthly": 31045.44
   },
-  "c6i.16xlarge": {
-    "price": 10.5650000000,
-    "vcpus": 64,
-    "baseline": 25.0,
-    "burst": "25 Gigabit",
-    "max_egress": 12.5,
-    "ratio": 1.183151916706105,
-    "price_monthly": 7712.45
+  "c5.large": {
+    "price": 0.6340000000,
+    "vcpus": 2,
+    "baseline": 0.75,
+    "burst": "Up to 10 Gigabit",
+    "max_egress": 0.75,
+    "ratio": 1.1829652996845426,
+    "price_monthly": 462.82
+  },
+  "m8i.12xlarge": {
+    "price": 9.4905600000,
+    "vcpus": 48,
+    "baseline": 22.5,
+    "burst": "22.5 Gigabit",
+    "max_egress": 11.25,
+    "ratio": 1.1853884280801132,
+    "price_monthly": 6928.1088
+  },
+  "i4i.2xlarge": {
+    "price": 3.9420000000,
+    "vcpus": 8,
+    "baseline": 4.687,
+    "burst": "Up to 12 Gigabit",
+    "max_egress": 4.687,
+    "ratio": 1.188990360223237,
+    "price_monthly": 2877.6600000000003
   },
   "m6a.24xlarge": {
     "price": 15.6672000000,
@@ -944,14 +1376,32 @@
     "ratio": 1.1967677696078431,
     "price_monthly": 11437.055999999999
   },
-  "i4i.2xlarge": {
-    "price": 3.8510000000,
-    "vcpus": 8,
-    "baseline": 4.687,
-    "burst": "Up to 12 Gigabit",
-    "max_egress": 4.687,
-    "ratio": 1.2170864710464815,
-    "price_monthly": 2811.23
+  "r8ib.4xlarge": {
+    "price": 4.1577600000,
+    "vcpus": 16,
+    "baseline": 16.666,
+    "burst": "Up to 33.33 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 1.2025706149465099,
+    "price_monthly": 3035.1647999999996
+  },
+  "m5ad.large": {
+    "price": 0.6180000000,
+    "vcpus": 2,
+    "baseline": 0.75,
+    "burst": "Up to 10 Gigabit",
+    "max_egress": 0.75,
+    "ratio": 1.2135922330097086,
+    "price_monthly": 451.14
+  },
+  "t2.small": {
+    "price": 0.1052000000,
+    "vcpus": 1,
+    "baseline": 0.128,
+    "burst": "Low to Moderate",
+    "max_egress": 0.128,
+    "ratio": 1.2167300380228137,
+    "price_monthly": 76.796
   },
   "d3.2xlarge": {
     "price": 4.0990000000,
@@ -962,14 +1412,14 @@
     "ratio": 1.2198097096852891,
     "price_monthly": 2992.27
   },
-  "p2.xlarge": {
-    "price": 0.9970000000,
-    "vcpus": 4,
-    "baseline": 1.25,
-    "burst": "High",
-    "max_egress": 1.25,
-    "ratio": 1.2537612838515546,
-    "price_monthly": 727.81
+  "m6id.large": {
+    "price": 0.6274500000,
+    "vcpus": 2,
+    "baseline": 0.781,
+    "burst": "Up to 12.5 Gigabit",
+    "max_egress": 0.781,
+    "ratio": 1.2447206948760858,
+    "price_monthly": 458.03849999999994
   },
   "r7i.large": {
     "price": 0.6123000000,
@@ -980,15 +1430,6 @@
     "ratio": 1.2755185366650337,
     "price_monthly": 446.979
   },
-  "t2.small": {
-    "price": 0.1002000000,
-    "vcpus": 1,
-    "baseline": 0.128,
-    "burst": "Low to Moderate",
-    "max_egress": 0.128,
-    "ratio": 1.2774451097804391,
-    "price_monthly": 73.146
-  },
   "c1.medium": {
     "price": 0.2310000000,
     "vcpus": 2,
@@ -997,6 +1438,15 @@
     "max_egress": 0.3,
     "ratio": 1.2987012987012987,
     "price_monthly": 168.63
+  },
+  "x2iezn.4xlarge": {
+    "price": 3.7792000000,
+    "vcpus": 16,
+    "baseline": 15.0,
+    "burst": "Up to 25 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 1.3230313293818798,
+    "price_monthly": 2758.816
   },
   "c5ad.large": {
     "price": 0.5660000000,
@@ -1007,24 +1457,6 @@
     "ratio": 1.325088339222615,
     "price_monthly": 413.17999999999995
   },
-  "x2iezn.4xlarge": {
-    "price": 3.7380000000,
-    "vcpus": 16,
-    "baseline": 15.0,
-    "burst": "Up to 25 Gigabit",
-    "max_egress": 5.0,
-    "ratio": 1.337613697164259,
-    "price_monthly": 2728.74
-  },
-  "f1.4xlarge": {
-    "price": 3.7300000000,
-    "vcpus": 16,
-    "baseline": 5.0,
-    "burst": "Up to 10 Gigabit",
-    "max_egress": 5.0,
-    "ratio": 1.3404825737265416,
-    "price_monthly": 2722.9
-  },
   "r5d.12xlarge": {
     "price": 4.4750000000,
     "vcpus": 48,
@@ -1033,6 +1465,15 @@
     "max_egress": 6,
     "ratio": 1.340782122905028,
     "price_monthly": 3266.7499999999995
+  },
+  "i7ie.6xlarge": {
+    "price": 3.7267000000,
+    "vcpus": 24,
+    "baseline": 12.5,
+    "burst": "Up to 25 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 1.3416695736174094,
+    "price_monthly": 2720.491
   },
   "d3.xlarge": {
     "price": 2.2330000000,
@@ -1043,32 +1484,59 @@
     "ratio": 1.3434841021047916,
     "price_monthly": 1630.0900000000001
   },
+  "r8id.large": {
+    "price": 0.6917500000,
+    "vcpus": 2,
+    "baseline": 0.937,
+    "burst": "Up to 12.5 Gigabit",
+    "max_egress": 0.937,
+    "ratio": 1.3545355981207086,
+    "price_monthly": 504.97749999999996
+  },
+  "c8ine.2xlarge": {
+    "price": 3.6804000000,
+    "vcpus": 8,
+    "baseline": 12.5,
+    "burst": "12.5 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 1.3585479839147918,
+    "price_monthly": 2686.692
+  },
+  "x8i.16xlarge": {
+    "price": 11.0281600000,
+    "vcpus": 64,
+    "baseline": 30.0,
+    "burst": "30 Gigabit",
+    "max_egress": 15,
+    "ratio": 1.3601543684531237,
+    "price_monthly": 8050.556799999999
+  },
+  "r6id.4xlarge": {
+    "price": 3.6473600000,
+    "vcpus": 16,
+    "baseline": 6.25,
+    "burst": "Up to 12.5 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 1.3708545358834883,
+    "price_monthly": 2662.5728
+  },
   "m5n.2xlarge": {
-    "price": 3.6350000000,
+    "price": 3.6200000000,
     "vcpus": 8,
     "baseline": 8.125,
     "burst": "Up to 25 Gigabit",
     "max_egress": 5.0,
-    "ratio": 1.375515818431912,
-    "price_monthly": 2653.5499999999997
+    "ratio": 1.3812154696132597,
+    "price_monthly": 2642.6
   },
-  "m5.metal": {
-    "price": 9.0240000000,
-    "vcpus": 96,
-    "baseline": 25.0,
-    "burst": "25 Gigabit",
-    "max_egress": 12.5,
-    "ratio": 1.385195035460993,
-    "price_monthly": 6587.5199999999995
-  },
-  "p4d.24xlarge": {
-    "price": 36.0498600000,
-    "vcpus": 96,
-    "baseline": 100.0,
-    "burst": "4x 100 Gigabit",
-    "max_egress": 50,
-    "ratio": 1.3869679382943512,
-    "price_monthly": 26316.397800000002
+  "c8a.4xlarge": {
+    "price": 3.6043800000,
+    "vcpus": 16,
+    "baseline": 7.5,
+    "burst": "Up to 15 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 1.3872011275170766,
+    "price_monthly": 2631.1974
   },
   "p3dn.24xlarge": {
     "price": 35.6280000000,
@@ -1079,14 +1547,14 @@
     "ratio": 1.4033905916694736,
     "price_monthly": 26008.44
   },
-  "z1d.large": {
-    "price": 0.5320000000,
-    "vcpus": 2,
-    "baseline": 0.75,
-    "burst": "Up to 10 Gigabit",
-    "max_egress": 0.75,
-    "ratio": 1.4097744360902256,
-    "price_monthly": 388.36
+  "r8id.96xlarge": {
+    "price": 35.6198400000,
+    "vcpus": 384,
+    "baseline": 100.0,
+    "burst": "100 Gigabit",
+    "max_egress": 50,
+    "ratio": 1.4037120885439125,
+    "price_monthly": 26002.483200000002
   },
   "c6id.4xlarge": {
     "price": 3.5430400000,
@@ -1115,24 +1583,6 @@
     "ratio": 1.4459224985540775,
     "price_monthly": 2524.34
   },
-  "m5a.16xlarge": {
-    "price": 4.1350000000,
-    "vcpus": 64,
-    "baseline": 12.0,
-    "burst": "12 Gigabit",
-    "max_egress": 6,
-    "ratio": 1.4510278113663846,
-    "price_monthly": 3018.5499999999997
-  },
-  "r6id.4xlarge": {
-    "price": 3.4155600000,
-    "vcpus": 16,
-    "baseline": 6.25,
-    "burst": "Up to 12.5 Gigabit",
-    "max_egress": 5.0,
-    "ratio": 1.4638887912963028,
-    "price_monthly": 2493.3588
-  },
   "z1d.xlarge": {
     "price": 0.8520000000,
     "vcpus": 4,
@@ -1141,6 +1591,15 @@
     "max_egress": 1.25,
     "ratio": 1.4671361502347418,
     "price_monthly": 621.96
+  },
+  "i7i.8xlarge": {
+    "price": 8.5188000000,
+    "vcpus": 32,
+    "baseline": 25.0,
+    "burst": "Up to 25 Gigabit",
+    "max_egress": 12.5,
+    "ratio": 1.4673428182373103,
+    "price_monthly": 6218.724
   },
   "m5a.4xlarge": {
     "price": 3.3860000000,
@@ -1151,14 +1610,32 @@
     "ratio": 1.4766686355581806,
     "price_monthly": 2471.78
   },
-  "r7a.medium": {
-    "price": 0.2636800000,
-    "vcpus": 1,
-    "baseline": 0.39,
-    "burst": "Up to 12.5 Gigabit",
-    "max_egress": 0.39,
-    "ratio": 1.4790655339805825,
-    "price_monthly": 192.48640000000003
+  "r8in.12xlarge": {
+    "price": 25.2288000000,
+    "vcpus": 48,
+    "baseline": 75.0,
+    "burst": "75 Gigabit",
+    "max_egress": 37.5,
+    "ratio": 1.486396499238965,
+    "price_monthly": 18417.024
+  },
+  "m8ine.8xlarge": {
+    "price": 16.8136000000,
+    "vcpus": 32,
+    "baseline": 50.0,
+    "burst": "50 Gigabit",
+    "max_egress": 25,
+    "ratio": 1.4868915639720226,
+    "price_monthly": 12273.928
+  },
+  "c3.8xlarge": {
+    "price": 1.6800000000,
+    "vcpus": 32,
+    "baseline": 5.0,
+    "burst": "10 Gigabit",
+    "max_egress": 2.5,
+    "ratio": 1.4880952380952381,
+    "price_monthly": 1226.3999999999999
   },
   "c6a.4xlarge": {
     "price": 3.3292000000,
@@ -1169,6 +1646,24 @@
     "ratio": 1.5018623092634866,
     "price_monthly": 2430.3160000000003
   },
+  "c4.2xlarge": {
+    "price": 1.6550000000,
+    "vcpus": 8,
+    "baseline": 2.5,
+    "burst": "High",
+    "max_egress": 2.5,
+    "ratio": 1.5105740181268883,
+    "price_monthly": 1208.15
+  },
+  "c8id.large": {
+    "price": 0.6196800000,
+    "vcpus": 2,
+    "baseline": 0.937,
+    "burst": "Up to 12.5 Gigabit",
+    "max_egress": 0.937,
+    "ratio": 1.5120707461915828,
+    "price_monthly": 452.3664
+  },
   "i3.xlarge": {
     "price": 0.8230000000,
     "vcpus": 4,
@@ -1178,14 +1673,122 @@
     "ratio": 1.5188335358444716,
     "price_monthly": 600.79
   },
-  "r5a.16xlarge": {
-    "price": 3.7810000000,
+  "m8id.96xlarge": {
+    "price": 32.7782400000,
+    "vcpus": 384,
+    "baseline": 100.0,
+    "burst": "100 Gigabit",
+    "max_egress": 50,
+    "ratio": 1.5254022180568574,
+    "price_monthly": 23928.115199999997
+  },
+  "r8i-flex.16xlarge": {
+    "price": 4.9142400000,
     "vcpus": 64,
-    "baseline": 12.0,
-    "burst": "12 Gigabit",
-    "max_egress": 6,
-    "ratio": 1.5868817773075905,
-    "price_monthly": 2760.13
+    "baseline": 15.0,
+    "burst": "Up to 30 Gigabit",
+    "max_egress": 7.5,
+    "ratio": 1.5261769876929085,
+    "price_monthly": 3587.3952000000004
+  },
+  "m5.2xlarge": {
+    "price": 1.6380000000,
+    "vcpus": 8,
+    "baseline": 2.5,
+    "burst": "Up to 10 Gigabit",
+    "max_egress": 2.5,
+    "ratio": 1.5262515262515264,
+    "price_monthly": 1195.74
+  },
+  "m5a.12xlarge": {
+    "price": 3.2540000000,
+    "vcpus": 48,
+    "baseline": 10.0,
+    "burst": "10 Gigabit",
+    "max_egress": 5,
+    "ratio": 1.5365703749231714,
+    "price_monthly": 2375.42
+  },
+  "r5d.8xlarge": {
+    "price": 3.2360000000,
+    "vcpus": 32,
+    "baseline": 10.0,
+    "burst": "10 Gigabit",
+    "max_egress": 5,
+    "ratio": 1.5451174289245981,
+    "price_monthly": 2362.28
+  },
+  "r5a.24xlarge": {
+    "price": 6.4610000000,
+    "vcpus": 96,
+    "baseline": 20.0,
+    "burst": "20 Gigabit",
+    "max_egress": 10,
+    "ratio": 1.547748026621266,
+    "price_monthly": 4716.530000000001
+  },
+  "m8ine.12xlarge": {
+    "price": 24.2028000000,
+    "vcpus": 48,
+    "baseline": 75.0,
+    "burst": "75 Gigabit",
+    "max_egress": 37.5,
+    "ratio": 1.549407506569488,
+    "price_monthly": 17668.044
+  },
+  "g7.4xlarge": {
+    "price": 3.2148800000,
+    "vcpus": 16,
+    "baseline": 80.0,
+    "burst": "Up to 100 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 1.5552680037824118,
+    "price_monthly": 2346.8624
+  },
+  "r8a.24xlarge": {
+    "price": 12.8513300000,
+    "vcpus": 96,
+    "baseline": 40.0,
+    "burst": "40 Gigabit",
+    "max_egress": 20,
+    "ratio": 1.5562591576124805,
+    "price_monthly": 9381.4709
+  },
+  "c5d.xlarge": {
+    "price": 0.8000000000,
+    "vcpus": 4,
+    "baseline": 1.25,
+    "burst": "Up to 10 Gigabit",
+    "max_egress": 1.25,
+    "ratio": 1.5625,
+    "price_monthly": 584
+  },
+  "c8in.4xlarge": {
+    "price": 3.1814400000,
+    "vcpus": 16,
+    "baseline": 25.0,
+    "burst": "Up to 50 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 1.571615369141018,
+    "price_monthly": 2322.4512
+  },
+  "m8a.4xlarge": {
+    "price": 3.1639400000,
+    "vcpus": 16,
+    "baseline": 7.5,
+    "burst": "Up to 15 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 1.580308096866565,
+    "price_monthly": 2309.6762000000003
+  },
+  "m5a.xlarge": {
+    "price": 0.7900000000,
+    "vcpus": 4,
+    "baseline": 1.25,
+    "burst": "Up to 10 Gigabit",
+    "max_egress": 1.25,
+    "ratio": 1.5822784810126582,
+    "price_monthly": 576.7
   },
   "d2.4xlarge": {
     "price": 3.1460000000,
@@ -1196,77 +1799,59 @@
     "ratio": 1.589319771137953,
     "price_monthly": 2296.58
   },
-  "c4.2xlarge": {
-    "price": 1.5650000000,
-    "vcpus": 8,
-    "baseline": 2.5,
-    "burst": "High",
-    "max_egress": 2.5,
-    "ratio": 1.597444089456869,
-    "price_monthly": 1142.45
-  },
-  "c5d.xlarge": {
-    "price": 0.7670000000,
-    "vcpus": 4,
-    "baseline": 1.25,
-    "burst": "Up to 10 Gigabit",
-    "max_egress": 1.25,
-    "ratio": 1.6297262059973925,
-    "price_monthly": 559.91
-  },
-  "r5.metal": {
-    "price": 7.6700000000,
-    "vcpus": 96,
-    "baseline": 25.0,
-    "burst": "25 Gigabit",
-    "max_egress": 12.5,
-    "ratio": 1.6297262059973925,
-    "price_monthly": 5599.1
-  },
-  "m5.2xlarge": {
-    "price": 1.5320000000,
-    "vcpus": 8,
-    "baseline": 2.5,
-    "burst": "Up to 10 Gigabit",
-    "max_egress": 2.5,
-    "ratio": 1.6318537859007833,
-    "price_monthly": 1118.3600000000001
-  },
-  "m5a.xlarge": {
-    "price": 0.7570000000,
-    "vcpus": 4,
-    "baseline": 1.25,
-    "burst": "Up to 10 Gigabit",
-    "max_egress": 1.25,
-    "ratio": 1.6512549537648613,
-    "price_monthly": 552.61
-  },
-  "t4g.small": {
-    "price": 0.0768000000,
-    "vcpus": 2,
-    "baseline": 0.128,
-    "burst": "Up to 5 Gigabit",
-    "max_egress": 0.128,
-    "ratio": 1.6666666666666667,
-    "price_monthly": 56.06399999999999
-  },
-  "m1.xlarge": {
-    "price": 0.5980000000,
-    "vcpus": 4,
-    "baseline": 1.0,
-    "burst": "High",
-    "max_egress": 1.0,
-    "ratio": 1.6722408026755853,
-    "price_monthly": 436.53999999999996
-  },
-  "m6idn.8xlarge": {
-    "price": 14.9305100000,
+  "m8idn.8xlarge": {
+    "price": 15.4006400000,
     "vcpus": 32,
     "baseline": 50.0,
     "burst": "50 Gigabit",
     "max_egress": 25,
-    "ratio": 1.6744237135904936,
-    "price_monthly": 10899.2723
+    "ratio": 1.6233091611777173,
+    "price_monthly": 11242.4672
+  },
+  "c7i-flex.16xlarge": {
+    "price": 3.7948000000,
+    "vcpus": 64,
+    "baseline": 12.5,
+    "burst": "Up to 25 Gigabit",
+    "max_egress": 6.25,
+    "ratio": 1.6469906187414356,
+    "price_monthly": 2770.204
+  },
+  "m6idn.8xlarge": {
+    "price": 15.1461100000,
+    "vcpus": 32,
+    "baseline": 50.0,
+    "burst": "50 Gigabit",
+    "max_egress": 25,
+    "ratio": 1.6505888310595922,
+    "price_monthly": 11056.6603
+  },
+  "m7a.48xlarge": {
+    "price": 14.9875200000,
+    "vcpus": 192,
+    "baseline": 50.0,
+    "burst": "50 Gigabit",
+    "max_egress": 25,
+    "ratio": 1.6680544880006833,
+    "price_monthly": 10940.8896
+  },
+  "m4.4xlarge": {
+    "price": 1.1968000000,
+    "vcpus": 16,
+    "baseline": 2.0,
+    "burst": "High",
+    "max_egress": 2.0,
+    "ratio": 1.6711229946524062,
+    "price_monthly": 873.6640000000001
+  },
+  "t3a.micro": {
+    "price": 0.0382000000,
+    "vcpus": 2,
+    "baseline": 0.064,
+    "burst": "Up to 5 Gigabit",
+    "max_egress": 0.064,
+    "ratio": 1.6753926701570683,
+    "price_monthly": 27.886
   },
   "r5b.12xlarge": {
     "price": 3.5760000000,
@@ -1286,14 +1871,23 @@
     "ratio": 1.6779424398625429,
     "price_monthly": 5438.2080000000005
   },
-  "r5a.24xlarge": {
-    "price": 5.8800000000,
-    "vcpus": 96,
-    "baseline": 20.0,
-    "burst": "20 Gigabit",
-    "max_egress": 10,
-    "ratio": 1.7006802721088436,
-    "price_monthly": 4292.4
+  "m7i.48xlarge": {
+    "price": 14.7648000000,
+    "vcpus": 192,
+    "baseline": 50.0,
+    "burst": "50 Gigabit",
+    "max_egress": 25,
+    "ratio": 1.6932162982228003,
+    "price_monthly": 10778.304
+  },
+  "m8in.8xlarge": {
+    "price": 14.6732800000,
+    "vcpus": 32,
+    "baseline": 50.0,
+    "burst": "50 Gigabit",
+    "max_egress": 25,
+    "ratio": 1.703777205914424,
+    "price_monthly": 10711.4944
   },
   "r7a.48xlarge": {
     "price": 14.6064000000,
@@ -1304,6 +1898,15 @@
     "ratio": 1.7115784861430605,
     "price_monthly": 10662.672
   },
+  "r7a.xlarge": {
+    "price": 0.9119000000,
+    "vcpus": 4,
+    "baseline": 1.562,
+    "burst": "Up to 12.5 Gigabit",
+    "max_egress": 1.562,
+    "ratio": 1.7129071170084438,
+    "price_monthly": 665.687
+  },
   "h1.2xlarge": {
     "price": 1.4580000000,
     "vcpus": 8,
@@ -1312,6 +1915,15 @@
     "max_egress": 2.5,
     "ratio": 1.7146776406035666,
     "price_monthly": 1064.34
+  },
+  "r6id.2xlarge": {
+    "price": 1.8200000000,
+    "vcpus": 8,
+    "baseline": 3.125,
+    "burst": "Up to 12.5 Gigabit",
+    "max_egress": 3.125,
+    "ratio": 1.717032967032967,
+    "price_monthly": 1328.6000000000001
   },
   "m7i.16xlarge": {
     "price": 7.2512000000,
@@ -1322,15 +1934,6 @@
     "ratio": 1.7238526037069726,
     "price_monthly": 5293.376
   },
-  "x2iedn.metal": {
-    "price": 28.9820000000,
-    "vcpus": 128,
-    "baseline": 100.0,
-    "burst": "100 Gigabit",
-    "max_egress": 50,
-    "ratio": 1.7252087502587814,
-    "price_monthly": 21156.86
-  },
   "x2iedn.xlarge": {
     "price": 1.0852300000,
     "vcpus": 4,
@@ -1339,6 +1942,24 @@
     "max_egress": 1.875,
     "ratio": 1.7277443491241489,
     "price_monthly": 792.2179
+  },
+  "r8gd.48xlarge": {
+    "price": 14.4441600000,
+    "vcpus": 192,
+    "baseline": 50.0,
+    "burst": "50 Gigabit",
+    "max_egress": 25,
+    "ratio": 1.7308033142806505,
+    "price_monthly": 10544.2368
+  },
+  "x2iedn.2xlarge": {
+    "price": 2.8824500000,
+    "vcpus": 8,
+    "baseline": 5.0,
+    "burst": "Up to 25 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 1.7346354663567451,
+    "price_monthly": 2104.1884999999997
   },
   "r5a.2xlarge": {
     "price": 1.4390000000,
@@ -1358,59 +1979,23 @@
     "ratio": 1.7391304347826086,
     "price_monthly": 2098.75
   },
-  "r6a.metal": {
-    "price": 14.2804000000,
-    "vcpus": 192,
-    "baseline": 50.0,
-    "burst": "50 Gigabit",
-    "max_egress": 25,
-    "ratio": 1.7506512422621214,
-    "price_monthly": 10424.692000000001
-  },
-  "m6in.metal": {
-    "price": 57.0407200000,
-    "vcpus": 128,
-    "baseline": 200.0,
-    "burst": "200 Gigabit",
-    "max_egress": 100,
-    "ratio": 1.7531335509088946,
-    "price_monthly": 41639.7256
-  },
-  "c5.large": {
-    "price": 0.4250000000,
-    "vcpus": 2,
-    "baseline": 0.75,
-    "burst": "Up to 10 Gigabit",
-    "max_egress": 0.75,
-    "ratio": 1.7647058823529411,
-    "price_monthly": 310.25
-  },
-  "r5d.metal": {
-    "price": 7.0770000000,
+  "r5b.24xlarge": {
+    "price": 7.1520000000,
     "vcpus": 96,
     "baseline": 25.0,
     "burst": "25 Gigabit",
     "max_egress": 12.5,
-    "ratio": 1.7662851490744667,
-    "price_monthly": 5166.21
+    "ratio": 1.7477628635346756,
+    "price_monthly": 5220.96
   },
-  "r7a.xlarge": {
-    "price": 0.8793000000,
-    "vcpus": 4,
-    "baseline": 1.562,
-    "burst": "Up to 12.5 Gigabit",
-    "max_egress": 1.562,
-    "ratio": 1.7764130558398727,
-    "price_monthly": 641.889
-  },
-  "x2iedn.2xlarge": {
-    "price": 2.7922500000,
-    "vcpus": 8,
-    "baseline": 5.0,
-    "burst": "Up to 25 Gigabit",
-    "max_egress": 5.0,
-    "ratio": 1.7906706061420001,
-    "price_monthly": 2038.3425000000002
+  "r8i-flex.12xlarge": {
+    "price": 3.1672800000,
+    "vcpus": 48,
+    "baseline": 11.25,
+    "burst": "Up to 22.5 Gigabit",
+    "max_egress": 5.625,
+    "ratio": 1.7759718117754035,
+    "price_monthly": 2312.1144
   },
   "r6a.16xlarge": {
     "price": 6.9356800000,
@@ -1421,14 +2006,32 @@
     "ratio": 1.8022746147457784,
     "price_monthly": 5063.0464
   },
-  "r6id.2xlarge": {
-    "price": 1.7298000000,
+  "m8azn.6xlarge": {
+    "price": 2.7672700000,
+    "vcpus": 24,
+    "baseline": 50.0,
+    "burst": "50 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 1.806834895040961,
+    "price_monthly": 2020.1071
+  },
+  "m7a.2xlarge": {
+    "price": 1.7252500000,
     "vcpus": 8,
     "baseline": 3.125,
     "burst": "Up to 12.5 Gigabit",
     "max_egress": 3.125,
-    "ratio": 1.806567233206151,
-    "price_monthly": 1262.754
+    "ratio": 1.8113316910592667,
+    "price_monthly": 1259.4325
+  },
+  "r8id.8xlarge": {
+    "price": 4.1331200000,
+    "vcpus": 32,
+    "baseline": 15.0,
+    "burst": "15 Gigabit",
+    "max_egress": 7.5,
+    "ratio": 1.8146097863115516,
+    "price_monthly": 3017.1776
   },
   "c7i.xlarge": {
     "price": 0.8603500000,
@@ -1439,14 +2042,23 @@
     "ratio": 1.8155401871331436,
     "price_monthly": 628.0554999999999
   },
-  "m5ad.large": {
-    "price": 0.4090000000,
-    "vcpus": 2,
-    "baseline": 0.75,
-    "burst": "Up to 10 Gigabit",
-    "max_egress": 0.75,
-    "ratio": 1.8337408312958436,
-    "price_monthly": 298.57
+  "m8in.96xlarge": {
+    "price": 81.8457600000,
+    "vcpus": 384,
+    "baseline": 300.0,
+    "burst": "600 Gigabit",
+    "max_egress": 150,
+    "ratio": 1.8327155859998123,
+    "price_monthly": 59747.4048
+  },
+  "r8a.48xlarge": {
+    "price": 20.4249600000,
+    "vcpus": 192,
+    "baseline": 75.0,
+    "burst": "75 Gigabit",
+    "max_egress": 37.5,
+    "ratio": 1.8359889076894154,
+    "price_monthly": 14910.2208
   },
   "c5d.12xlarge": {
     "price": 3.2540000000,
@@ -1475,15 +2087,6 @@
     "ratio": 1.854379302159981,
     "price_monthly": 9841.568
   },
-  "m6id.large": {
-    "price": 0.4186500000,
-    "vcpus": 2,
-    "baseline": 0.781,
-    "burst": "Up to 12.5 Gigabit",
-    "max_egress": 0.781,
-    "ratio": 1.8655201242087662,
-    "price_monthly": 305.6145
-  },
   "m6a.xlarge": {
     "price": 0.8368000000,
     "vcpus": 4,
@@ -1492,6 +2095,15 @@
     "max_egress": 1.562,
     "ratio": 1.8666347992351817,
     "price_monthly": 610.864
+  },
+  "c8i.4xlarge": {
+    "price": 2.6696800000,
+    "vcpus": 16,
+    "baseline": 7.5,
+    "burst": "Up to 15 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 1.8728836414851218,
+    "price_monthly": 1948.8664
   },
   "c6i.xlarge": {
     "price": 0.8340000000,
@@ -1529,32 +2141,77 @@
     "ratio": 1.9017770204479065,
     "price_monthly": 2399.072
   },
-  "m7a.2xlarge": {
-    "price": 1.6350500000,
-    "vcpus": 8,
-    "baseline": 3.125,
-    "burst": "Up to 12.5 Gigabit",
-    "max_egress": 3.125,
-    "ratio": 1.911256536497355,
-    "price_monthly": 1193.5865
+  "m8idb.32xlarge": {
+    "price": 34.6901800000,
+    "vcpus": 128,
+    "baseline": 133.333,
+    "burst": "133.33 Gigabit",
+    "max_egress": 66.6665,
+    "ratio": 1.9217686388482274,
+    "price_monthly": 25323.8314
   },
-  "m7i.48xlarge": {
-    "price": 13.0708000000,
+  "r8id.48xlarge": {
+    "price": 19.4065900000,
+    "vcpus": 192,
+    "baseline": 75.0,
+    "burst": "75 Gigabit",
+    "max_egress": 37.5,
+    "ratio": 1.9323332950301932,
+    "price_monthly": 14166.810700000002
+  },
+  "m8gd.48xlarge": {
+    "price": 12.9139200000,
     "vcpus": 192,
     "baseline": 50.0,
     "burst": "50 Gigabit",
     "max_egress": 25,
-    "ratio": 1.912660280931542,
-    "price_monthly": 9541.684
+    "ratio": 1.9358955297849143,
+    "price_monthly": 9427.1616
   },
-  "r5d.8xlarge": {
-    "price": 2.6070000000,
+  "i3.8xlarge": {
+    "price": 3.0910000000,
     "vcpus": 32,
-    "baseline": 10.0,
+    "baseline": 12.0,
     "burst": "10 Gigabit",
-    "max_egress": 5,
-    "ratio": 1.9179133103183734,
-    "price_monthly": 1903.1100000000001
+    "max_egress": 6,
+    "ratio": 1.9411193788417986,
+    "price_monthly": 2256.4300000000003
+  },
+  "r8ib.xlarge": {
+    "price": 2.1442400000,
+    "vcpus": 4,
+    "baseline": 4.166,
+    "burst": "Up to 20 Gigabit",
+    "max_egress": 4.166,
+    "ratio": 1.942879528410999,
+    "price_monthly": 1565.2952
+  },
+  "m8azn.12xlarge": {
+    "price": 25.6585400000,
+    "vcpus": 48,
+    "baseline": 100.0,
+    "burst": "100 Gigabit",
+    "max_egress": 50,
+    "ratio": 1.9486689421923462,
+    "price_monthly": 18730.7342
+  },
+  "x8i.xlarge": {
+    "price": 0.9614300000,
+    "vcpus": 4,
+    "baseline": 1.875,
+    "burst": "Up to 12.5 Gigabit",
+    "max_egress": 1.875,
+    "ratio": 1.950219984814287,
+    "price_monthly": 701.8439
+  },
+  "i7ie.12xlarge": {
+    "price": 6.3626000000,
+    "vcpus": 48,
+    "baseline": 25.0,
+    "burst": "Up to 50 Gigabit",
+    "max_egress": 12.5,
+    "ratio": 1.9646056643510517,
+    "price_monthly": 4644.697999999999
   },
   "i4i.24xlarge": {
     "price": 14.2752000000,
@@ -1565,6 +2222,15 @@
     "ratio": 1.9702000672494957,
     "price_monthly": 10420.896
   },
+  "r5.12xlarge": {
+    "price": 3.0240000000,
+    "vcpus": 48,
+    "baseline": 12.0,
+    "burst": "12 Gigabit",
+    "max_egress": 6,
+    "ratio": 1.9841269841269842,
+    "price_monthly": 2207.52
+  },
   "g5.24xlarge": {
     "price": 12.5600000000,
     "vcpus": 96,
@@ -1574,15 +2240,6 @@
     "ratio": 1.9904458598726114,
     "price_monthly": 9168.800000000001
   },
-  "c6id.2xlarge": {
-    "price": 1.5685200000,
-    "vcpus": 8,
-    "baseline": 3.125,
-    "burst": "Up to 12.5 Gigabit",
-    "max_egress": 3.125,
-    "ratio": 1.9923239741922323,
-    "price_monthly": 1145.0195999999999
-  },
   "z1d.6xlarge": {
     "price": 2.4910000000,
     "vcpus": 24,
@@ -1591,15 +2248,6 @@
     "max_egress": 5.0,
     "ratio": 2.0072260136491367,
     "price_monthly": 1818.43
-  },
-  "i3.metal": {
-    "price": 6.2100000000,
-    "vcpus": 72,
-    "baseline": 25.0,
-    "burst": "25 Gigabit",
-    "max_egress": 12.5,
-    "ratio": 2.0128824476650564,
-    "price_monthly": 4533.3
   },
   "trn1n.32xlarge": {
     "price": 24.7800000000,
@@ -1620,13 +2268,13 @@
     "price_monthly": 4506.29
   },
   "r6a.xlarge": {
-    "price": 0.7668000000,
+    "price": 0.7644000000,
     "vcpus": 4,
     "baseline": 1.562,
     "burst": "Up to 12.5 Gigabit",
     "max_egress": 1.562,
-    "ratio": 2.037037037037037,
-    "price_monthly": 559.764
+    "ratio": 2.043432757718472,
+    "price_monthly": 558.012
   },
   "is4gen.4xlarge": {
     "price": 2.4302000000,
@@ -1646,14 +2294,23 @@
     "ratio": 2.061345646437995,
     "price_monthly": 4426.72
   },
-  "m4.4xlarge": {
-    "price": 0.9650000000,
+  "p4d.24xlarge": {
+    "price": 24.1534062000,
+    "vcpus": 96,
+    "baseline": 100.0,
+    "burst": "4x 100 Gigabit",
+    "max_egress": 50,
+    "ratio": 2.0701014004393303,
+    "price_monthly": 17631.986526
+  },
+  "m8ine.4xlarge": {
+    "price": 2.4068000000,
     "vcpus": 16,
-    "baseline": 2.0,
-    "burst": "High",
-    "max_egress": 2.0,
-    "ratio": 2.072538860103627,
-    "price_monthly": 704.4499999999999
+    "baseline": 25.0,
+    "burst": "25 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 2.077447232840286,
+    "price_monthly": 1756.964
   },
   "m5ad.8xlarge": {
     "price": 1.8030000000,
@@ -1664,23 +2321,68 @@
     "ratio": 2.0798668885191347,
     "price_monthly": 1316.19
   },
-  "i3.8xlarge": {
-    "price": 2.8760000000,
-    "vcpus": 32,
-    "baseline": 12.0,
-    "burst": "10 Gigabit",
-    "max_egress": 6,
-    "ratio": 2.086230876216968,
-    "price_monthly": 2099.48
+  "trn1.2xlarge": {
+    "price": 1.4687500000,
+    "vcpus": 8,
+    "baseline": 3.125,
+    "burst": "Up to 12.5 Gigabit",
+    "max_egress": 3.125,
+    "ratio": 2.127659574468085,
+    "price_monthly": 1072.1875
+  },
+  "c8a.xlarge": {
+    "price": 0.8795400000,
+    "vcpus": 4,
+    "baseline": 1.875,
+    "burst": "Up to 12.5 Gigabit",
+    "max_egress": 1.875,
+    "ratio": 2.1317961661777747,
+    "price_monthly": 642.0642
+  },
+  "r4.16xlarge": {
+    "price": 5.8432000000,
+    "vcpus": 64,
+    "baseline": 25.0,
+    "burst": "25 Gigabit",
+    "max_egress": 12.5,
+    "ratio": 2.1392387732749176,
+    "price_monthly": 4265.536
+  },
+  "x8i.12xlarge": {
+    "price": 5.2519200000,
+    "vcpus": 48,
+    "baseline": 22.5,
+    "burst": "22.5 Gigabit",
+    "max_egress": 11.25,
+    "ratio": 2.1420737558835623,
+    "price_monthly": 3833.9016
   },
   "r5dn.xlarge": {
-    "price": 1.9140400000,
+    "price": 1.9116400000,
     "vcpus": 4,
     "baseline": 4.1,
     "burst": "Up to 25 Gigabit",
     "max_egress": 4.1,
-    "ratio": 2.142065996530898,
-    "price_monthly": 1397.2492
+    "ratio": 2.144755288652675,
+    "price_monthly": 1395.4972
+  },
+  "r8g.48xlarge": {
+    "price": 11.6467200000,
+    "vcpus": 192,
+    "baseline": 50.0,
+    "burst": "50 Gigabit",
+    "max_egress": 25,
+    "ratio": 2.1465270908891085,
+    "price_monthly": 8502.1056
+  },
+  "x8g.12xlarge": {
+    "price": 5.2080000000,
+    "vcpus": 48,
+    "baseline": 22.5,
+    "burst": "22.5 Gigabit",
+    "max_egress": 11.25,
+    "ratio": 2.160138248847926,
+    "price_monthly": 3801.84
   },
   "r5d.16xlarge": {
     "price": 4.6080000000,
@@ -1691,41 +2393,41 @@
     "ratio": 2.170138888888889,
     "price_monthly": 3363.8399999999997
   },
-  "c5.metal": {
-    "price": 5.7020000000,
-    "vcpus": 96,
-    "baseline": 25.0,
-    "burst": "25 Gigabit",
-    "max_egress": 12.5,
-    "ratio": 2.1922132585057876,
-    "price_monthly": 4162.46
+  "m5a.16xlarge": {
+    "price": 2.7520000000,
+    "vcpus": 64,
+    "baseline": 12.0,
+    "burst": "12 Gigabit",
+    "max_egress": 6,
+    "ratio": 2.180232558139535,
+    "price_monthly": 2008.9599999999998
   },
-  "m7a.48xlarge": {
-    "price": 11.2933200000,
-    "vcpus": 192,
-    "baseline": 50.0,
-    "burst": "50 Gigabit",
-    "max_egress": 25,
-    "ratio": 2.2136980090885587,
-    "price_monthly": 8244.123599999999
+  "m8ib.16xlarge": {
+    "price": 15.1484200000,
+    "vcpus": 64,
+    "baseline": 66.666,
+    "burst": "66.66 Gigabit",
+    "max_egress": 33.333,
+    "ratio": 2.2004275033303804,
+    "price_monthly": 11058.346599999999
   },
-  "m7a.metal-48xl": {
-    "price": 11.2533200000,
-    "vcpus": 192,
-    "baseline": 50.0,
-    "burst": "50 Gigabit",
-    "max_egress": 25,
-    "ratio": 2.2215666132305842,
-    "price_monthly": 8214.9236
+  "c5d.9xlarge": {
+    "price": 2.7250000000,
+    "vcpus": 36,
+    "baseline": 12.0,
+    "burst": "12 Gigabit",
+    "max_egress": 6,
+    "ratio": 2.2018348623853212,
+    "price_monthly": 1989.25
   },
-  "i3en.metal": {
-    "price": 22.4980000000,
-    "vcpus": 96,
-    "baseline": 100.0,
-    "burst": "100 Gigabit",
-    "max_egress": 50,
-    "ratio": 2.2224197706462796,
-    "price_monthly": 16423.54
+  "r8idb.96xlarge": {
+    "price": 45.0182400000,
+    "vcpus": 384,
+    "baseline": 200.0,
+    "burst": "400 Gigabit",
+    "max_egress": 100,
+    "ratio": 2.221321846433801,
+    "price_monthly": 32863.3152
   },
   "m4.large": {
     "price": 0.2020000000,
@@ -1736,15 +2438,6 @@
     "ratio": 2.2277227722772275,
     "price_monthly": 147.46
   },
-  "m5a.12xlarge": {
-    "price": 2.2290000000,
-    "vcpus": 48,
-    "baseline": 10.0,
-    "burst": "10 Gigabit",
-    "max_egress": 5,
-    "ratio": 2.2431583669807087,
-    "price_monthly": 1627.17
-  },
   "x2gd.12xlarge": {
     "price": 4.4088000000,
     "vcpus": 48,
@@ -1754,6 +2447,15 @@
     "ratio": 2.2681908909453816,
     "price_monthly": 3218.424
   },
+  "m8id.2xlarge": {
+    "price": 1.6494900000,
+    "vcpus": 8,
+    "baseline": 3.75,
+    "burst": "Up to 15 Gigabit",
+    "max_egress": 3.75,
+    "ratio": 2.273429969263227,
+    "price_monthly": 1204.1277
+  },
   "x2gd.16xlarge": {
     "price": 5.4560000000,
     "vcpus": 64,
@@ -1762,15 +2464,6 @@
     "max_egress": 12.5,
     "ratio": 2.2910557184750733,
     "price_monthly": 3982.88
-  },
-  "m7i.xlarge": {
-    "price": 0.6816000000,
-    "vcpus": 4,
-    "baseline": 1.562,
-    "burst": "Up to 12.5 Gigabit",
-    "max_egress": 1.562,
-    "ratio": 2.291666666666667,
-    "price_monthly": 497.568
   },
   "h1.4xlarge": {
     "price": 2.1780000000,
@@ -1799,6 +2492,51 @@
     "ratio": 2.30704775404287,
     "price_monthly": 7910.542800000001
   },
+  "r8in.2xlarge": {
+    "price": 2.1648000000,
+    "vcpus": 8,
+    "baseline": 12.5,
+    "burst": "Up to 40 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 2.309682187730968,
+    "price_monthly": 1580.304
+  },
+  "trn1.32xlarge": {
+    "price": 21.6250000000,
+    "vcpus": 128,
+    "baseline": 100.0,
+    "burst": "8x 100 Gigabit",
+    "max_egress": 50,
+    "ratio": 2.3121387283236996,
+    "price_monthly": 15786.25
+  },
+  "i7i.12xlarge": {
+    "price": 6.0006000000,
+    "vcpus": 48,
+    "baseline": 28.125,
+    "burst": "Up to 28 Gigabit",
+    "max_egress": 14.0625,
+    "ratio": 2.3435156484351563,
+    "price_monthly": 4380.438
+  },
+  "x8g.16xlarge": {
+    "price": 6.3778000000,
+    "vcpus": 64,
+    "baseline": 30.0,
+    "burst": "30 Gigabit",
+    "max_egress": 15,
+    "ratio": 2.3519081815045944,
+    "price_monthly": 4655.794
+  },
+  "x8g.8xlarge": {
+    "price": 3.1824000000,
+    "vcpus": 32,
+    "baseline": 15.0,
+    "burst": "15 Gigabit",
+    "max_egress": 7.5,
+    "ratio": 2.356711915535445,
+    "price_monthly": 2323.152
+  },
   "r6idn.2xlarge": {
     "price": 2.1095600000,
     "vcpus": 8,
@@ -1807,6 +2545,15 @@
     "max_egress": 5.0,
     "ratio": 2.370162498340886,
     "price_monthly": 1539.9788
+  },
+  "r8i.16xlarge": {
+    "price": 6.2182400000,
+    "vcpus": 64,
+    "baseline": 30.0,
+    "burst": "30 Gigabit",
+    "max_egress": 15,
+    "ratio": 2.4122581309180733,
+    "price_monthly": 4539.3152
   },
   "m4.10xlarge": {
     "price": 2.0700000000,
@@ -1817,24 +2564,6 @@
     "ratio": 2.4154589371980677,
     "price_monthly": 1511.1
   },
-  "c5d.9xlarge": {
-    "price": 2.4700000000,
-    "vcpus": 36,
-    "baseline": 12.0,
-    "burst": "12 Gigabit",
-    "max_egress": 6,
-    "ratio": 2.42914979757085,
-    "price_monthly": 1803.1000000000001
-  },
-  "r6i.metal": {
-    "price": 10.2272000000,
-    "vcpus": 128,
-    "baseline": 50.0,
-    "burst": "50 Gigabit",
-    "max_egress": 25,
-    "ratio": 2.444461827284105,
-    "price_monthly": 7465.856
-  },
   "c7a.48xlarge": {
     "price": 10.1894400000,
     "vcpus": 192,
@@ -1843,6 +2572,42 @@
     "max_egress": 25,
     "ratio": 2.45352050750581,
     "price_monthly": 7438.2912
+  },
+  "m8ib.48xlarge": {
+    "price": 40.6836500000,
+    "vcpus": 192,
+    "baseline": 200.0,
+    "burst": "200 Gigabit",
+    "max_egress": 100,
+    "ratio": 2.457989880455662,
+    "price_monthly": 29699.0645
+  },
+  "t2.micro": {
+    "price": 0.0260000000,
+    "vcpus": 1,
+    "baseline": 0.064,
+    "burst": "Low to Moderate",
+    "max_egress": 0.064,
+    "ratio": 2.4615384615384617,
+    "price_monthly": 18.98
+  },
+  "f2.6xlarge": {
+    "price": 2.0220000000,
+    "vcpus": 24,
+    "baseline": 12.5,
+    "burst": "12.5 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 2.4727992087042536,
+    "price_monthly": 1476.06
+  },
+  "r8a.4xlarge": {
+    "price": 2.0140800000,
+    "vcpus": 16,
+    "baseline": 7.5,
+    "burst": "Up to 15 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 2.4825230378137912,
+    "price_monthly": 1470.2784
   },
   "d3en.2xlarge": {
     "price": 2.0110000000,
@@ -1853,23 +2618,59 @@
     "ratio": 2.486325211337643,
     "price_monthly": 1468.0300000000002
   },
-  "c7a.metal-48xl": {
-    "price": 9.9784400000,
-    "vcpus": 192,
-    "baseline": 50.0,
-    "burst": "50 Gigabit",
-    "max_egress": 25,
-    "ratio": 2.505401645948665,
-    "price_monthly": 7284.261200000001
+  "r6g.8xlarge": {
+    "price": 2.4064000000,
+    "vcpus": 32,
+    "baseline": 12.0,
+    "burst": "12 Gigabit",
+    "max_egress": 6,
+    "ratio": 2.4933510638297873,
+    "price_monthly": 1756.672
   },
-  "r6id.metal": {
-    "price": 9.9008000000,
-    "vcpus": 128,
-    "baseline": 50.0,
-    "burst": "50 Gigabit",
-    "max_egress": 25,
-    "ratio": 2.525048480930834,
-    "price_monthly": 7227.584
+  "i7i.xlarge": {
+    "price": 0.9385000000,
+    "vcpus": 4,
+    "baseline": 2.343,
+    "burst": "Up to 10 Gigabit",
+    "max_egress": 2.343,
+    "ratio": 2.4965370271710174,
+    "price_monthly": 685.105
+  },
+  "r8id.24xlarge": {
+    "price": 7.9833600000,
+    "vcpus": 96,
+    "baseline": 40.0,
+    "burst": "40 Gigabit",
+    "max_egress": 20,
+    "ratio": 2.505210838544172,
+    "price_monthly": 5827.852800000001
+  },
+  "r5dn.16xlarge": {
+    "price": 14.9318400000,
+    "vcpus": 64,
+    "baseline": 75.0,
+    "burst": "75 Gigabit",
+    "max_egress": 37.5,
+    "ratio": 2.5114118554712617,
+    "price_monthly": 10900.243199999999
+  },
+  "gr6.4xlarge": {
+    "price": 1.9824000000,
+    "vcpus": 16,
+    "baseline": 10.0,
+    "burst": "Up to 25 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 2.522195318805488,
+    "price_monthly": 1447.152
+  },
+  "r6gd.12xlarge": {
+    "price": 3.9552000000,
+    "vcpus": 48,
+    "baseline": 20.0,
+    "burst": "20 Gigabit",
+    "max_egress": 10,
+    "ratio": 2.52831715210356,
+    "price_monthly": 2887.296
   },
   "d3.8xlarge": {
     "price": 4.9358700000,
@@ -1889,23 +2690,68 @@
     "ratio": 2.5380710659898478,
     "price_monthly": 5752.4
   },
+  "m5n.24xlarge": {
+    "price": 19.6130000000,
+    "vcpus": 96,
+    "baseline": 100.0,
+    "burst": "100 Gigabit",
+    "max_egress": 50,
+    "ratio": 2.549329526334574,
+    "price_monthly": 14317.49
+  },
+  "c7a.32xlarge": {
+    "price": 9.7986600000,
+    "vcpus": 128,
+    "baseline": 50.0,
+    "burst": "50 Gigabit",
+    "max_egress": 25,
+    "ratio": 2.5513692688592116,
+    "price_monthly": 7153.0217999999995
+  },
   "inf2.xlarge": {
-    "price": 0.8182000000,
+    "price": 0.8158000000,
     "vcpus": 4,
     "baseline": 2.083,
     "burst": "Up to 15 Gigabit",
     "max_egress": 2.083,
-    "ratio": 2.545832314837448,
-    "price_monthly": 597.2860000000001
+    "ratio": 2.553321892620741,
+    "price_monthly": 595.534
   },
-  "c5d.metal": {
-    "price": 4.7730000000,
-    "vcpus": 96,
-    "baseline": 25.0,
-    "burst": "25 Gigabit",
-    "max_egress": 12.5,
-    "ratio": 2.6188979677351774,
-    "price_monthly": 3484.29
+  "m6i.8xlarge": {
+    "price": 2.4224000000,
+    "vcpus": 32,
+    "baseline": 12.5,
+    "burst": "12.5 Gigabit",
+    "max_egress": 6.25,
+    "ratio": 2.5800858652575958,
+    "price_monthly": 1768.352
+  },
+  "i4i.12xlarge": {
+    "price": 5.4480000000,
+    "vcpus": 48,
+    "baseline": 28.125,
+    "burst": "28.12 Gigabit",
+    "max_egress": 14.0625,
+    "ratio": 2.581222466960352,
+    "price_monthly": 3977.0400000000004
+  },
+  "r8in.96xlarge": {
+    "price": 57.8304000000,
+    "vcpus": 384,
+    "baseline": 300.0,
+    "burst": "600 Gigabit",
+    "max_egress": 150,
+    "ratio": 2.5937915006640107,
+    "price_monthly": 42216.191999999995
+  },
+  "m8in.xlarge": {
+    "price": 1.9251800000,
+    "vcpus": 4,
+    "baseline": 6.25,
+    "burst": "Up to 30 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 2.5971597461016636,
+    "price_monthly": 1405.3814
   },
   "g5g.xlarge": {
     "price": 0.4763000000,
@@ -1916,6 +2762,69 @@
     "ratio": 2.624396388830569,
     "price_monthly": 347.699
   },
+  "m8i.xlarge": {
+    "price": 0.7128500000,
+    "vcpus": 4,
+    "baseline": 1.875,
+    "burst": "Up to 12.5 Gigabit",
+    "max_egress": 1.875,
+    "ratio": 2.6302868766220104,
+    "price_monthly": 520.3805
+  },
+  "c8i-flex.8xlarge": {
+    "price": 1.4243200000,
+    "vcpus": 32,
+    "baseline": 7.5,
+    "burst": "Up to 15 Gigabit",
+    "max_egress": 3.75,
+    "ratio": 2.6328353179060886,
+    "price_monthly": 1039.7536
+  },
+  "c8a.48xlarge": {
+    "price": 14.2051200000,
+    "vcpus": 192,
+    "baseline": 75.0,
+    "burst": "75 Gigabit",
+    "max_egress": 37.5,
+    "ratio": 2.6398932215989728,
+    "price_monthly": 10369.7376
+  },
+  "i4i.16xlarge": {
+    "price": 7.0780000000,
+    "vcpus": 64,
+    "baseline": 37.5,
+    "burst": "37.5 Gigabit",
+    "max_egress": 18.75,
+    "ratio": 2.649053404916643,
+    "price_monthly": 5166.9400000000005
+  },
+  "c7i-flex.xlarge": {
+    "price": 0.2947800000,
+    "vcpus": 4,
+    "baseline": 0.781,
+    "burst": "Up to 12.5 Gigabit",
+    "max_egress": 0.781,
+    "ratio": 2.6494334758124705,
+    "price_monthly": 215.18939999999998
+  },
+  "m8gd.12xlarge": {
+    "price": 4.2348500000,
+    "vcpus": 48,
+    "baseline": 22.5,
+    "burst": "22.5 Gigabit",
+    "max_egress": 11.25,
+    "ratio": 2.656528566537186,
+    "price_monthly": 3091.4404999999997
+  },
+  "r8in.4xlarge": {
+    "price": 1.8689600000,
+    "vcpus": 16,
+    "baseline": 25.0,
+    "burst": "Up to 50 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 2.6752846502867906,
+    "price_monthly": 1364.3408
+  },
   "t2.2xlarge": {
     "price": 0.3712000000,
     "vcpus": 8,
@@ -1924,6 +2833,33 @@
     "max_egress": 1.0,
     "ratio": 2.6939655172413794,
     "price_monthly": 270.976
+  },
+  "c6a.48xlarge": {
+    "price": 9.1872000000,
+    "vcpus": 192,
+    "baseline": 50.0,
+    "burst": "50 Gigabit",
+    "max_egress": 25,
+    "ratio": 2.721177290142807,
+    "price_monthly": 6706.656000000001
+  },
+  "r9g.12xlarge": {
+    "price": 4.5806900000,
+    "vcpus": 48,
+    "baseline": 25.0,
+    "burst": "25 Gigabit",
+    "max_egress": 12.5,
+    "ratio": 2.728846527488217,
+    "price_monthly": 3343.9037
+  },
+  "i7i.2xlarge": {
+    "price": 1.7150000000,
+    "vcpus": 8,
+    "baseline": 4.687,
+    "burst": "Up to 12 Gigabit",
+    "max_egress": 4.687,
+    "ratio": 2.7329446064139944,
+    "price_monthly": 1251.95
   },
   "g5.4xlarge": {
     "price": 1.8144000000,
@@ -1934,23 +2870,41 @@
     "ratio": 2.755731922398589,
     "price_monthly": 1324.512
   },
-  "r5dn.16xlarge": {
-    "price": 13.5096400000,
-    "vcpus": 64,
-    "baseline": 75.0,
-    "burst": "75 Gigabit",
-    "max_egress": 37.5,
-    "ratio": 2.7757956540662816,
-    "price_monthly": 9862.037199999999
+  "hpc7g.4xlarge": {
+    "price": 1.8082000000,
+    "vcpus": 16,
+    "baseline": 200.0,
+    "burst": "200 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 2.765180842827121,
+    "price_monthly": 1319.986
   },
-  "i4i.12xlarge": {
-    "price": 5.0640000000,
-    "vcpus": 48,
-    "baseline": 28.125,
-    "burst": "28.12 Gigabit",
-    "max_egress": 14.0625,
-    "ratio": 2.7769549763033177,
-    "price_monthly": 3696.7200000000003
+  "m9gd.24xlarge": {
+    "price": 9.0177600000,
+    "vcpus": 96,
+    "baseline": 50.0,
+    "burst": "50 Gigabit",
+    "max_egress": 25,
+    "ratio": 2.772307091783325,
+    "price_monthly": 6582.964800000001
+  },
+  "r8ib.2xlarge": {
+    "price": 1.7968000000,
+    "vcpus": 8,
+    "baseline": 8.333,
+    "burst": "Up to 26.66 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 2.782724844167409,
+    "price_monthly": 1311.664
+  },
+  "i8g.16xlarge": {
+    "price": 6.7315200000,
+    "vcpus": 64,
+    "baseline": 37.5,
+    "burst": "Up to 37.5 Gigabit",
+    "max_egress": 18.75,
+    "ratio": 2.785403593839133,
+    "price_monthly": 4914.009599999999
   },
   "m6i.12xlarge": {
     "price": 3.3456000000,
@@ -1961,23 +2915,32 @@
     "ratio": 2.802187948350072,
     "price_monthly": 2442.288
   },
-  "r4.16xlarge": {
-    "price": 4.4210000000,
-    "vcpus": 64,
-    "baseline": 25.0,
-    "burst": "25 Gigabit",
-    "max_egress": 12.5,
-    "ratio": 2.827414612078715,
-    "price_monthly": 3227.3300000000004
+  "t4g.small": {
+    "price": 0.0456000000,
+    "vcpus": 2,
+    "baseline": 0.128,
+    "burst": "Up to 5 Gigabit",
+    "max_egress": 0.128,
+    "ratio": 2.807017543859649,
+    "price_monthly": 33.288000000000004
   },
-  "m6i.8xlarge": {
-    "price": 2.2100000000,
+  "c6gd.8xlarge": {
+    "price": 2.0961000000,
     "vcpus": 32,
-    "baseline": 12.5,
-    "burst": "12.5 Gigabit",
-    "max_egress": 6.25,
-    "ratio": 2.828054298642534,
-    "price_monthly": 1613.3
+    "baseline": 12.0,
+    "burst": "12 Gigabit",
+    "max_egress": 6,
+    "ratio": 2.8624588521540004,
+    "price_monthly": 1530.1529999999998
+  },
+  "r9gd.24xlarge": {
+    "price": 8.7254400000,
+    "vcpus": 96,
+    "baseline": 50.0,
+    "burst": "50 Gigabit",
+    "max_egress": 25,
+    "ratio": 2.8651850221879926,
+    "price_monthly": 6369.5712
   },
   "t3.large": {
     "price": 0.1784000000,
@@ -1988,14 +2951,50 @@
     "ratio": 2.8699551569506725,
     "price_monthly": 130.232
   },
-  "m5n.24xlarge": {
-    "price": 17.3970000000,
-    "vcpus": 96,
+  "r9g.48xlarge": {
+    "price": 17.4203500000,
+    "vcpus": 192,
     "baseline": 100.0,
     "burst": "100 Gigabit",
     "max_egress": 50,
-    "ratio": 2.8740587457607636,
-    "price_monthly": 12699.81
+    "ratio": 2.8702063965419753,
+    "price_monthly": 12716.8555
+  },
+  "r9gd.12xlarge": {
+    "price": 4.3537500000,
+    "vcpus": 48,
+    "baseline": 25.0,
+    "burst": "25 Gigabit",
+    "max_egress": 12.5,
+    "ratio": 2.871088142405972,
+    "price_monthly": 3178.2374999999997
+  },
+  "r8i-flex.2xlarge": {
+    "price": 0.6528800000,
+    "vcpus": 8,
+    "baseline": 1.875,
+    "burst": "Up to 15 Gigabit",
+    "max_egress": 1.875,
+    "ratio": 2.871890699669158,
+    "price_monthly": 476.6024
+  },
+  "m8ib.4xlarge": {
+    "price": 1.7407000000,
+    "vcpus": 16,
+    "baseline": 16.666,
+    "burst": "Up to 33.33 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 2.8724076520939854,
+    "price_monthly": 1270.711
+  },
+  "g5g.16xlarge": {
+    "price": 4.3312000000,
+    "vcpus": 64,
+    "baseline": 25.0,
+    "burst": "25 Gigabit",
+    "max_egress": 12.5,
+    "ratio": 2.8860362024381234,
+    "price_monthly": 3161.776
   },
   "c5.24xlarge": {
     "price": 4.3250000000,
@@ -2015,14 +3014,32 @@
     "ratio": 2.8901734104046244,
     "price_monthly": 126.28999999999999
   },
-  "x2gd.xlarge": {
-    "price": 0.4274000000,
+  "m8g.48xlarge": {
+    "price": 8.6169600000,
+    "vcpus": 192,
+    "baseline": 50.0,
+    "burst": "50 Gigabit",
+    "max_egress": 25,
+    "ratio": 2.9012551990493165,
+    "price_monthly": 6290.380800000001
+  },
+  "r7iz.xlarge": {
+    "price": 0.5368000000,
     "vcpus": 4,
-    "baseline": 1.25,
-    "burst": "Up to 10 Gigabit",
-    "max_egress": 1.25,
-    "ratio": 2.924660739354235,
-    "price_monthly": 312.002
+    "baseline": 1.562,
+    "burst": "Up to 12.5 Gigabit",
+    "max_egress": 1.562,
+    "ratio": 2.9098360655737703,
+    "price_monthly": 391.86400000000003
+  },
+  "r8gb.4xlarge": {
+    "price": 1.7176900000,
+    "vcpus": 16,
+    "baseline": 33.333,
+    "burst": "33.33 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 2.9108861319562904,
+    "price_monthly": 1253.9137
   },
   "i3.large": {
     "price": 0.2560000000,
@@ -2033,6 +3050,24 @@
     "ratio": 2.9296875,
     "price_monthly": 186.88
   },
+  "r8a.8xlarge": {
+    "price": 2.5561600000,
+    "vcpus": 32,
+    "baseline": 15.0,
+    "burst": "15 Gigabit",
+    "max_egress": 7.5,
+    "ratio": 2.934088632949424,
+    "price_monthly": 1865.9968000000001
+  },
+  "x2gd.xlarge": {
+    "price": 0.4250000000,
+    "vcpus": 4,
+    "baseline": 1.25,
+    "burst": "Up to 10 Gigabit",
+    "max_egress": 1.25,
+    "ratio": 2.9411764705882355,
+    "price_monthly": 310.25
+  },
   "r5a.xlarge": {
     "price": 0.4240000000,
     "vcpus": 4,
@@ -2042,23 +3077,23 @@
     "ratio": 2.94811320754717,
     "price_monthly": 309.52
   },
-  "i4g.large": {
-    "price": 0.2648800000,
-    "vcpus": 2,
-    "baseline": 0.781,
-    "burst": "Up to 10 Gigabit",
-    "max_egress": 0.781,
-    "ratio": 2.9485049833887045,
-    "price_monthly": 193.3624
+  "r7i.12xlarge": {
+    "price": 3.1752000000,
+    "vcpus": 48,
+    "baseline": 18.75,
+    "burst": "18.75 Gigabit",
+    "max_egress": 9.375,
+    "ratio": 2.9525699168556314,
+    "price_monthly": 2317.8959999999997
   },
-  "g4ad.4xlarge": {
-    "price": 1.6897000000,
-    "vcpus": 16,
-    "baseline": 8.333,
-    "burst": "Up to 10 Gigabit",
-    "max_egress": 5.0,
-    "ratio": 2.959105166597621,
-    "price_monthly": 1233.481
+  "r7gd.16xlarge": {
+    "price": 5.0458000000,
+    "vcpus": 64,
+    "baseline": 30.0,
+    "burst": "30 Gigabit",
+    "max_egress": 15,
+    "ratio": 2.972769432002854,
+    "price_monthly": 3683.4339999999997
   },
   "r7iz.large": {
     "price": 0.2609000000,
@@ -2069,6 +3104,15 @@
     "ratio": 2.9934840935224223,
     "price_monthly": 190.45700000000002
   },
+  "m6idn.4xlarge": {
+    "price": 1.6697600000,
+    "vcpus": 16,
+    "baseline": 25.0,
+    "burst": "Up to 50 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 2.994442315063243,
+    "price_monthly": 1218.9248
+  },
   "t3a.large": {
     "price": 0.1704000000,
     "vcpus": 2,
@@ -2077,15 +3121,6 @@
     "max_egress": 0.512,
     "ratio": 3.0046948356807515,
     "price_monthly": 124.392
-  },
-  "m6a.metal": {
-    "price": 8.2944000000,
-    "vcpus": 192,
-    "baseline": 50.0,
-    "burst": "50 Gigabit",
-    "max_egress": 25,
-    "ratio": 3.014081790123457,
-    "price_monthly": 6054.911999999999
   },
   "r7i.2xlarge": {
     "price": 1.0324000000,
@@ -2105,14 +3140,41 @@
     "ratio": 3.0448815541075454,
     "price_monthly": 1198.733
   },
-  "g5.48xlarge": {
-    "price": 16.2880000000,
-    "vcpus": 192,
-    "baseline": 100.0,
-    "burst": "100 Gigabit",
-    "max_egress": 50,
-    "ratio": 3.069744597249509,
-    "price_monthly": 11890.24
+  "i8g.24xlarge": {
+    "price": 9.2284800000,
+    "vcpus": 96,
+    "baseline": 56.25,
+    "burst": "Up to 56.25 Gigabit",
+    "max_egress": 28.125,
+    "ratio": 3.0476308124414855,
+    "price_monthly": 6736.7904
+  },
+  "i7i.16xlarge": {
+    "price": 6.1523000000,
+    "vcpus": 64,
+    "baseline": 37.5,
+    "burst": "Up to 37.5 Gigabit",
+    "max_egress": 18.75,
+    "ratio": 3.047640719730832,
+    "price_monthly": 4491.179
+  },
+  "r8gd.12xlarge": {
+    "price": 3.6520400000,
+    "vcpus": 48,
+    "baseline": 22.5,
+    "burst": "22.5 Gigabit",
+    "max_egress": 11.25,
+    "ratio": 3.0804700934272353,
+    "price_monthly": 2665.9892
+  },
+  "m8id.8xlarge": {
+    "price": 2.4339200000,
+    "vcpus": 32,
+    "baseline": 15.0,
+    "burst": "15 Gigabit",
+    "max_egress": 7.5,
+    "ratio": 3.0814488561661846,
+    "price_monthly": 1776.7616
   },
   "m6idn.24xlarge": {
     "price": 24.3375400000,
@@ -2123,14 +3185,86 @@
     "ratio": 3.081659033739647,
     "price_monthly": 17766.4042
   },
-  "r7iz.xlarge": {
-    "price": 0.5042000000,
+  "inf2.48xlarge": {
+    "price": 16.1225900000,
+    "vcpus": 192,
+    "baseline": 100.0,
+    "burst": "100 Gigabit",
+    "max_egress": 50,
+    "ratio": 3.10123869676026,
+    "price_monthly": 11769.490699999998
+  },
+  "g6.xlarge": {
+    "price": 0.8048000000,
     "vcpus": 4,
-    "baseline": 1.562,
-    "burst": "Up to 12.5 Gigabit",
-    "max_egress": 1.562,
-    "ratio": 3.0979769932566446,
-    "price_monthly": 368.066
+    "baseline": 2.5,
+    "burst": "Up to 10 Gigabit",
+    "max_egress": 2.5,
+    "ratio": 3.106361829025845,
+    "price_monthly": 587.504
+  },
+  "r5dn.large": {
+    "price": 0.6758000000,
+    "vcpus": 2,
+    "baseline": 2.1,
+    "burst": "Up to 25 Gigabit",
+    "max_egress": 2.1,
+    "ratio": 3.1074282332050904,
+    "price_monthly": 493.33399999999995
+  },
+  "m8a.24xlarge": {
+    "price": 6.4268200000,
+    "vcpus": 96,
+    "baseline": 40.0,
+    "burst": "40 Gigabit",
+    "max_egress": 20,
+    "ratio": 3.1119589470375706,
+    "price_monthly": 4691.5786
+  },
+  "r8gd.16xlarge": {
+    "price": 4.8147200000,
+    "vcpus": 64,
+    "baseline": 30.0,
+    "burst": "30 Gigabit",
+    "max_egress": 15,
+    "ratio": 3.1154459657051707,
+    "price_monthly": 3514.7456
+  },
+  "r8gd.8xlarge": {
+    "price": 2.4073600000,
+    "vcpus": 32,
+    "baseline": 15.0,
+    "burst": "15 Gigabit",
+    "max_egress": 7.5,
+    "ratio": 3.1154459657051707,
+    "price_monthly": 1757.3728
+  },
+  "m8ib.96xlarge": {
+    "price": 32.0793600000,
+    "vcpus": 384,
+    "baseline": 200.0,
+    "burst": "400 Gigabit",
+    "max_egress": 100,
+    "ratio": 3.117269172452318,
+    "price_monthly": 23417.932800000002
+  },
+  "f2.48xlarge": {
+    "price": 15.9650000000,
+    "vcpus": 192,
+    "baseline": 100.0,
+    "burst": "100 Gigabit",
+    "max_egress": 50,
+    "ratio": 3.1318509238960224,
+    "price_monthly": 11654.45
+  },
+  "r9gd.4xlarge": {
+    "price": 1.5823800000,
+    "vcpus": 16,
+    "baseline": 8.5,
+    "burst": "Up to 17 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 3.159797267407323,
+    "price_monthly": 1155.1373999999998
   },
   "c5ad.16xlarge": {
     "price": 3.1520000000,
@@ -2140,6 +3274,15 @@
     "max_egress": 10,
     "ratio": 3.1725888324873095,
     "price_monthly": 2300.96
+  },
+  "c8gd.8xlarge": {
+    "price": 2.3612800000,
+    "vcpus": 32,
+    "baseline": 15.0,
+    "burst": "15 Gigabit",
+    "max_egress": 7.5,
+    "ratio": 3.176243393413742,
+    "price_monthly": 1723.7343999999998
   },
   "i3en.3xlarge": {
     "price": 1.5740000000,
@@ -2159,6 +3302,24 @@
     "ratio": 3.1806615776081424,
     "price_monthly": 573.78
   },
+  "r8in.48xlarge": {
+    "price": 46.9824000000,
+    "vcpus": 192,
+    "baseline": 300.0,
+    "burst": "300 Gigabit",
+    "max_egress": 150,
+    "ratio": 3.1926849203105845,
+    "price_monthly": 34297.152
+  },
+  "r9g.24xlarge": {
+    "price": 7.8173800000,
+    "vcpus": 96,
+    "baseline": 50.0,
+    "burst": "50 Gigabit",
+    "max_egress": 25,
+    "ratio": 3.198002399781001,
+    "price_monthly": 5706.6874
+  },
   "h1.8xlarge": {
     "price": 1.8720000000,
     "vcpus": 32,
@@ -2167,6 +3328,42 @@
     "max_egress": 6,
     "ratio": 3.205128205128205,
     "price_monthly": 1366.5600000000002
+  },
+  "c7gd.8xlarge": {
+    "price": 2.3322000000,
+    "vcpus": 32,
+    "baseline": 15.0,
+    "burst": "15 Gigabit",
+    "max_egress": 7.5,
+    "ratio": 3.2158476974530488,
+    "price_monthly": 1702.5059999999999
+  },
+  "r6idn.8xlarge": {
+    "price": 7.7598400000,
+    "vcpus": 32,
+    "baseline": 50.0,
+    "burst": "50 Gigabit",
+    "max_egress": 25,
+    "ratio": 3.221715911668282,
+    "price_monthly": 5664.6831999999995
+  },
+  "i8ge.3xlarge": {
+    "price": 1.5488000000,
+    "vcpus": 12,
+    "baseline": 12.5,
+    "burst": "Up to 25 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 3.228305785123967,
+    "price_monthly": 1130.624
+  },
+  "r6in.16xlarge": {
+    "price": 15.4036200000,
+    "vcpus": 64,
+    "baseline": 100.0,
+    "burst": "100 Gigabit",
+    "max_egress": 50,
+    "ratio": 3.2459902282710167,
+    "price_monthly": 11244.6426
   },
   "r7gd.8xlarge": {
     "price": 2.3076000000,
@@ -2177,14 +3374,32 @@
     "ratio": 3.2501300052002082,
     "price_monthly": 1684.548
   },
-  "r6gd.metal": {
-    "price": 3.8164000000,
-    "vcpus": 64,
-    "baseline": 25.0,
-    "burst": "25 Gigabit",
-    "max_egress": 12.5,
-    "ratio": 3.275338014883136,
-    "price_monthly": 2785.9719999999998
+  "r8i.12xlarge": {
+    "price": 3.4590800000,
+    "vcpus": 48,
+    "baseline": 22.5,
+    "burst": "22.5 Gigabit",
+    "max_egress": 11.25,
+    "ratio": 3.252309862738069,
+    "price_monthly": 2525.1284
+  },
+  "i4g.4xlarge": {
+    "price": 1.5318700000,
+    "vcpus": 16,
+    "baseline": 9.375,
+    "burst": "Up to 25 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 3.26398454176921,
+    "price_monthly": 1118.2651
+  },
+  "c8g.48xlarge": {
+    "price": 7.6569600000,
+    "vcpus": 192,
+    "baseline": 50.0,
+    "burst": "50 Gigabit",
+    "max_egress": 25,
+    "ratio": 3.2650033433634236,
+    "price_monthly": 5589.5808
   },
   "r6gd.16xlarge": {
     "price": 3.7984000000,
@@ -2195,6 +3410,15 @@
     "ratio": 3.2908593091828138,
     "price_monthly": 2772.832
   },
+  "m6id.24xlarge": {
+    "price": 5.6952000000,
+    "vcpus": 96,
+    "baseline": 37.5,
+    "burst": "37.5 Gigabit",
+    "max_egress": 18.75,
+    "ratio": 3.2922461019806155,
+    "price_monthly": 4157.496
+  },
   "m6id.12xlarge": {
     "price": 2.8476000000,
     "vcpus": 48,
@@ -2204,23 +3428,14 @@
     "ratio": 3.2922461019806155,
     "price_monthly": 2078.748
   },
-  "r7iz.2xlarge": {
-    "price": 0.9484000000,
-    "vcpus": 8,
-    "baseline": 3.125,
-    "burst": "Up to 12.5 Gigabit",
-    "max_egress": 3.125,
-    "ratio": 3.2950231969633066,
-    "price_monthly": 692.332
-  },
-  "x2gd.large": {
-    "price": 0.2270000000,
-    "vcpus": 2,
-    "baseline": 0.75,
-    "burst": "Up to 10 Gigabit",
-    "max_egress": 0.75,
-    "ratio": 3.303964757709251,
-    "price_monthly": 165.71
+  "c8a.8xlarge": {
+    "price": 2.2651200000,
+    "vcpus": 32,
+    "baseline": 15.0,
+    "burst": "15 Gigabit",
+    "max_egress": 7.5,
+    "ratio": 3.3110828565374018,
+    "price_monthly": 1653.5376
   },
   "i4i.4xlarge": {
     "price": 1.5100000000,
@@ -2231,15 +3446,6 @@
     "ratio": 3.3112582781456954,
     "price_monthly": 1102.3
   },
-  "i4i.16xlarge": {
-    "price": 5.6560000000,
-    "vcpus": 64,
-    "baseline": 37.5,
-    "burst": "37.5 Gigabit",
-    "max_egress": 18.75,
-    "ratio": 3.3150636492220653,
-    "price_monthly": 4128.88
-  },
   "m6in.32xlarge": {
     "price": 30.1587200000,
     "vcpus": 128,
@@ -2249,50 +3455,68 @@
     "ratio": 3.3157905905820937,
     "price_monthly": 22015.865599999997
   },
-  "r7gd.16xlarge": {
-    "price": 4.4846000000,
-    "vcpus": 64,
-    "baseline": 30.0,
-    "burst": "30 Gigabit",
-    "max_egress": 15,
-    "ratio": 3.3447799134816925,
-    "price_monthly": 3273.7580000000003
+  "i4g.8xlarge": {
+    "price": 2.8166400000,
+    "vcpus": 32,
+    "baseline": 18.75,
+    "burst": "18.75 Gigabit",
+    "max_egress": 9.375,
+    "ratio": 3.32843387866394,
+    "price_monthly": 2056.1472
   },
-  "c6a.48xlarge": {
-    "price": 7.4740000000,
-    "vcpus": 192,
-    "baseline": 50.0,
-    "burst": "50 Gigabit",
-    "max_egress": 25,
-    "ratio": 3.344929087503345,
-    "price_monthly": 5456.02
+  "c8i.24xlarge": {
+    "price": 5.9846900000,
+    "vcpus": 96,
+    "baseline": 40.0,
+    "burst": "40 Gigabit",
+    "max_egress": 20,
+    "ratio": 3.3418606477528496,
+    "price_monthly": 4368.8237
   },
-  "c6a.metal": {
-    "price": 7.4690000000,
-    "vcpus": 192,
-    "baseline": 50.0,
-    "burst": "50 Gigabit",
-    "max_egress": 25,
-    "ratio": 3.3471682956219038,
-    "price_monthly": 5452.37
+  "i4g.large": {
+    "price": 0.2336800000,
+    "vcpus": 2,
+    "baseline": 0.781,
+    "burst": "Up to 10 Gigabit",
+    "max_egress": 0.781,
+    "ratio": 3.3421773365285863,
+    "price_monthly": 170.5864
   },
-  "i4g.4xlarge": {
-    "price": 1.4890700000,
-    "vcpus": 16,
-    "baseline": 9.375,
-    "burst": "Up to 25 Gigabit",
-    "max_egress": 5.0,
-    "ratio": 3.3578005063563165,
-    "price_monthly": 1087.0211
+  "r7iz.2xlarge": {
+    "price": 0.9336000000,
+    "vcpus": 8,
+    "baseline": 3.125,
+    "burst": "Up to 12.5 Gigabit",
+    "max_egress": 3.125,
+    "ratio": 3.3472579263067694,
+    "price_monthly": 681.528
   },
-  "r6g.8xlarge": {
-    "price": 1.7778000000,
+  "m6gd.8xlarge": {
+    "price": 1.7920000000,
     "vcpus": 32,
     "baseline": 12.0,
     "burst": "12 Gigabit",
     "max_egress": 6,
-    "ratio": 3.374957813027337,
-    "price_monthly": 1297.794
+    "ratio": 3.3482142857142856,
+    "price_monthly": 1308.16
+  },
+  "r8g.16xlarge": {
+    "price": 4.4614400000,
+    "vcpus": 64,
+    "baseline": 30.0,
+    "burst": "30 Gigabit",
+    "max_egress": 15,
+    "ratio": 3.362143164538804,
+    "price_monthly": 3256.8511999999996
+  },
+  "m7a.16xlarge": {
+    "price": 3.7094400000,
+    "vcpus": 64,
+    "baseline": 25.0,
+    "burst": "25 Gigabit",
+    "max_egress": 12.5,
+    "ratio": 3.36978088336784,
+    "price_monthly": 2707.8912
   },
   "i4i.32xlarge": {
     "price": 11.1074000000,
@@ -2303,23 +3527,14 @@
     "ratio": 3.3761276266272935,
     "price_monthly": 8108.402
   },
-  "c7a.32xlarge": {
-    "price": 7.3908600000,
+  "m6i.32xlarge": {
+    "price": 7.3728000000,
     "vcpus": 128,
     "baseline": 50.0,
     "burst": "50 Gigabit",
     "max_egress": 25,
-    "ratio": 3.3825562925018198,
-    "price_monthly": 5395.3278
-  },
-  "r6gd.12xlarge": {
-    "price": 2.9298000000,
-    "vcpus": 48,
-    "baseline": 20.0,
-    "burst": "20 Gigabit",
-    "max_egress": 10,
-    "ratio": 3.4132022663663046,
-    "price_monthly": 2138.754
+    "ratio": 3.390842013888889,
+    "price_monthly": 5382.144
   },
   "i4i.8xlarge": {
     "price": 2.7460000000,
@@ -2330,32 +3545,14 @@
     "ratio": 3.414056809905317,
     "price_monthly": 2004.58
   },
-  "m7i.metal-24xl": {
-    "price": 5.4872400000,
-    "vcpus": 96,
-    "baseline": 37.5,
-    "burst": "37.5 Gigabit",
-    "max_egress": 18.75,
-    "ratio": 3.417018391759792,
-    "price_monthly": 4005.6852
-  },
-  "c6in.24xlarge": {
-    "price": 21.9235200000,
-    "vcpus": 96,
-    "baseline": 150.0,
-    "burst": "150 Gigabit",
-    "max_egress": 75,
-    "ratio": 3.4209834917020623,
-    "price_monthly": 16004.1696
-  },
   "r5d.xlarge": {
-    "price": 0.3650000000,
+    "price": 0.3630000000,
     "vcpus": 4,
     "baseline": 1.25,
     "burst": "Up to 10 Gigabit",
     "max_egress": 1.25,
-    "ratio": 3.4246575342465753,
-    "price_monthly": 266.45
+    "ratio": 3.443526170798898,
+    "price_monthly": 264.99
   },
   "m1.medium": {
     "price": 0.0870000000,
@@ -2366,23 +3563,32 @@
     "ratio": 3.4482758620689657,
     "price_monthly": 63.51
   },
-  "inf2.48xlarge": {
-    "price": 14.4093900000,
-    "vcpus": 192,
-    "baseline": 100.0,
-    "burst": "100 Gigabit",
-    "max_egress": 50,
-    "ratio": 3.469959519452246,
-    "price_monthly": 10518.8547
+  "m8idn.12xlarge": {
+    "price": 10.8609600000,
+    "vcpus": 48,
+    "baseline": 75.0,
+    "burst": "75 Gigabit",
+    "max_egress": 37.5,
+    "ratio": 3.452733460025633,
+    "price_monthly": 7928.500800000001
   },
-  "m6idn.4xlarge": {
-    "price": 1.4379600000,
+  "r7g.8xlarge": {
+    "price": 2.1672000000,
+    "vcpus": 32,
+    "baseline": 15.0,
+    "burst": "15 Gigabit",
+    "max_egress": 7.5,
+    "ratio": 3.4606866002214844,
+    "price_monthly": 1582.0559999999998
+  },
+  "gr6f.4xlarge": {
+    "price": 1.4430000000,
     "vcpus": 16,
-    "baseline": 25.0,
-    "burst": "Up to 50 Gigabit",
+    "baseline": 10.0,
+    "burst": "Up to 25 Gigabit",
     "max_egress": 5.0,
-    "ratio": 3.4771481821469306,
-    "price_monthly": 1049.7107999999998
+    "ratio": 3.465003465003465,
+    "price_monthly": 1053.39
   },
   "t1.micro": {
     "price": 0.0200000000,
@@ -2393,23 +3599,68 @@
     "ratio": 3.5000000000000004,
     "price_monthly": 14.6
   },
-  "r6idn.8xlarge": {
-    "price": 7.1312400000,
-    "vcpus": 32,
-    "baseline": 50.0,
-    "burst": "50 Gigabit",
-    "max_egress": 25,
-    "ratio": 3.5057016732012944,
-    "price_monthly": 5205.8052
+  "m8a.12xlarge": {
+    "price": 3.2134100000,
+    "vcpus": 48,
+    "baseline": 22.5,
+    "burst": "22.5 Gigabit",
+    "max_egress": 11.25,
+    "ratio": 3.500953815417267,
+    "price_monthly": 2345.7893
   },
-  "m6gd.medium": {
-    "price": 0.1402000000,
-    "vcpus": 1,
-    "baseline": 0.5,
-    "burst": "Up to 10 Gigabit",
-    "max_egress": 0.5,
-    "ratio": 3.566333808844508,
-    "price_monthly": 102.34599999999999
+  "m8in.24xlarge": {
+    "price": 21.3786200000,
+    "vcpus": 96,
+    "baseline": 150.0,
+    "burst": "150 Gigabit",
+    "max_egress": 75,
+    "ratio": 3.5081777963217453,
+    "price_monthly": 15606.392600000001
+  },
+  "r8g.12xlarge": {
+    "price": 3.1944500000,
+    "vcpus": 48,
+    "baseline": 22.5,
+    "burst": "22.5 Gigabit",
+    "max_egress": 11.25,
+    "ratio": 3.5217330056817295,
+    "price_monthly": 2331.9485
+  },
+  "m6in.12xlarge": {
+    "price": 10.6260700000,
+    "vcpus": 48,
+    "baseline": 75.0,
+    "burst": "75 Gigabit",
+    "max_egress": 37.5,
+    "ratio": 3.5290563679704725,
+    "price_monthly": 7757.0311
+  },
+  "r8i-flex.large": {
+    "price": 0.1319700000,
+    "vcpus": 2,
+    "baseline": 0.468,
+    "burst": "Up to 12.5 Gigabit",
+    "max_egress": 0.468,
+    "ratio": 3.546260513753126,
+    "price_monthly": 96.3381
+  },
+  "g7e.48xlarge": {
+    "price": 56.1843200000,
+    "vcpus": 192,
+    "baseline": 400.0,
+    "burst": "1600 Gigabit",
+    "max_egress": 200,
+    "ratio": 3.559712033535335,
+    "price_monthly": 41014.5536
+  },
+  "c8gb.4xlarge": {
+    "price": 1.4016800000,
+    "vcpus": 16,
+    "baseline": 33.333,
+    "burst": "33.33 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 3.567147993835968,
+    "price_monthly": 1023.2264
   },
   "x2iezn.8xlarge": {
     "price": 10.5120000000,
@@ -2420,23 +3671,23 @@
     "ratio": 3.567351598173516,
     "price_monthly": 7673.76
   },
-  "r6in.16xlarge": {
-    "price": 13.9814200000,
-    "vcpus": 64,
-    "baseline": 100.0,
-    "burst": "100 Gigabit",
-    "max_egress": 50,
-    "ratio": 3.5761746660925713,
-    "price_monthly": 10206.436599999999
+  "c7gn.4xlarge": {
+    "price": 1.3952000000,
+    "vcpus": 16,
+    "baseline": 50.0,
+    "burst": "50 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 3.583715596330275,
+    "price_monthly": 1018.496
   },
-  "i4g.8xlarge": {
-    "price": 2.6010400000,
-    "vcpus": 32,
-    "baseline": 18.75,
-    "burst": "18.75 Gigabit",
-    "max_egress": 9.375,
-    "ratio": 3.6043274997693233,
-    "price_monthly": 1898.7592
+  "m8gd.16xlarge": {
+    "price": 4.1712600000,
+    "vcpus": 64,
+    "baseline": 30.0,
+    "burst": "30 Gigabit",
+    "max_egress": 15,
+    "ratio": 3.5960357302110153,
+    "price_monthly": 3045.0198
   },
   "m6i.24xlarge": {
     "price": 5.1938000000,
@@ -2447,23 +3698,32 @@
     "ratio": 3.610073549231776,
     "price_monthly": 3791.474
   },
-  "m6i.32xlarge": {
-    "price": 6.8884000000,
-    "vcpus": 128,
+  "c8ine.8xlarge": {
+    "price": 6.9072000000,
+    "vcpus": 32,
     "baseline": 50.0,
     "burst": "50 Gigabit",
     "max_egress": 25,
-    "ratio": 3.6292898205679114,
-    "price_monthly": 5028.532
+    "ratio": 3.6194116284456803,
+    "price_monthly": 5042.255999999999
   },
-  "r4.large": {
-    "price": 0.2060000000,
-    "vcpus": 2,
-    "baseline": 0.75,
-    "burst": "Up to 10 Gigabit",
-    "max_egress": 0.75,
-    "ratio": 3.6407766990291264,
-    "price_monthly": 150.38
+  "m9gd.8xlarge": {
+    "price": 2.3373200000,
+    "vcpus": 32,
+    "baseline": 17.0,
+    "burst": "17 Gigabit",
+    "max_egress": 8.5,
+    "ratio": 3.6366436773740864,
+    "price_monthly": 1706.2436
+  },
+  "m8i.48xlarge": {
+    "price": 10.2856400000,
+    "vcpus": 192,
+    "baseline": 75.0,
+    "burst": "75 Gigabit",
+    "max_egress": 37.5,
+    "ratio": 3.6458596645420216,
+    "price_monthly": 7508.5172
   },
   "r5a.large": {
     "price": 0.2050000000,
@@ -2473,6 +3733,24 @@
     "max_egress": 0.75,
     "ratio": 3.658536585365854,
     "price_monthly": 149.64999999999998
+  },
+  "r9g.8xlarge": {
+    "price": 2.3161900000,
+    "vcpus": 32,
+    "baseline": 17.0,
+    "burst": "17 Gigabit",
+    "max_egress": 8.5,
+    "ratio": 3.669819833433354,
+    "price_monthly": 1690.8187
+  },
+  "c8ine.4xlarge": {
+    "price": 1.3608000000,
+    "vcpus": 16,
+    "baseline": 25.0,
+    "burst": "25 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 3.6743092298647855,
+    "price_monthly": 993.384
   },
   "r5ad.2xlarge": {
     "price": 0.6800000000,
@@ -2492,6 +3770,15 @@
     "ratio": 3.6816682375117815,
     "price_monthly": 619.624
   },
+  "t3a.xlarge": {
+    "price": 0.2780000000,
+    "vcpus": 4,
+    "baseline": 1.024,
+    "burst": "Up to 5 Gigabit",
+    "max_egress": 1.024,
+    "ratio": 3.6834532374100717,
+    "price_monthly": 202.94000000000003
+  },
   "i4g.16xlarge": {
     "price": 5.0540800000,
     "vcpus": 64,
@@ -2510,6 +3797,33 @@
     "ratio": 3.720238095238095,
     "price_monthly": 981.12
   },
+  "r8g.4xlarge": {
+    "price": 1.3393600000,
+    "vcpus": 16,
+    "baseline": 7.5,
+    "burst": "Up to 15 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 3.7331262692629315,
+    "price_monthly": 977.7328000000001
+  },
+  "m8gb.4xlarge": {
+    "price": 1.3368000000,
+    "vcpus": 16,
+    "baseline": 33.333,
+    "burst": "33.33 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 3.7402752842609215,
+    "price_monthly": 975.864
+  },
+  "c9gd.24xlarge": {
+    "price": 6.6758400000,
+    "vcpus": 96,
+    "baseline": 50.0,
+    "burst": "50 Gigabit",
+    "max_egress": 25,
+    "ratio": 3.7448470904036046,
+    "price_monthly": 4873.3632
+  },
   "x2idn.16xlarge": {
     "price": 6.6690000000,
     "vcpus": 64,
@@ -2518,6 +3832,15 @@
     "max_egress": 25,
     "ratio": 3.7486879592142754,
     "price_monthly": 4868.37
+  },
+  "c5n.18xlarge": {
+    "price": 13.3060000000,
+    "vcpus": 72,
+    "baseline": 100.0,
+    "burst": "100 Gigabit",
+    "max_egress": 50,
+    "ratio": 3.7577032917480837,
+    "price_monthly": 9713.38
   },
   "d3en.8xlarge": {
     "price": 6.6391400000,
@@ -2528,14 +3851,14 @@
     "ratio": 3.765547947475125,
     "price_monthly": 4846.5722000000005
   },
-  "r6in.metal": {
-    "price": 26.5171200000,
-    "vcpus": 128,
-    "baseline": 200.0,
-    "burst": "200 Gigabit",
-    "max_egress": 100,
-    "ratio": 3.771148601356407,
-    "price_monthly": 19357.4976
+  "m7a.4xlarge": {
+    "price": 1.3241600000,
+    "vcpus": 16,
+    "baseline": 6.25,
+    "burst": "Up to 12.5 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 3.7759787336877717,
+    "price_monthly": 966.6368
   },
   "m6a.8xlarge": {
     "price": 1.6456400000,
@@ -2555,41 +3878,50 @@
     "ratio": 3.8057774746687447,
     "price_monthly": 1798.2528000000002
   },
-  "m6gd.8xlarge": {
-    "price": 1.5764000000,
-    "vcpus": 32,
-    "baseline": 12.0,
-    "burst": "12 Gigabit",
-    "max_egress": 6,
-    "ratio": 3.806140573458513,
-    "price_monthly": 1150.772
+  "c9gd.16xlarge": {
+    "price": 4.4505600000,
+    "vcpus": 64,
+    "baseline": 34.0,
+    "burst": "34 Gigabit",
+    "max_egress": 17,
+    "ratio": 3.8197440322116765,
+    "price_monthly": 3248.9088
   },
-  "dl1.24xlarge": {
-    "price": 13.1090400000,
-    "vcpus": 96,
-    "baseline": 100.0,
-    "burst": "4x 100 Gigabit",
-    "max_egress": 50,
-    "ratio": 3.814161830309466,
-    "price_monthly": 9569.5992
+  "r8idn.2xlarge": {
+    "price": 1.3058800000,
+    "vcpus": 8,
+    "baseline": 12.5,
+    "burst": "Up to 40 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 3.828835727631942,
+    "price_monthly": 953.2923999999999
   },
-  "r7g.8xlarge": {
-    "price": 1.9516000000,
+  "x2gd.large": {
+    "price": 0.1958000000,
+    "vcpus": 2,
+    "baseline": 0.75,
+    "burst": "Up to 10 Gigabit",
+    "max_egress": 0.75,
+    "ratio": 3.8304392236976508,
+    "price_monthly": 142.934
+  },
+  "m9gd.16xlarge": {
+    "price": 4.4246400000,
+    "vcpus": 64,
+    "baseline": 34.0,
+    "burst": "34 Gigabit",
+    "max_egress": 17,
+    "ratio": 3.842120488898532,
+    "price_monthly": 3229.9872
+  },
+  "c8id.8xlarge": {
+    "price": 1.9514900000,
     "vcpus": 32,
     "baseline": 15.0,
     "burst": "15 Gigabit",
     "max_egress": 7.5,
-    "ratio": 3.8430006148800984,
-    "price_monthly": 1424.668
-  },
-  "m1.small": {
-    "price": 0.0780000000,
-    "vcpus": 1,
-    "baseline": 0.3,
-    "burst": "Low",
-    "max_egress": 0.3,
-    "ratio": 3.846153846153846,
-    "price_monthly": 56.94
+    "ratio": 3.843217234010935,
+    "price_monthly": 1424.5877
   },
   "inf2.24xlarge": {
     "price": 6.4906300000,
@@ -2600,6 +3932,24 @@
     "ratio": 3.8517062288252446,
     "price_monthly": 4738.159900000001
   },
+  "r6i.xlarge": {
+    "price": 0.4048000000,
+    "vcpus": 4,
+    "baseline": 1.562,
+    "burst": "Up to 12.5 Gigabit",
+    "max_egress": 1.562,
+    "ratio": 3.858695652173913,
+    "price_monthly": 295.504
+  },
+  "m8gn.4xlarge": {
+    "price": 1.2890000000,
+    "vcpus": 16,
+    "baseline": 50.0,
+    "burst": "50 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 3.878975950349108,
+    "price_monthly": 940.9699999999999
+  },
   "t3a.nano": {
     "price": 0.0082000000,
     "vcpus": 2,
@@ -2608,24 +3958,6 @@
     "max_egress": 0.032,
     "ratio": 3.902439024390244,
     "price_monthly": 5.986000000000001
-  },
-  "m6in.12xlarge": {
-    "price": 9.6006700000,
-    "vcpus": 48,
-    "baseline": 75.0,
-    "burst": "75 Gigabit",
-    "max_egress": 37.5,
-    "ratio": 3.9059773953276182,
-    "price_monthly": 7008.4891
-  },
-  "c5d.large": {
-    "price": 0.1910000000,
-    "vcpus": 2,
-    "baseline": 0.75,
-    "burst": "Up to 10 Gigabit",
-    "max_egress": 0.75,
-    "ratio": 3.926701570680628,
-    "price_monthly": 139.43
   },
   "m7i-flex.large": {
     "price": 0.0992600000,
@@ -2645,6 +3977,15 @@
     "ratio": 3.930508607813851,
     "price_monthly": 1857.266
   },
+  "m8i.24xlarge": {
+    "price": 5.0803200000,
+    "vcpus": 96,
+    "baseline": 40.0,
+    "burst": "40 Gigabit",
+    "max_egress": 20,
+    "ratio": 3.9367598891408413,
+    "price_monthly": 3708.6336
+  },
   "r7g.12xlarge": {
     "price": 2.8573000000,
     "vcpus": 48,
@@ -2654,23 +3995,14 @@
     "ratio": 3.9372834494102826,
     "price_monthly": 2085.829
   },
-  "c5n.18xlarge": {
-    "price": 12.6580000000,
-    "vcpus": 72,
-    "baseline": 100.0,
-    "burst": "100 Gigabit",
-    "max_egress": 50,
-    "ratio": 3.950071101279823,
-    "price_monthly": 9240.34
-  },
-  "c5n.metal": {
-    "price": 12.6580000000,
-    "vcpus": 72,
-    "baseline": 100.0,
-    "burst": "100 Gigabit",
-    "max_egress": 50,
-    "ratio": 3.950071101279823,
-    "price_monthly": 9240.34
+  "m8gd.8xlarge": {
+    "price": 1.9011200000,
+    "vcpus": 32,
+    "baseline": 15.0,
+    "burst": "15 Gigabit",
+    "max_egress": 7.5,
+    "ratio": 3.9450429220669925,
+    "price_monthly": 1387.8175999999999
   },
   "r5n.4xlarge": {
     "price": 1.2640000000,
@@ -2690,6 +4022,51 @@
     "ratio": 3.9641262431499897,
     "price_monthly": 2301.8944
   },
+  "r8g.8xlarge": {
+    "price": 1.8851200000,
+    "vcpus": 32,
+    "baseline": 15.0,
+    "burst": "15 Gigabit",
+    "max_egress": 7.5,
+    "ratio": 3.9785265659480564,
+    "price_monthly": 1376.1376
+  },
+  "m7gd.4xlarge": {
+    "price": 1.2511000000,
+    "vcpus": 16,
+    "baseline": 7.5,
+    "burst": "Up to 15 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 3.9964830948765084,
+    "price_monthly": 913.3030000000001
+  },
+  "r8gd.medium": {
+    "price": 0.1297800000,
+    "vcpus": 1,
+    "baseline": 0.52,
+    "burst": "Up to 12.5 Gigabit",
+    "max_egress": 0.52,
+    "ratio": 4.006780705809832,
+    "price_monthly": 94.7394
+  },
+  "i4g.xlarge": {
+    "price": 0.4673700000,
+    "vcpus": 4,
+    "baseline": 1.875,
+    "burst": "Up to 10 Gigabit",
+    "max_egress": 1.875,
+    "ratio": 4.011810770909558,
+    "price_monthly": 341.1801
+  },
+  "m8i.8xlarge": {
+    "price": 1.8627800000,
+    "vcpus": 32,
+    "baseline": 15.0,
+    "burst": "15 Gigabit",
+    "max_egress": 7.5,
+    "ratio": 4.02624035044396,
+    "price_monthly": 1359.8294
+  },
   "t2.xlarge": {
     "price": 0.1856000000,
     "vcpus": 4,
@@ -2708,23 +4085,14 @@
     "ratio": 4.074315514993481,
     "price_monthly": 2239.64
   },
-  "g4dn.metal": {
-    "price": 12.2400000000,
-    "vcpus": 96,
-    "baseline": 100.0,
-    "burst": "100 Gigabit",
-    "max_egress": 50,
-    "ratio": 4.084967320261438,
-    "price_monthly": 8935.2
-  },
-  "c6gd.8xlarge": {
-    "price": 1.4675000000,
-    "vcpus": 32,
-    "baseline": 12.0,
-    "burst": "12 Gigabit",
-    "max_egress": 6,
-    "ratio": 4.088586030664395,
-    "price_monthly": 1071.275
+  "r8i.4xlarge": {
+    "price": 1.2225000000,
+    "vcpus": 16,
+    "baseline": 7.5,
+    "burst": "Up to 15 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 4.08997955010225,
+    "price_monthly": 892.425
   },
   "r7a.4xlarge": {
     "price": 1.2172000000,
@@ -2735,15 +4103,6 @@
     "ratio": 4.107788366743345,
     "price_monthly": 888.556
   },
-  "r6gd.large": {
-    "price": 0.1821000000,
-    "vcpus": 2,
-    "baseline": 0.75,
-    "burst": "Up to 10 Gigabit",
-    "max_egress": 0.75,
-    "ratio": 4.118616144975288,
-    "price_monthly": 132.93300000000002
-  },
   "m6in.8xlarge": {
     "price": 6.0676800000,
     "vcpus": 32,
@@ -2753,14 +4112,14 @@
     "ratio": 4.1201909131661525,
     "price_monthly": 4429.4064
   },
-  "m6gd.metal": {
-    "price": 3.0228000000,
+  "r9g.16xlarge": {
+    "price": 4.1094400000,
     "vcpus": 64,
-    "baseline": 25.0,
-    "burst": "25 Gigabit",
-    "max_egress": 12.5,
-    "ratio": 4.135238851396056,
-    "price_monthly": 2206.6440000000002
+    "baseline": 34.0,
+    "burst": "34 Gigabit",
+    "max_egress": 17,
+    "ratio": 4.136816695218813,
+    "price_monthly": 2999.8912
   },
   "m7gd.8xlarge": {
     "price": 1.8111000000,
@@ -2771,41 +4130,86 @@
     "ratio": 4.14112970018221,
     "price_monthly": 1322.1029999999998
   },
-  "t3a.xlarge": {
-    "price": 0.2454000000,
-    "vcpus": 4,
-    "baseline": 1.024,
-    "burst": "Up to 5 Gigabit",
-    "max_egress": 1.024,
-    "ratio": 4.172779136104319,
-    "price_monthly": 179.142
+  "g6e.12xlarge": {
+    "price": 12.0603000000,
+    "vcpus": 48,
+    "baseline": 100.0,
+    "burst": "100 Gigabit",
+    "max_egress": 50,
+    "ratio": 4.145833851562565,
+    "price_monthly": 8804.019
   },
-  "r6i.xlarge": {
-    "price": 0.3722000000,
-    "vcpus": 4,
-    "baseline": 1.562,
+  "r8gd.large": {
+    "price": 0.2254600000,
+    "vcpus": 2,
+    "baseline": 0.937,
     "burst": "Up to 12.5 Gigabit",
-    "max_egress": 1.562,
-    "ratio": 4.196668457818378,
-    "price_monthly": 271.70599999999996
+    "max_egress": 0.937,
+    "ratio": 4.155947839971614,
+    "price_monthly": 164.5858
   },
-  "m6id.2xlarge": {
-    "price": 0.7406000000,
-    "vcpus": 8,
-    "baseline": 3.125,
-    "burst": "Up to 12.5 Gigabit",
-    "max_egress": 3.125,
-    "ratio": 4.219551714825816,
-    "price_monthly": 540.638
+  "c8i.48xlarge": {
+    "price": 8.9961600000,
+    "vcpus": 192,
+    "baseline": 75.0,
+    "burst": "75 Gigabit",
+    "max_egress": 37.5,
+    "ratio": 4.168445203286736,
+    "price_monthly": 6567.1968
   },
-  "r7g.metal": {
-    "price": 3.5392000000,
+  "c7gd.16xlarge": {
+    "price": 3.5942000000,
     "vcpus": 64,
     "baseline": 30.0,
     "burst": "30 Gigabit",
     "max_egress": 15,
-    "ratio": 4.238245931283906,
-    "price_monthly": 2583.616
+    "ratio": 4.173390462411663,
+    "price_monthly": 2623.766
+  },
+  "r8idb.2xlarge": {
+    "price": 1.1930800000,
+    "vcpus": 8,
+    "baseline": 8.333,
+    "burst": "Up to 26.66 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 4.1908338082944985,
+    "price_monthly": 870.9484
+  },
+  "c5.2xlarge": {
+    "price": 0.5950000000,
+    "vcpus": 8,
+    "baseline": 2.5,
+    "burst": "Up to 10 Gigabit",
+    "max_egress": 2.5,
+    "ratio": 4.201680672268908,
+    "price_monthly": 434.34999999999997
+  },
+  "m5dn.8xlarge": {
+    "price": 2.9700000000,
+    "vcpus": 32,
+    "baseline": 25.0,
+    "burst": "25 Gigabit",
+    "max_egress": 12.5,
+    "ratio": 4.2087542087542085,
+    "price_monthly": 2168.1000000000004
+  },
+  "m8g.24xlarge": {
+    "price": 4.7393300000,
+    "vcpus": 96,
+    "baseline": 40.0,
+    "burst": "40 Gigabit",
+    "max_egress": 20,
+    "ratio": 4.220005781407921,
+    "price_monthly": 3459.7109
+  },
+  "c6gd.12xlarge": {
+    "price": 2.3616000000,
+    "vcpus": 48,
+    "baseline": 20.0,
+    "burst": "20 Gigabit",
+    "max_egress": 10,
+    "ratio": 4.234417344173441,
+    "price_monthly": 1723.968
   },
   "t2.large": {
     "price": 0.1208000000,
@@ -2852,32 +4256,59 @@
     "ratio": 4.258943781942079,
     "price_monthly": 857.02
   },
-  "g5g.16xlarge": {
-    "price": 2.9090000000,
-    "vcpus": 64,
-    "baseline": 25.0,
-    "burst": "25 Gigabit",
-    "max_egress": 12.5,
-    "ratio": 4.297009281540048,
-    "price_monthly": 2123.5699999999997
+  "x8g.medium": {
+    "price": 0.1218700000,
+    "vcpus": 1,
+    "baseline": 0.52,
+    "burst": "Up to 12.5 Gigabit",
+    "max_egress": 0.52,
+    "ratio": 4.266841716583245,
+    "price_monthly": 88.9651
   },
-  "c7gn.4xlarge": {
-    "price": 1.1634000000,
-    "vcpus": 16,
-    "baseline": 50.0,
-    "burst": "50 Gigabit",
-    "max_egress": 5.0,
-    "ratio": 4.29774798005845,
-    "price_monthly": 849.282
+  "m8idb.8xlarge": {
+    "price": 3.9013400000,
+    "vcpus": 32,
+    "baseline": 33.333,
+    "burst": "33.33 Gigabit",
+    "max_egress": 16.6665,
+    "ratio": 4.271993725232869,
+    "price_monthly": 2847.9782
   },
-  "i4g.xlarge": {
-    "price": 0.4347700000,
-    "vcpus": 4,
-    "baseline": 1.875,
+  "r4.large": {
+    "price": 0.1751000000,
+    "vcpus": 2,
+    "baseline": 0.75,
     "burst": "Up to 10 Gigabit",
-    "max_egress": 1.875,
-    "ratio": 4.312625066126918,
-    "price_monthly": 317.3821
+    "max_egress": 0.75,
+    "ratio": 4.283266704740148,
+    "price_monthly": 127.82300000000001
+  },
+  "c8g.8xlarge": {
+    "price": 1.7493800000,
+    "vcpus": 32,
+    "baseline": 15.0,
+    "burst": "15 Gigabit",
+    "max_egress": 7.5,
+    "ratio": 4.2872331911877355,
+    "price_monthly": 1277.0474
+  },
+  "r8g.medium": {
+    "price": 0.1211000000,
+    "vcpus": 1,
+    "baseline": 0.52,
+    "burst": "Up to 12.5 Gigabit",
+    "max_egress": 0.52,
+    "ratio": 4.293971924029727,
+    "price_monthly": 88.403
+  },
+  "m6id.2xlarge": {
+    "price": 0.7250000000,
+    "vcpus": 8,
+    "baseline": 3.125,
+    "burst": "Up to 12.5 Gigabit",
+    "max_egress": 3.125,
+    "ratio": 4.310344827586207,
+    "price_monthly": 529.25
   },
   "m6gd.16xlarge": {
     "price": 2.8928000000,
@@ -2888,14 +4319,14 @@
     "ratio": 4.321073008849558,
     "price_monthly": 2111.7439999999997
   },
-  "c6gd.large": {
-    "price": 0.1718000000,
-    "vcpus": 2,
-    "baseline": 0.75,
-    "burst": "Up to 10 Gigabit",
-    "max_egress": 0.75,
-    "ratio": 4.365541327124563,
-    "price_monthly": 125.414
+  "m8gd.medium": {
+    "price": 0.1197300000,
+    "vcpus": 1,
+    "baseline": 0.52,
+    "burst": "Up to 12.5 Gigabit",
+    "max_egress": 0.52,
+    "ratio": 4.3431053203040175,
+    "price_monthly": 87.4029
   },
   "g5g.8xlarge": {
     "price": 1.3720000000,
@@ -2924,50 +4355,59 @@
     "ratio": 4.389729982831278,
     "price_monthly": 1870.844
   },
-  "c6in.metal": {
-    "price": 22.7476000000,
-    "vcpus": 128,
-    "baseline": 200.0,
-    "burst": "200 Gigabit",
-    "max_egress": 100,
-    "ratio": 4.396068156640701,
-    "price_monthly": 16605.748
+  "r6in.large": {
+    "price": 0.7005600000,
+    "vcpus": 2,
+    "baseline": 3.125,
+    "burst": "Up to 25 Gigabit",
+    "max_egress": 3.125,
+    "ratio": 4.460717140573256,
+    "price_monthly": 511.4088
   },
-  "c7gd.8xlarge": {
-    "price": 1.7036000000,
-    "vcpus": 32,
-    "baseline": 15.0,
-    "burst": "15 Gigabit",
-    "max_egress": 7.5,
-    "ratio": 4.402441887767082,
-    "price_monthly": 1243.628
+  "x2iezn.12xlarge": {
+    "price": 11.1984000000,
+    "vcpus": 48,
+    "baseline": 100.0,
+    "burst": "100 Gigabit",
+    "max_egress": 50,
+    "ratio": 4.464923560508645,
+    "price_monthly": 8174.831999999999
   },
-  "c5n.4xlarge": {
-    "price": 1.1340000000,
+  "r8idn.12xlarge": {
+    "price": 8.3980100000,
+    "vcpus": 48,
+    "baseline": 75.0,
+    "burst": "75 Gigabit",
+    "max_egress": 37.5,
+    "ratio": 4.465343575442278,
+    "price_monthly": 6130.547299999999
+  },
+  "m8g.4xlarge": {
+    "price": 1.1148800000,
     "vcpus": 16,
-    "baseline": 15.0,
-    "burst": "Up to 25 Gigabit",
+    "baseline": 7.5,
+    "burst": "Up to 15 Gigabit",
     "max_egress": 5.0,
-    "ratio": 4.409171075837743,
-    "price_monthly": 827.8199999999999
+    "ratio": 4.484787600459242,
+    "price_monthly": 813.8624000000001
   },
-  "m7a.large": {
-    "price": 0.1759200000,
+  "m8id.large": {
+    "price": 0.2073700000,
     "vcpus": 2,
-    "baseline": 0.781,
+    "baseline": 0.937,
     "burst": "Up to 12.5 Gigabit",
-    "max_egress": 0.781,
-    "ratio": 4.439517962710323,
-    "price_monthly": 128.42159999999998
+    "max_egress": 0.937,
+    "ratio": 4.518493514008777,
+    "price_monthly": 151.3801
   },
-  "r5dn.large": {
-    "price": 0.4670000000,
-    "vcpus": 2,
-    "baseline": 2.1,
-    "burst": "Up to 25 Gigabit",
-    "max_egress": 2.1,
-    "ratio": 4.496788008565311,
-    "price_monthly": 340.91
+  "m8id.24xlarge": {
+    "price": 4.4160000000,
+    "vcpus": 96,
+    "baseline": 40.0,
+    "burst": "40 Gigabit",
+    "max_egress": 20,
+    "ratio": 4.528985507246376,
+    "price_monthly": 3223.6800000000003
   },
   "m5d.2xlarge": {
     "price": 0.5520000000,
@@ -2978,14 +4418,131 @@
     "ratio": 4.528985507246376,
     "price_monthly": 402.96000000000004
   },
-  "m7a.4xlarge": {
-    "price": 1.0923600000,
-    "vcpus": 16,
-    "baseline": 6.25,
+  "r8i.large": {
+    "price": 0.2065200000,
+    "vcpus": 2,
+    "baseline": 0.937,
     "burst": "Up to 12.5 Gigabit",
+    "max_egress": 0.937,
+    "ratio": 4.537090838659694,
+    "price_monthly": 150.7596
+  },
+  "m8g.16xlarge": {
+    "price": 3.2715500000,
+    "vcpus": 64,
+    "baseline": 30.0,
+    "burst": "30 Gigabit",
+    "max_egress": 15,
+    "ratio": 4.584982653482294,
+    "price_monthly": 2388.2315
+  },
+  "c6gn.4xlarge": {
+    "price": 1.0880000000,
+    "vcpus": 16,
+    "baseline": 25.0,
+    "burst": "25 Gigabit",
     "max_egress": 5.0,
-    "ratio": 4.577245596689736,
-    "price_monthly": 797.4228
+    "ratio": 4.595588235294118,
+    "price_monthly": 794.24
+  },
+  "m9g.8xlarge": {
+    "price": 1.8469800000,
+    "vcpus": 32,
+    "baseline": 17.0,
+    "burst": "17 Gigabit",
+    "max_egress": 8.5,
+    "ratio": 4.602107223684068,
+    "price_monthly": 1348.2954
+  },
+  "m6i.xlarge": {
+    "price": 0.3388000000,
+    "vcpus": 4,
+    "baseline": 1.562,
+    "burst": "Up to 12.5 Gigabit",
+    "max_egress": 1.562,
+    "ratio": 4.6103896103896105,
+    "price_monthly": 247.32399999999998
+  },
+  "c8g.24xlarge": {
+    "price": 4.3363300000,
+    "vcpus": 96,
+    "baseline": 40.0,
+    "burst": "40 Gigabit",
+    "max_egress": 20,
+    "ratio": 4.612195105077335,
+    "price_monthly": 3165.5209
+  },
+  "c8gd.12xlarge": {
+    "price": 2.4355200000,
+    "vcpus": 48,
+    "baseline": 22.5,
+    "burst": "22.5 Gigabit",
+    "max_egress": 11.25,
+    "ratio": 4.619136775719354,
+    "price_monthly": 1777.9296
+  },
+  "m8in.large": {
+    "price": 0.6758800000,
+    "vcpus": 2,
+    "baseline": 3.125,
+    "burst": "Up to 25 Gigabit",
+    "max_egress": 3.125,
+    "ratio": 4.623601822808783,
+    "price_monthly": 493.3924
+  },
+  "m8idb.xlarge": {
+    "price": 0.9000700000,
+    "vcpus": 4,
+    "baseline": 4.166,
+    "burst": "Up to 20 Gigabit",
+    "max_egress": 4.166,
+    "ratio": 4.628528892197274,
+    "price_monthly": 657.0511
+  },
+  "m5n.8xlarge": {
+    "price": 2.6980000000,
+    "vcpus": 32,
+    "baseline": 25.0,
+    "burst": "25 Gigabit",
+    "max_egress": 12.5,
+    "ratio": 4.633061527057079,
+    "price_monthly": 1969.54
+  },
+  "c9gd.12xlarge": {
+    "price": 2.6882000000,
+    "vcpus": 48,
+    "baseline": 25.0,
+    "burst": "25 Gigabit",
+    "max_egress": 12.5,
+    "ratio": 4.649951640502938,
+    "price_monthly": 1962.3860000000002
+  },
+  "r8a.medium": {
+    "price": 0.1117800000,
+    "vcpus": 1,
+    "baseline": 0.52,
+    "burst": "Up to 12.5 Gigabit",
+    "max_egress": 0.52,
+    "ratio": 4.651994990159241,
+    "price_monthly": 81.5994
+  },
+  "m8i-flex.large": {
+    "price": 0.1005500000,
+    "vcpus": 2,
+    "baseline": 0.468,
+    "burst": "Up to 12.5 Gigabit",
+    "max_egress": 0.468,
+    "ratio": 4.654400795624068,
+    "price_monthly": 73.4015
+  },
+  "m8i-flex.4xlarge": {
+    "price": 0.8044000000,
+    "vcpus": 16,
+    "baseline": 3.75,
+    "burst": "Up to 15 Gigabit",
+    "max_egress": 3.75,
+    "ratio": 4.66185977125808,
+    "price_monthly": 587.212
   },
   "m6idn.2xlarge": {
     "price": 1.0681300000,
@@ -2995,6 +4552,33 @@
     "max_egress": 5.0,
     "ratio": 4.681078145918568,
     "price_monthly": 779.7349
+  },
+  "m9g.24xlarge": {
+    "price": 5.3339500000,
+    "vcpus": 96,
+    "baseline": 50.0,
+    "burst": "50 Gigabit",
+    "max_egress": 25,
+    "ratio": 4.686958070473102,
+    "price_monthly": 3893.7835
+  },
+  "c5d.large": {
+    "price": 0.1600000000,
+    "vcpus": 2,
+    "baseline": 0.75,
+    "burst": "Up to 10 Gigabit",
+    "max_egress": 0.75,
+    "ratio": 4.6875,
+    "price_monthly": 116.8
+  },
+  "x8g.xlarge": {
+    "price": 0.3978000000,
+    "vcpus": 4,
+    "baseline": 1.875,
+    "burst": "Up to 12.5 Gigabit",
+    "max_egress": 1.875,
+    "ratio": 4.71342383107089,
+    "price_monthly": 290.394
   },
   "d3en.xlarge": {
     "price": 1.0580000000,
@@ -3023,23 +4607,50 @@
     "ratio": 4.735745406326956,
     "price_monthly": 770.734
   },
-  "m6g.metal": {
-    "price": 2.6290000000,
-    "vcpus": 64,
-    "baseline": 25.0,
-    "burst": "25 Gigabit",
-    "max_egress": 12.5,
-    "ratio": 4.7546595663750475,
-    "price_monthly": 1919.17
+  "c6gd.4xlarge": {
+    "price": 1.0481000000,
+    "vcpus": 16,
+    "baseline": 5.0,
+    "burst": "Up to 10 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 4.770537162484495,
+    "price_monthly": 765.113
   },
-  "c6gd.metal": {
-    "price": 2.5696000000,
-    "vcpus": 64,
-    "baseline": 25.0,
-    "burst": "25 Gigabit",
-    "max_egress": 12.5,
-    "ratio": 4.864570361145704,
-    "price_monthly": 1875.808
+  "m9g.48xlarge": {
+    "price": 10.4569000000,
+    "vcpus": 192,
+    "baseline": 100.0,
+    "burst": "100 Gigabit",
+    "max_egress": 50,
+    "ratio": 4.781531811531143,
+    "price_monthly": 7633.536999999999
+  },
+  "x8g.large": {
+    "price": 0.1954000000,
+    "vcpus": 2,
+    "baseline": 0.937,
+    "burst": "Up to 12.5 Gigabit",
+    "max_egress": 0.937,
+    "ratio": 4.7952917093142275,
+    "price_monthly": 142.642
+  },
+  "r8id.2xlarge": {
+    "price": 0.7804800000,
+    "vcpus": 8,
+    "baseline": 3.75,
+    "burst": "Up to 15 Gigabit",
+    "max_egress": 3.75,
+    "ratio": 4.804735547355474,
+    "price_monthly": 569.7504
+  },
+  "c9gd.48xlarge": {
+    "price": 10.3778000000,
+    "vcpus": 192,
+    "baseline": 100.0,
+    "burst": "100 Gigabit",
+    "max_egress": 50,
+    "ratio": 4.817976835167376,
+    "price_monthly": 7575.794000000001
   },
   "c6gd.16xlarge": {
     "price": 2.5696000000,
@@ -3059,23 +4670,14 @@
     "ratio": 4.87012987012987,
     "price_monthly": 899.36
   },
-  "m7gd.4xlarge": {
-    "price": 1.0193000000,
+  "m5.4xlarge": {
+    "price": 1.0180000000,
     "vcpus": 16,
-    "baseline": 7.5,
-    "burst": "Up to 15 Gigabit",
+    "baseline": 5.0,
+    "burst": "Up to 10 Gigabit",
     "max_egress": 5.0,
-    "ratio": 4.9053271853232605,
-    "price_monthly": 744.089
-  },
-  "x2iezn.12xlarge": {
-    "price": 10.1730000000,
-    "vcpus": 48,
-    "baseline": 100.0,
-    "burst": "100 Gigabit",
-    "max_egress": 50,
-    "ratio": 4.91497100167109,
-    "price_monthly": 7426.29
+    "ratio": 4.911591355599214,
+    "price_monthly": 743.14
   },
   "m6gd.large": {
     "price": 0.1521000000,
@@ -3086,32 +4688,23 @@
     "ratio": 4.930966469428007,
     "price_monthly": 111.03300000000002
   },
-  "x2iezn.metal": {
-    "price": 10.1380000000,
+  "m8g.12xlarge": {
+    "price": 2.2792400000,
     "vcpus": 48,
-    "baseline": 100.0,
-    "burst": "100 Gigabit",
-    "max_egress": 50,
-    "ratio": 4.931939238508582,
-    "price_monthly": 7400.74
+    "baseline": 22.5,
+    "burst": "22.5 Gigabit",
+    "max_egress": 11.25,
+    "ratio": 4.935855811586318,
+    "price_monthly": 1663.8452000000002
   },
-  "c7gd.16xlarge": {
-    "price": 3.0330000000,
-    "vcpus": 64,
-    "baseline": 30.0,
-    "burst": "30 Gigabit",
-    "max_egress": 15,
-    "ratio": 4.945598417408506,
-    "price_monthly": 2214.09
-  },
-  "c5.2xlarge": {
-    "price": 0.5050000000,
+  "r5.2xlarge": {
+    "price": 0.5040000000,
     "vcpus": 8,
     "baseline": 2.5,
     "burst": "Up to 10 Gigabit",
     "max_egress": 2.5,
-    "ratio": 4.9504950495049505,
-    "price_monthly": 368.65
+    "ratio": 4.9603174603174605,
+    "price_monthly": 367.92
   },
   "r6i.4xlarge": {
     "price": 1.0080000000,
@@ -3122,6 +4715,15 @@
     "ratio": 4.9603174603174605,
     "price_monthly": 735.84
   },
+  "r6gd.large": {
+    "price": 0.1509000000,
+    "vcpus": 2,
+    "baseline": 0.75,
+    "burst": "Up to 10 Gigabit",
+    "max_egress": 0.75,
+    "ratio": 4.970178926441352,
+    "price_monthly": 110.15700000000001
+  },
   "r6gd.xlarge": {
     "price": 0.2512000000,
     "vcpus": 4,
@@ -3131,14 +4733,59 @@
     "ratio": 4.976114649681529,
     "price_monthly": 183.37599999999998
   },
-  "c6gd.12xlarge": {
-    "price": 1.9732000000,
+  "i8g.2xlarge": {
+    "price": 0.9416000000,
+    "vcpus": 8,
+    "baseline": 4.688,
+    "burst": "Up to 12 Gigabit",
+    "max_egress": 4.688,
+    "ratio": 4.97875955819881,
+    "price_monthly": 687.3679999999999
+  },
+  "r8ib.8xlarge": {
+    "price": 3.3472000000,
+    "vcpus": 32,
+    "baseline": 33.333,
+    "burst": "33.33 Gigabit",
+    "max_egress": 16.6665,
+    "ratio": 4.97923637667304,
+    "price_monthly": 2443.456
+  },
+  "r8ib.32xlarge": {
+    "price": 13.3888000000,
+    "vcpus": 128,
+    "baseline": 133.333,
+    "burst": "133.33 Gigabit",
+    "max_egress": 66.6665,
+    "ratio": 4.979273721319312,
+    "price_monthly": 9773.824
+  },
+  "r8ib.48xlarge": {
+    "price": 20.0832000000,
+    "vcpus": 192,
+    "baseline": 200.0,
+    "burst": "200 Gigabit",
+    "max_egress": 100,
+    "ratio": 4.979286169534735,
+    "price_monthly": 14660.736
+  },
+  "c7g.12xlarge": {
+    "price": 2.2584000000,
     "vcpus": 48,
-    "baseline": 20.0,
-    "burst": "20 Gigabit",
-    "max_egress": 10,
-    "ratio": 5.067909993918508,
-    "price_monthly": 1440.4360000000001
+    "baseline": 22.5,
+    "burst": "22.5 Gigabit",
+    "max_egress": 11.25,
+    "ratio": 4.981402763018066,
+    "price_monthly": 1648.632
+  },
+  "r9g.large": {
+    "price": 0.1975600000,
+    "vcpus": 2,
+    "baseline": 1.0,
+    "burst": "Up to 15 Gigabit",
+    "max_egress": 1.0,
+    "ratio": 5.061753391374772,
+    "price_monthly": 144.21880000000002
   },
   "m6g.16xlarge": {
     "price": 2.4640000000,
@@ -3149,23 +4796,14 @@
     "ratio": 5.0730519480519485,
     "price_monthly": 1798.72
   },
-  "c6gd.medium": {
-    "price": 0.0984000000,
-    "vcpus": 1,
-    "baseline": 0.5,
-    "burst": "Up to 10 Gigabit",
-    "max_egress": 0.5,
-    "ratio": 5.08130081300813,
-    "price_monthly": 71.83200000000001
-  },
-  "m6i.xlarge": {
-    "price": 0.3062000000,
+  "m8a.xlarge": {
+    "price": 0.3686400000,
     "vcpus": 4,
-    "baseline": 1.562,
+    "baseline": 1.875,
     "burst": "Up to 12.5 Gigabit",
-    "max_egress": 1.562,
-    "ratio": 5.1012410189418675,
-    "price_monthly": 223.526
+    "max_egress": 1.875,
+    "ratio": 5.086263020833333,
+    "price_monthly": 269.10720000000003
   },
   "c5n.large": {
     "price": 0.5880000000,
@@ -3203,6 +4841,42 @@
     "ratio": 5.130260521042084,
     "price_monthly": 36.427
   },
+  "c8ib.32xlarge": {
+    "price": 12.9720300000,
+    "vcpus": 128,
+    "baseline": 133.333,
+    "burst": "133.33 Gigabit",
+    "max_egress": 66.6665,
+    "ratio": 5.13924960087203,
+    "price_monthly": 9469.5819
+  },
+  "m8ine.2xlarge": {
+    "price": 0.9706000000,
+    "vcpus": 8,
+    "baseline": 12.5,
+    "burst": "12.5 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 5.151452709664126,
+    "price_monthly": 708.538
+  },
+  "c8a.2xlarge": {
+    "price": 0.7245900000,
+    "vcpus": 8,
+    "baseline": 3.75,
+    "burst": "Up to 15 Gigabit",
+    "max_egress": 3.75,
+    "ratio": 5.1753405374073616,
+    "price_monthly": 528.9507
+  },
+  "m9g.16xlarge": {
+    "price": 3.2558800000,
+    "vcpus": 64,
+    "baseline": 34.0,
+    "burst": "34 Gigabit",
+    "max_egress": 17,
+    "ratio": 5.221322653169036,
+    "price_monthly": 2376.7924
+  },
   "m3.large": {
     "price": 0.1330000000,
     "vcpus": 2,
@@ -3239,15 +4913,6 @@
     "ratio": 5.2793850572285335,
     "price_monthly": 3456.842
   },
-  "m5.4xlarge": {
-    "price": 0.9450000000,
-    "vcpus": 16,
-    "baseline": 5.0,
-    "burst": "Up to 10 Gigabit",
-    "max_egress": 5.0,
-    "ratio": 5.291005291005291,
-    "price_monthly": 689.8499999999999
-  },
   "m6in.xlarge": {
     "price": 0.9424600000,
     "vcpus": 4,
@@ -3257,41 +4922,59 @@
     "ratio": 5.30526494493135,
     "price_monthly": 687.9957999999999
   },
-  "c6g.medium": {
-    "price": 0.0940000000,
-    "vcpus": 1,
-    "baseline": 0.5,
+  "c6gd.large": {
+    "price": 0.1406000000,
+    "vcpus": 2,
+    "baseline": 0.75,
     "burst": "Up to 10 Gigabit",
-    "max_egress": 0.5,
-    "ratio": 5.319148936170213,
-    "price_monthly": 68.62
+    "max_egress": 0.75,
+    "ratio": 5.334281650071124,
+    "price_monthly": 102.638
   },
-  "m5dn.8xlarge": {
-    "price": 2.3410000000,
+  "g6.8xlarge": {
+    "price": 2.3408400000,
     "vcpus": 32,
     "baseline": 25.0,
     "burst": "25 Gigabit",
     "max_egress": 12.5,
-    "ratio": 5.339598462195642,
-    "price_monthly": 1708.93
+    "ratio": 5.339963431930418,
+    "price_monthly": 1708.8132
   },
-  "r7gd.xlarge": {
-    "price": 0.3485000000,
-    "vcpus": 4,
-    "baseline": 1.876,
+  "c8a.large": {
+    "price": 0.1748500000,
+    "vcpus": 2,
+    "baseline": 0.937,
     "burst": "Up to 12.5 Gigabit",
-    "max_egress": 1.876,
-    "ratio": 5.383070301291248,
-    "price_monthly": 254.40499999999997
+    "max_egress": 0.937,
+    "ratio": 5.358879039176437,
+    "price_monthly": 127.6405
   },
-  "m7g.metal": {
-    "price": 2.7762000000,
-    "vcpus": 64,
-    "baseline": 30.0,
-    "burst": "30 Gigabit",
-    "max_egress": 15,
-    "ratio": 5.403068943159715,
-    "price_monthly": 2026.6259999999997
+  "i4g.2xlarge": {
+    "price": 0.8729600000,
+    "vcpus": 8,
+    "baseline": 4.687,
+    "burst": "Up to 12 Gigabit",
+    "max_egress": 4.687,
+    "ratio": 5.369089076246335,
+    "price_monthly": 637.2608
+  },
+  "m5dn.12xlarge": {
+    "price": 4.6500000000,
+    "vcpus": 48,
+    "baseline": 50.0,
+    "burst": "50 Gigabit",
+    "max_egress": 25,
+    "ratio": 5.376344086021505,
+    "price_monthly": 3394.5000000000005
+  },
+  "m7a.large": {
+    "price": 0.1447200000,
+    "vcpus": 2,
+    "baseline": 0.781,
+    "burst": "Up to 12.5 Gigabit",
+    "max_egress": 0.781,
+    "ratio": 5.396627971254838,
+    "price_monthly": 105.64559999999999
   },
   "m7g.12xlarge": {
     "price": 2.0818000000,
@@ -3302,14 +4985,23 @@
     "ratio": 5.403977327312902,
     "price_monthly": 1519.714
   },
-  "c6g.metal": {
-    "price": 2.3066000000,
-    "vcpus": 64,
-    "baseline": 25.0,
-    "burst": "25 Gigabit",
-    "max_egress": 12.5,
-    "ratio": 5.419231769704327,
-    "price_monthly": 1683.818
+  "g7.48xlarge": {
+    "price": 32.3724800000,
+    "vcpus": 192,
+    "baseline": 350.0,
+    "burst": "700 Gigabit",
+    "max_egress": 175,
+    "ratio": 5.4058261832272345,
+    "price_monthly": 23631.9104
+  },
+  "r7gd.xlarge": {
+    "price": 0.3461000000,
+    "vcpus": 4,
+    "baseline": 1.876,
+    "burst": "Up to 12.5 Gigabit",
+    "max_egress": 1.876,
+    "ratio": 5.420398728691129,
+    "price_monthly": 252.65300000000002
   },
   "c6g.16xlarge": {
     "price": 2.3010000000,
@@ -3320,14 +5012,14 @@
     "ratio": 5.4324206866579745,
     "price_monthly": 1679.73
   },
-  "m6g.2xlarge": {
-    "price": 0.4564000000,
-    "vcpus": 8,
-    "baseline": 2.5,
-    "burst": "Up to 10 Gigabit",
-    "max_egress": 2.5,
-    "ratio": 5.4776511831726555,
-    "price_monthly": 333.17199999999997
+  "c9g.12xlarge": {
+    "price": 2.2952200000,
+    "vcpus": 48,
+    "baseline": 25.0,
+    "burst": "25 Gigabit",
+    "max_egress": 12.5,
+    "ratio": 5.446101027352498,
+    "price_monthly": 1675.5106
   },
   "m7g.16xlarge": {
     "price": 2.7362000000,
@@ -3346,6 +5038,15 @@
     "max_egress": 50,
     "ratio": 5.48399550751088,
     "price_monthly": 6655.7312
+  },
+  "r7g.2xlarge": {
+    "price": 0.6836000000,
+    "vcpus": 8,
+    "baseline": 3.75,
+    "burst": "Up to 15 Gigabit",
+    "max_egress": 3.75,
+    "ratio": 5.485664131070802,
+    "price_monthly": 499.02799999999996
   },
   "r6i.2xlarge": {
     "price": 0.5684000000,
@@ -3383,6 +5084,24 @@
     "ratio": 5.517241379310345,
     "price_monthly": 4.234
   },
+  "m8idn.2xlarge": {
+    "price": 0.8989600000,
+    "vcpus": 8,
+    "baseline": 12.5,
+    "burst": "Up to 40 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 5.561982735605588,
+    "price_monthly": 656.2408
+  },
+  "r9gd.large": {
+    "price": 0.1797000000,
+    "vcpus": 2,
+    "baseline": 1.0,
+    "burst": "Up to 15 Gigabit",
+    "max_egress": 1.0,
+    "ratio": 5.564830272676684,
+    "price_monthly": 131.181
+  },
   "t3.2xlarge": {
     "price": 0.3667000000,
     "vcpus": 8,
@@ -3391,15 +5110,6 @@
     "max_egress": 2.048,
     "ratio": 5.5849468230160895,
     "price_monthly": 267.69100000000003
-  },
-  "c7g.large": {
-    "price": 0.1675000000,
-    "vcpus": 2,
-    "baseline": 0.937,
-    "burst": "Up to 12.5 Gigabit",
-    "max_egress": 0.937,
-    "ratio": 5.594029850746269,
-    "price_monthly": 122.275
   },
   "r7g.4xlarge": {
     "price": 0.8848000000,
@@ -3410,6 +5120,24 @@
     "ratio": 5.650994575045208,
     "price_monthly": 645.904
   },
+  "m6g.2xlarge": {
+    "price": 0.4416000000,
+    "vcpus": 8,
+    "baseline": 2.5,
+    "burst": "Up to 10 Gigabit",
+    "max_egress": 2.5,
+    "ratio": 5.661231884057971,
+    "price_monthly": 322.368
+  },
+  "m8in.12xlarge": {
+    "price": 6.6189100000,
+    "vcpus": 48,
+    "baseline": 75.0,
+    "burst": "75 Gigabit",
+    "max_egress": 37.5,
+    "ratio": 5.665585421164512,
+    "price_monthly": 4831.8043
+  },
   "c6gd.xlarge": {
     "price": 0.2191000000,
     "vcpus": 4,
@@ -3418,6 +5146,15 @@
     "max_egress": 1.25,
     "ratio": 5.705157462345961,
     "price_monthly": 159.94299999999998
+  },
+  "r8gb.48xlarge": {
+    "price": 17.4892800000,
+    "vcpus": 192,
+    "baseline": 200.0,
+    "burst": "400 Gigabit",
+    "max_egress": 100,
+    "ratio": 5.71778826801332,
+    "price_monthly": 12767.1744
   },
   "m5ad.4xlarge": {
     "price": 0.8740000000,
@@ -3428,14 +5165,50 @@
     "ratio": 5.720823798627002,
     "price_monthly": 638.02
   },
-  "a1.medium": {
-    "price": 0.0870000000,
-    "vcpus": 1,
-    "baseline": 0.5,
-    "burst": "Up to 10 Gigabit",
-    "max_egress": 0.5,
-    "ratio": 5.74712643678161,
-    "price_monthly": 63.51
+  "r8a.large": {
+    "price": 0.1632600000,
+    "vcpus": 2,
+    "baseline": 0.937,
+    "burst": "Up to 12.5 Gigabit",
+    "max_egress": 0.937,
+    "ratio": 5.739311527624649,
+    "price_monthly": 119.17979999999999
+  },
+  "c8in.96xlarge": {
+    "price": 26.1273600000,
+    "vcpus": 384,
+    "baseline": 300.0,
+    "burst": "600 Gigabit",
+    "max_egress": 150,
+    "ratio": 5.741108171663727,
+    "price_monthly": 19072.9728
+  },
+  "i8ge.48xlarge": {
+    "price": 26.1058000000,
+    "vcpus": 192,
+    "baseline": 300.0,
+    "burst": "300 Gigabit",
+    "max_egress": 150,
+    "ratio": 5.745849581319094,
+    "price_monthly": 19057.234
+  },
+  "c9gd.large": {
+    "price": 0.1737800000,
+    "vcpus": 2,
+    "baseline": 1.0,
+    "burst": "Up to 15 Gigabit",
+    "max_egress": 1.0,
+    "ratio": 5.754402117619979,
+    "price_monthly": 126.8594
+  },
+  "c9g.48xlarge": {
+    "price": 8.6822400000,
+    "vcpus": 192,
+    "baseline": 100.0,
+    "burst": "100 Gigabit",
+    "max_egress": 50,
+    "ratio": 5.758882500368569,
+    "price_monthly": 6338.0352
   },
   "r5dn.12xlarge": {
     "price": 4.3324800000,
@@ -3446,6 +5219,15 @@
     "ratio": 5.770367087672649,
     "price_monthly": 3162.7104000000004
   },
+  "c5n.4xlarge": {
+    "price": 0.8640000000,
+    "vcpus": 16,
+    "baseline": 15.0,
+    "burst": "Up to 25 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 5.787037037037037,
+    "price_monthly": 630.72
+  },
   "c6g.12xlarge": {
     "price": 1.7160000000,
     "vcpus": 48,
@@ -3454,15 +5236,6 @@
     "max_egress": 10,
     "ratio": 5.827505827505828,
     "price_monthly": 1252.68
-  },
-  "c6gn.4xlarge": {
-    "price": 0.8562000000,
-    "vcpus": 16,
-    "baseline": 25.0,
-    "burst": "25 Gigabit",
-    "max_egress": 5.0,
-    "ratio": 5.83975706610605,
-    "price_monthly": 625.026
   },
   "r6g.2xlarge": {
     "price": 0.4274000000,
@@ -3473,14 +5246,41 @@
     "ratio": 5.84932147870847,
     "price_monthly": 312.002
   },
-  "m7i.2xlarge": {
-    "price": 0.5332000000,
+  "c9gd.2xlarge": {
+    "price": 0.7251200000,
     "vcpus": 8,
-    "baseline": 3.125,
+    "baseline": 4.25,
+    "burst": "Up to 17 Gigabit",
+    "max_egress": 4.25,
+    "ratio": 5.861098852603707,
+    "price_monthly": 529.3376
+  },
+  "r7i.xlarge": {
+    "price": 0.2646000000,
+    "vcpus": 4,
+    "baseline": 1.562,
     "burst": "Up to 12.5 Gigabit",
-    "max_egress": 3.125,
-    "ratio": 5.860840210052513,
-    "price_monthly": 389.236
+    "max_egress": 1.562,
+    "ratio": 5.903250188964475,
+    "price_monthly": 193.15800000000002
+  },
+  "r9gd.2xlarge": {
+    "price": 0.7187900000,
+    "vcpus": 8,
+    "baseline": 4.25,
+    "burst": "Up to 17 Gigabit",
+    "max_egress": 4.25,
+    "ratio": 5.91271442284951,
+    "price_monthly": 524.7167000000001
+  },
+  "r8g.2xlarge": {
+    "price": 0.6336100000,
+    "vcpus": 8,
+    "baseline": 3.75,
+    "burst": "Up to 15 Gigabit",
+    "max_egress": 3.75,
+    "ratio": 5.918467195909155,
+    "price_monthly": 462.5353
   },
   "r6g.medium": {
     "price": 0.0844000000,
@@ -3491,32 +5291,59 @@
     "ratio": 5.924170616113744,
     "price_monthly": 61.612
   },
-  "i4g.2xlarge": {
-    "price": 0.7827600000,
+  "c8i.large": {
+    "price": 0.1575100000,
+    "vcpus": 2,
+    "baseline": 0.937,
+    "burst": "Up to 12.5 Gigabit",
+    "max_egress": 0.937,
+    "ratio": 5.948828645800266,
+    "price_monthly": 114.98230000000001
+  },
+  "r5.large": {
+    "price": 0.1260000000,
+    "vcpus": 2,
+    "baseline": 0.75,
+    "burst": "Up to 10 Gigabit",
+    "max_egress": 0.75,
+    "ratio": 5.9523809523809526,
+    "price_monthly": 91.98
+  },
+  "m9gd.large": {
+    "price": 0.1670700000,
+    "vcpus": 2,
+    "baseline": 1.0,
+    "burst": "Up to 15 Gigabit",
+    "max_egress": 1.0,
+    "ratio": 5.98551505357036,
+    "price_monthly": 121.9611
+  },
+  "m7i.2xlarge": {
+    "price": 0.5184000000,
     "vcpus": 8,
-    "baseline": 4.687,
-    "burst": "Up to 12 Gigabit",
-    "max_egress": 4.687,
-    "ratio": 5.987786805662017,
-    "price_monthly": 571.4148
+    "baseline": 3.125,
+    "burst": "Up to 12.5 Gigabit",
+    "max_egress": 3.125,
+    "ratio": 6.028163580246914,
+    "price_monthly": 378.43199999999996
   },
-  "c7g.12xlarge": {
-    "price": 1.8700000000,
-    "vcpus": 48,
-    "baseline": 22.5,
-    "burst": "22.5 Gigabit",
-    "max_egress": 11.25,
-    "ratio": 6.016042780748663,
-    "price_monthly": 1365.1000000000001
+  "i8ge.18xlarge": {
+    "price": 9.3204000000,
+    "vcpus": 72,
+    "baseline": 112.5,
+    "burst": "112.5 Gigabit",
+    "max_egress": 56.25,
+    "ratio": 6.035148706064118,
+    "price_monthly": 6803.892
   },
-  "m5n.8xlarge": {
-    "price": 2.0690000000,
-    "vcpus": 32,
-    "baseline": 25.0,
-    "burst": "25 Gigabit",
-    "max_egress": 12.5,
-    "ratio": 6.041565973900435,
-    "price_monthly": 1510.37
+  "i8g.large": {
+    "price": 0.1923000000,
+    "vcpus": 2,
+    "baseline": 1.172,
+    "burst": "Up to 10 Gigabit",
+    "max_egress": 1.172,
+    "ratio": 6.09464378575143,
+    "price_monthly": 140.379
   },
   "r5dn.24xlarge": {
     "price": 8.1840000000,
@@ -3526,15 +5353,6 @@
     "max_egress": 50,
     "ratio": 6.10948191593353,
     "price_monthly": 5974.32
-  },
-  "c6gd.4xlarge": {
-    "price": 0.8163000000,
-    "vcpus": 16,
-    "baseline": 5.0,
-    "burst": "Up to 10 Gigabit",
-    "max_egress": 5.0,
-    "ratio": 6.125199068969741,
-    "price_monthly": 595.899
   },
   "t3.xlarge": {
     "price": 0.1664000000,
@@ -3553,6 +5371,24 @@
     "max_egress": 0.064,
     "ratio": 6.153846153846154,
     "price_monthly": 7.592
+  },
+  "c8gd.4xlarge": {
+    "price": 0.8118400000,
+    "vcpus": 16,
+    "baseline": 7.5,
+    "burst": "Up to 15 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 6.158849034292471,
+    "price_monthly": 592.6432
+  },
+  "c8g.4xlarge": {
+    "price": 0.8108800000,
+    "vcpus": 16,
+    "baseline": 7.5,
+    "burst": "Up to 15 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 6.166140489344909,
+    "price_monthly": 591.9424
   },
   "c7g.16xlarge": {
     "price": 2.4320000000,
@@ -3590,23 +5426,59 @@
     "ratio": 6.200396825396825,
     "price_monthly": 588.672
   },
-  "r7g.2xlarge": {
-    "price": 0.5934000000,
+  "m8ib.12xlarge": {
+    "price": 4.0099200000,
+    "vcpus": 48,
+    "baseline": 50.0,
+    "burst": "50 Gigabit",
+    "max_egress": 25,
+    "ratio": 6.234538344904636,
+    "price_monthly": 2927.2416000000003
+  },
+  "r6in.24xlarge": {
+    "price": 11.8638200000,
+    "vcpus": 96,
+    "baseline": 150.0,
+    "burst": "150 Gigabit",
+    "max_egress": 75,
+    "ratio": 6.321741226687525,
+    "price_monthly": 8660.588600000001
+  },
+  "r8g.xlarge": {
+    "price": 0.2932400000,
+    "vcpus": 4,
+    "baseline": 1.875,
+    "burst": "Up to 12.5 Gigabit",
+    "max_egress": 1.875,
+    "ratio": 6.394079934524622,
+    "price_monthly": 214.0652
+  },
+  "c8id.2xlarge": {
+    "price": 0.5787200000,
     "vcpus": 8,
     "baseline": 3.75,
     "burst": "Up to 15 Gigabit",
     "max_egress": 3.75,
-    "ratio": 6.319514661274014,
-    "price_monthly": 433.182
+    "ratio": 6.479817528338402,
+    "price_monthly": 422.4656
   },
-  "r6in.large": {
-    "price": 0.4917600000,
+  "m6gd.medium": {
+    "price": 0.0771000000,
+    "vcpus": 1,
+    "baseline": 0.5,
+    "burst": "Up to 10 Gigabit",
+    "max_egress": 0.5,
+    "ratio": 6.485084306095979,
+    "price_monthly": 56.283
+  },
+  "m9g.large": {
+    "price": 0.1541400000,
     "vcpus": 2,
-    "baseline": 3.125,
-    "burst": "Up to 25 Gigabit",
-    "max_egress": 3.125,
-    "ratio": 6.354725882544331,
-    "price_monthly": 358.9848
+    "baseline": 1.0,
+    "burst": "Up to 15 Gigabit",
+    "max_egress": 1.0,
+    "ratio": 6.48760866744518,
+    "price_monthly": 112.5222
   },
   "c7gd.4xlarge": {
     "price": 0.7693000000,
@@ -3617,6 +5489,24 @@
     "ratio": 6.499415052645262,
     "price_monthly": 561.5889999999999
   },
+  "i8ge.24xlarge": {
+    "price": 11.5154000000,
+    "vcpus": 96,
+    "baseline": 150.0,
+    "burst": "150 Gigabit",
+    "max_egress": 75,
+    "ratio": 6.513017350678222,
+    "price_monthly": 8406.242
+  },
+  "i3en.large": {
+    "price": 0.3220000000,
+    "vcpus": 2,
+    "baseline": 2.1,
+    "burst": "Up to 25 Gigabit",
+    "max_egress": 2.1,
+    "ratio": 6.521739130434783,
+    "price_monthly": 235.06
+  },
   "g4dn.2xlarge": {
     "price": 0.7660000000,
     "vcpus": 8,
@@ -3626,23 +5516,41 @@
     "ratio": 6.527415143603133,
     "price_monthly": 559.1800000000001
   },
-  "i3en.large": {
-    "price": 0.3200000000,
-    "vcpus": 2,
-    "baseline": 2.1,
-    "burst": "Up to 25 Gigabit",
-    "max_egress": 2.1,
-    "ratio": 6.5625,
-    "price_monthly": 233.6
+  "c9g.4xlarge": {
+    "price": 0.7650700000,
+    "vcpus": 16,
+    "baseline": 8.5,
+    "burst": "Up to 17 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 6.535349706562798,
+    "price_monthly": 558.5011000000001
   },
-  "u-9tb1.112xlarge": {
-    "price": 7.5712000000,
-    "vcpus": 448,
-    "baseline": 100.0,
-    "burst": "100 Gigabit",
-    "max_egress": 50,
-    "ratio": 6.6039729501267965,
-    "price_monthly": 5526.976
+  "c8gb.48xlarge": {
+    "price": 15.2352000000,
+    "vcpus": 192,
+    "baseline": 200.0,
+    "burst": "400 Gigabit",
+    "max_egress": 100,
+    "ratio": 6.563747111951271,
+    "price_monthly": 11121.696
+  },
+  "m9gd.medium": {
+    "price": 0.0835400000,
+    "vcpus": 1,
+    "baseline": 0.55,
+    "burst": "Up to 15 Gigabit",
+    "max_egress": 0.55,
+    "ratio": 6.583672492219296,
+    "price_monthly": 60.9842
+  },
+  "i8ge.12xlarge": {
+    "price": 5.6952000000,
+    "vcpus": 48,
+    "baseline": 75.0,
+    "burst": "75 Gigabit",
+    "max_egress": 37.5,
+    "ratio": 6.584492203961231,
+    "price_monthly": 4157.496
   },
   "m7gd.xlarge": {
     "price": 0.2827000000,
@@ -3652,6 +5560,15 @@
     "max_egress": 1.876,
     "ratio": 6.636009904492394,
     "price_monthly": 206.371
+  },
+  "c9g.2xlarge": {
+    "price": 0.6377400000,
+    "vcpus": 8,
+    "baseline": 4.25,
+    "burst": "Up to 17 Gigabit",
+    "max_egress": 4.25,
+    "ratio": 6.664157807256876,
+    "price_monthly": 465.55019999999996
   },
   "c6i.4xlarge": {
     "price": 0.7480000000,
@@ -3680,6 +5597,24 @@
     "ratio": 6.742360905094528,
     "price_monthly": 541.3534
   },
+  "im4gn.16xlarge": {
+    "price": 7.4078700000,
+    "vcpus": 64,
+    "baseline": 100.0,
+    "burst": "100 Gigabit",
+    "max_egress": 50,
+    "ratio": 6.749578488823373,
+    "price_monthly": 5407.7451
+  },
+  "r8in.24xlarge": {
+    "price": 11.0457600000,
+    "vcpus": 96,
+    "baseline": 150.0,
+    "burst": "150 Gigabit",
+    "max_egress": 75,
+    "ratio": 6.789935685729185,
+    "price_monthly": 8063.404799999999
+  },
   "m7gd.2xlarge": {
     "price": 0.5521000000,
     "vcpus": 8,
@@ -3689,32 +5624,59 @@
     "ratio": 6.792247781199058,
     "price_monthly": 403.033
   },
-  "m6id.4xlarge": {
+  "c8ib.4xlarge": {
     "price": 0.7360000000,
     "vcpus": 16,
-    "baseline": 6.25,
-    "burst": "Up to 12.5 Gigabit",
+    "baseline": 16.666,
+    "burst": "Up to 33.33 Gigabit",
     "max_egress": 5.0,
     "ratio": 6.793478260869565,
     "price_monthly": 537.28
   },
-  "r6in.24xlarge": {
-    "price": 10.9666200000,
-    "vcpus": 96,
-    "baseline": 150.0,
-    "burst": "150 Gigabit",
-    "max_egress": 75,
-    "ratio": 6.838934876926528,
-    "price_monthly": 8005.632600000001
+  "t3a.small": {
+    "price": 0.0188000000,
+    "vcpus": 2,
+    "baseline": 0.128,
+    "burst": "Up to 5 Gigabit",
+    "max_egress": 0.128,
+    "ratio": 6.808510638297872,
+    "price_monthly": 13.724
   },
-  "m5dn.12xlarge": {
-    "price": 3.6250000000,
-    "vcpus": 48,
-    "baseline": 50.0,
-    "burst": "50 Gigabit",
-    "max_egress": 25,
-    "ratio": 6.896551724137931,
-    "price_monthly": 2646.25
+  "m8gb.2xlarge": {
+    "price": 0.7321200000,
+    "vcpus": 8,
+    "baseline": 16.666,
+    "burst": "Up to 33.33 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 6.8294815057640825,
+    "price_monthly": 534.4476
+  },
+  "r8gn.2xlarge": {
+    "price": 0.7287000000,
+    "vcpus": 8,
+    "baseline": 25.0,
+    "burst": "Up to 50 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 6.861534239055853,
+    "price_monthly": 531.951
+  },
+  "r9gd.medium": {
+    "price": 0.0800900000,
+    "vcpus": 1,
+    "baseline": 0.55,
+    "burst": "Up to 15 Gigabit",
+    "max_egress": 0.55,
+    "ratio": 6.867274316394058,
+    "price_monthly": 58.4657
+  },
+  "c7g.large": {
+    "price": 0.1363000000,
+    "vcpus": 2,
+    "baseline": 0.937,
+    "burst": "Up to 12.5 Gigabit",
+    "max_egress": 0.937,
+    "ratio": 6.874541452677916,
+    "price_monthly": 99.49900000000001
   },
   "t4g.medium": {
     "price": 0.0371000000,
@@ -3725,23 +5687,23 @@
     "ratio": 6.900269541778976,
     "price_monthly": 27.083000000000002
   },
-  "g4ad.2xlarge": {
-    "price": 0.5952900000,
+  "c8ib.2xlarge": {
+    "price": 0.7237500000,
     "vcpus": 8,
-    "baseline": 4.167,
-    "burst": "Up to 10 Gigabit",
-    "max_egress": 4.167,
-    "ratio": 6.999949604394497,
-    "price_monthly": 434.5617
+    "baseline": 8.333,
+    "burst": "Up to 26.66 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 6.90846286701209,
+    "price_monthly": 528.3375
   },
-  "a1.2xlarge": {
-    "price": 0.3462000000,
-    "vcpus": 8,
-    "baseline": 2.5,
-    "burst": "Up to 10 Gigabit",
-    "max_egress": 2.5,
-    "ratio": 7.221259387637204,
-    "price_monthly": 252.726
+  "m8gd.large": {
+    "price": 0.1303500000,
+    "vcpus": 2,
+    "baseline": 0.937,
+    "burst": "Up to 12.5 Gigabit",
+    "max_egress": 0.937,
+    "ratio": 7.188339087073265,
+    "price_monthly": 95.15549999999999
   },
   "t4g.xlarge": {
     "price": 0.1414000000,
@@ -3752,6 +5714,69 @@
     "ratio": 7.241867043847242,
     "price_monthly": 103.222
   },
+  "c8gd.2xlarge": {
+    "price": 0.5169200000,
+    "vcpus": 8,
+    "baseline": 3.75,
+    "burst": "Up to 15 Gigabit",
+    "max_egress": 3.75,
+    "ratio": 7.254507467306352,
+    "price_monthly": 377.3516
+  },
+  "c5ad.2xlarge": {
+    "price": 0.3440000000,
+    "vcpus": 8,
+    "baseline": 2.5,
+    "burst": "Up to 10 Gigabit",
+    "max_egress": 2.5,
+    "ratio": 7.267441860465117,
+    "price_monthly": 251.11999999999998
+  },
+  "g6f.large": {
+    "price": 0.2055000000,
+    "vcpus": 2,
+    "baseline": 1.5,
+    "burst": "Up to 10 Gigabit",
+    "max_egress": 1.5,
+    "ratio": 7.299270072992702,
+    "price_monthly": 150.015
+  },
+  "m8idn.24xlarge": {
+    "price": 10.2496300000,
+    "vcpus": 96,
+    "baseline": 150.0,
+    "burst": "150 Gigabit",
+    "max_egress": 75,
+    "ratio": 7.31733730876139,
+    "price_monthly": 7482.2299
+  },
+  "r8in.8xlarge": {
+    "price": 3.4032000000,
+    "vcpus": 32,
+    "baseline": 50.0,
+    "burst": "50 Gigabit",
+    "max_egress": 25,
+    "ratio": 7.346027268453221,
+    "price_monthly": 2484.336
+  },
+  "c5.xlarge": {
+    "price": 0.1700000000,
+    "vcpus": 4,
+    "baseline": 1.25,
+    "burst": "Up to 10 Gigabit",
+    "max_egress": 1.25,
+    "ratio": 7.352941176470588,
+    "price_monthly": 124.10000000000001
+  },
+  "c8gd.xlarge": {
+    "price": 0.2535600000,
+    "vcpus": 4,
+    "baseline": 1.875,
+    "burst": "Up to 12.5 Gigabit",
+    "max_egress": 1.875,
+    "ratio": 7.394699479413156,
+    "price_monthly": 185.0988
+  },
   "r7gd.medium": {
     "price": 0.0698000000,
     "vcpus": 1,
@@ -3761,6 +5786,15 @@
     "ratio": 7.4498567335243555,
     "price_monthly": 50.954
   },
+  "r5dn.2xlarge": {
+    "price": 0.6680000000,
+    "vcpus": 8,
+    "baseline": 8.125,
+    "burst": "Up to 25 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 7.48502994011976,
+    "price_monthly": 487.64000000000004
+  },
   "im4gn.8xlarge": {
     "price": 3.3263700000,
     "vcpus": 32,
@@ -3769,6 +5803,15 @@
     "max_egress": 25,
     "ratio": 7.51570029792236,
     "price_monthly": 2428.2500999999997
+  },
+  "a1.2xlarge": {
+    "price": 0.3314000000,
+    "vcpus": 8,
+    "baseline": 2.5,
+    "burst": "Up to 10 Gigabit",
+    "max_egress": 2.5,
+    "ratio": 7.543753771876887,
+    "price_monthly": 241.92199999999997
   },
   "c7gd.xlarge": {
     "price": 0.2486000000,
@@ -3788,14 +5831,41 @@
     "ratio": 7.6190476190476195,
     "price_monthly": 3.066
   },
-  "a1.xlarge": {
-    "price": 0.1620000000,
+  "c8ib.12xlarge": {
+    "price": 3.2659200000,
+    "vcpus": 48,
+    "baseline": 50.0,
+    "burst": "50 Gigabit",
+    "max_egress": 25,
+    "ratio": 7.654810895551637,
+    "price_monthly": 2384.1216
+  },
+  "m6in.16xlarge": {
+    "price": 6.4881000000,
+    "vcpus": 64,
+    "baseline": 100.0,
+    "burst": "100 Gigabit",
+    "max_egress": 50,
+    "ratio": 7.70641636226322,
+    "price_monthly": 4736.313
+  },
+  "m7i.xlarge": {
+    "price": 0.2016000000,
     "vcpus": 4,
-    "baseline": 1.25,
-    "burst": "Up to 10 Gigabit",
-    "max_egress": 1.25,
-    "ratio": 7.716049382716049,
-    "price_monthly": 118.26
+    "baseline": 1.562,
+    "burst": "Up to 12.5 Gigabit",
+    "max_egress": 1.562,
+    "ratio": 7.7480158730158735,
+    "price_monthly": 147.168
+  },
+  "c6id.2xlarge": {
+    "price": 0.4032000000,
+    "vcpus": 8,
+    "baseline": 3.125,
+    "burst": "Up to 12.5 Gigabit",
+    "max_egress": 3.125,
+    "ratio": 7.750496031746032,
+    "price_monthly": 294.336
   },
   "c5a.2xlarge": {
     "price": 0.3220000000,
@@ -3815,6 +5885,51 @@
     "ratio": 7.763975155279503,
     "price_monthly": 470.12
   },
+  "r8idn.xlarge": {
+    "price": 0.6434300000,
+    "vcpus": 4,
+    "baseline": 6.25,
+    "burst": "Up to 30 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 7.7708530842515895,
+    "price_monthly": 469.7039
+  },
+  "r9g.medium": {
+    "price": 0.0706300000,
+    "vcpus": 1,
+    "baseline": 0.55,
+    "burst": "Up to 15 Gigabit",
+    "max_egress": 0.55,
+    "ratio": 7.787059323233755,
+    "price_monthly": 51.5599
+  },
+  "a1.xlarge": {
+    "price": 0.1596000000,
+    "vcpus": 4,
+    "baseline": 1.25,
+    "burst": "Up to 10 Gigabit",
+    "max_egress": 1.25,
+    "ratio": 7.832080200501253,
+    "price_monthly": 116.508
+  },
+  "m8g.xlarge": {
+    "price": 0.2371200000,
+    "vcpus": 4,
+    "baseline": 1.875,
+    "burst": "Up to 12.5 Gigabit",
+    "max_egress": 1.875,
+    "ratio": 7.907388663967612,
+    "price_monthly": 173.0976
+  },
+  "i7ie.large": {
+    "price": 0.2634000000,
+    "vcpus": 2,
+    "baseline": 2.083,
+    "burst": "Up to 25 Gigabit",
+    "max_egress": 2.083,
+    "ratio": 7.908124525436598,
+    "price_monthly": 192.282
+  },
   "r6in.12xlarge": {
     "price": 4.7273100000,
     "vcpus": 48,
@@ -3823,6 +5938,24 @@
     "max_egress": 37.5,
     "ratio": 7.932629761957646,
     "price_monthly": 3450.9363000000003
+  },
+  "c9g.large": {
+    "price": 0.1244300000,
+    "vcpus": 2,
+    "baseline": 1.0,
+    "burst": "Up to 15 Gigabit",
+    "max_egress": 1.0,
+    "ratio": 8.036647110825363,
+    "price_monthly": 90.8339
+  },
+  "c8gb.2xlarge": {
+    "price": 0.6176400000,
+    "vcpus": 8,
+    "baseline": 16.666,
+    "burst": "Up to 33.33 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 8.095330613302247,
+    "price_monthly": 450.87719999999996
   },
   "m6g.xlarge": {
     "price": 0.1540000000,
@@ -3833,6 +5966,15 @@
     "ratio": 8.116883116883116,
     "price_monthly": 112.42
   },
+  "m8idn.32xlarge": {
+    "price": 12.2201600000,
+    "vcpus": 128,
+    "baseline": 200.0,
+    "burst": "200 Gigabit",
+    "max_egress": 100,
+    "ratio": 8.18319891065256,
+    "price_monthly": 8920.7168
+  },
   "c7g.4xlarge": {
     "price": 0.6080000000,
     "vcpus": 16,
@@ -3841,6 +5983,33 @@
     "max_egress": 5.0,
     "ratio": 8.223684210526317,
     "price_monthly": 443.84
+  },
+  "m9g.2xlarge": {
+    "price": 0.5163600000,
+    "vcpus": 8,
+    "baseline": 4.25,
+    "burst": "Up to 17 Gigabit",
+    "max_egress": 4.25,
+    "ratio": 8.230691765434967,
+    "price_monthly": 376.94280000000003
+  },
+  "c8in.32xlarge": {
+    "price": 12.1011200000,
+    "vcpus": 128,
+    "baseline": 200.0,
+    "burst": "200 Gigabit",
+    "max_egress": 100,
+    "ratio": 8.263697905648403,
+    "price_monthly": 8833.8176
+  },
+  "m8idn.xlarge": {
+    "price": 0.6040700000,
+    "vcpus": 4,
+    "baseline": 6.25,
+    "burst": "Up to 30 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 8.277186418792525,
+    "price_monthly": 440.9711
   },
   "m7gd.large": {
     "price": 0.1132000000,
@@ -3851,14 +6020,14 @@
     "ratio": 8.277385159010601,
     "price_monthly": 82.636
   },
-  "im4gn.16xlarge": {
-    "price": 5.9856700000,
-    "vcpus": 64,
-    "baseline": 100.0,
-    "burst": "100 Gigabit",
-    "max_egress": 50,
-    "ratio": 8.35328375937865,
-    "price_monthly": 4369.5391
+  "m8azn.24xlarge": {
+    "price": 11.9378900000,
+    "vcpus": 96,
+    "baseline": 200.0,
+    "burst": "200 Gigabit",
+    "max_egress": 100,
+    "ratio": 8.376689683017686,
+    "price_monthly": 8714.6597
   },
   "r7g.xlarge": {
     "price": 0.2212000000,
@@ -3868,6 +6037,15 @@
     "max_egress": 1.876,
     "ratio": 8.481012658227847,
     "price_monthly": 161.476
+  },
+  "c9g.xlarge": {
+    "price": 0.2475700000,
+    "vcpus": 4,
+    "baseline": 2.1,
+    "burst": "Up to 15 Gigabit",
+    "max_egress": 2.1,
+    "ratio": 8.482449408248172,
+    "price_monthly": 180.7261
   },
   "r5n.xlarge": {
     "price": 0.4820000000,
@@ -3896,23 +6074,14 @@
     "ratio": 8.680555555555555,
     "price_monthly": 42.048
   },
-  "m6a.large": {
-    "price": 0.0899000000,
-    "vcpus": 2,
-    "baseline": 0.781,
-    "burst": "Up to 12.5 Gigabit",
-    "max_egress": 0.781,
-    "ratio": 8.687430478309233,
-    "price_monthly": 65.627
-  },
-  "a1.metal": {
-    "price": 0.5730000000,
-    "vcpus": 16,
-    "baseline": 5.0,
-    "burst": "Up to 10 Gigabit",
-    "max_egress": 5.0,
-    "ratio": 8.726003490401396,
-    "price_monthly": 418.28999999999996
+  "m9g.medium": {
+    "price": 0.0633200000,
+    "vcpus": 1,
+    "baseline": 0.55,
+    "burst": "Up to 15 Gigabit",
+    "max_egress": 0.55,
+    "ratio": 8.68603916614024,
+    "price_monthly": 46.2236
   },
   "g4dn.xlarge": {
     "price": 0.5650000000,
@@ -3923,6 +6092,15 @@
     "ratio": 8.849557522123895,
     "price_monthly": 412.45
   },
+  "m8i.2xlarge": {
+    "price": 0.4233600000,
+    "vcpus": 8,
+    "baseline": 3.75,
+    "burst": "Up to 15 Gigabit",
+    "max_egress": 3.75,
+    "ratio": 8.857709750566894,
+    "price_monthly": 309.0528
+  },
   "c7g.xlarge": {
     "price": 0.2104000000,
     "vcpus": 4,
@@ -3932,14 +6110,41 @@
     "ratio": 8.916349809885931,
     "price_monthly": 153.592
   },
-  "m6in.24xlarge": {
-    "price": 8.3054400000,
-    "vcpus": 96,
-    "baseline": 150.0,
-    "burst": "150 Gigabit",
-    "max_egress": 75,
-    "ratio": 9.030225972374732,
-    "price_monthly": 6062.971200000001
+  "r8gb.8xlarge": {
+    "price": 3.7084800000,
+    "vcpus": 32,
+    "baseline": 66.666,
+    "burst": "66.66 Gigabit",
+    "max_egress": 33.333,
+    "ratio": 8.988318664250581,
+    "price_monthly": 2707.1904
+  },
+  "m6a.large": {
+    "price": 0.0864000000,
+    "vcpus": 2,
+    "baseline": 0.781,
+    "burst": "Up to 12.5 Gigabit",
+    "max_egress": 0.781,
+    "ratio": 9.039351851851851,
+    "price_monthly": 63.072
+  },
+  "c9gd.medium": {
+    "price": 0.0604900000,
+    "vcpus": 1,
+    "baseline": 0.55,
+    "burst": "Up to 15 Gigabit",
+    "max_egress": 0.55,
+    "ratio": 9.092411968920484,
+    "price_monthly": 44.1577
+  },
+  "c8in.8xlarge": {
+    "price": 2.7406100000,
+    "vcpus": 32,
+    "baseline": 50.0,
+    "burst": "50 Gigabit",
+    "max_egress": 25,
+    "ratio": 9.12205676838368,
+    "price_monthly": 2000.6453000000001
   },
   "c6g.xlarge": {
     "price": 0.1360000000,
@@ -3958,6 +6163,15 @@
     "max_egress": 0.75,
     "ratio": 9.191176470588236,
     "price_monthly": 59.568000000000005
+  },
+  "c8gd.large": {
+    "price": 0.1014800000,
+    "vcpus": 2,
+    "baseline": 0.937,
+    "burst": "Up to 12.5 Gigabit",
+    "max_egress": 0.937,
+    "ratio": 9.233346472211274,
+    "price_monthly": 74.0804
   },
   "c5a.large": {
     "price": 0.0810000000,
@@ -3986,6 +6200,24 @@
     "ratio": 9.44822373393802,
     "price_monthly": 386.31600000000003
   },
+  "c6gd.medium": {
+    "price": 0.0528000000,
+    "vcpus": 1,
+    "baseline": 0.5,
+    "burst": "Up to 10 Gigabit",
+    "max_egress": 0.5,
+    "ratio": 9.46969696969697,
+    "price_monthly": 38.544
+  },
+  "c9gd.xlarge": {
+    "price": 0.2206000000,
+    "vcpus": 4,
+    "baseline": 2.1,
+    "burst": "Up to 15 Gigabit",
+    "max_egress": 2.1,
+    "ratio": 9.519492293744335,
+    "price_monthly": 161.03799999999998
+  },
   "m6idn.32xlarge": {
     "price": 10.4076800000,
     "vcpus": 128,
@@ -3995,14 +6227,23 @@
     "ratio": 9.608289263313246,
     "price_monthly": 7597.6064
   },
-  "m6in.16xlarge": {
-    "price": 5.0659000000,
-    "vcpus": 64,
-    "baseline": 100.0,
-    "burst": "100 Gigabit",
-    "max_egress": 50,
-    "ratio": 9.8699145265402,
-    "price_monthly": 3698.107
+  "m9g.xlarge": {
+    "price": 0.2152500000,
+    "vcpus": 4,
+    "baseline": 2.1,
+    "burst": "Up to 15 Gigabit",
+    "max_egress": 2.1,
+    "ratio": 9.75609756097561,
+    "price_monthly": 157.1325
+  },
+  "m8g.2xlarge": {
+    "price": 0.3730400000,
+    "vcpus": 8,
+    "baseline": 3.75,
+    "burst": "Up to 15 Gigabit",
+    "max_egress": 3.75,
+    "ratio": 10.0525412824362,
+    "price_monthly": 272.31919999999997
   },
   "r5n.large": {
     "price": 0.2050000000,
@@ -4013,6 +6254,60 @@
     "ratio": 10.24390243902439,
     "price_monthly": 149.64999999999998
   },
+  "c8g.xlarge": {
+    "price": 0.1824700000,
+    "vcpus": 4,
+    "baseline": 1.875,
+    "burst": "Up to 12.5 Gigabit",
+    "max_egress": 1.875,
+    "ratio": 10.27566175261687,
+    "price_monthly": 133.2031
+  },
+  "c6g.medium": {
+    "price": 0.0484000000,
+    "vcpus": 1,
+    "baseline": 0.5,
+    "burst": "Up to 10 Gigabit",
+    "max_egress": 0.5,
+    "ratio": 10.330578512396695,
+    "price_monthly": 35.332
+  },
+  "c8in.48xlarge": {
+    "price": 14.3700500000,
+    "vcpus": 192,
+    "baseline": 300.0,
+    "burst": "300 Gigabit",
+    "max_egress": 150,
+    "ratio": 10.438377041137644,
+    "price_monthly": 10490.1365
+  },
+  "m8g.large": {
+    "price": 0.0897600000,
+    "vcpus": 2,
+    "baseline": 0.937,
+    "burst": "Up to 12.5 Gigabit",
+    "max_egress": 0.937,
+    "ratio": 10.438948306595366,
+    "price_monthly": 65.5248
+  },
+  "m8gn.48xlarge": {
+    "price": 14.3040000000,
+    "vcpus": 192,
+    "baseline": 300.0,
+    "burst": "600 Gigabit",
+    "max_egress": 150,
+    "ratio": 10.486577181208053,
+    "price_monthly": 10441.92
+  },
+  "c8g.2xlarge": {
+    "price": 0.3509400000,
+    "vcpus": 8,
+    "baseline": 3.75,
+    "burst": "Up to 15 Gigabit",
+    "max_egress": 3.75,
+    "ratio": 10.685587279876902,
+    "price_monthly": 256.1862
+  },
   "c6in.2xlarge": {
     "price": 0.4676000000,
     "vcpus": 8,
@@ -4022,14 +6317,23 @@
     "ratio": 10.6928999144568,
     "price_monthly": 341.348
   },
-  "m5dn.large": {
-    "price": 0.1960000000,
-    "vcpus": 2,
-    "baseline": 2.1,
-    "burst": "Up to 25 Gigabit",
-    "max_egress": 2.1,
-    "ratio": 10.714285714285714,
-    "price_monthly": 143.08
+  "r8gb.16xlarge": {
+    "price": 6.1795500000,
+    "vcpus": 64,
+    "baseline": 133.333,
+    "burst": "133.33 Gigabit",
+    "max_egress": 66.6665,
+    "ratio": 10.788245098753146,
+    "price_monthly": 4511.0715
+  },
+  "r8gb.24xlarge": {
+    "price": 9.2693200000,
+    "vcpus": 96,
+    "baseline": 200.0,
+    "burst": "200 Gigabit",
+    "max_egress": 100,
+    "ratio": 10.78827788877717,
+    "price_monthly": 6766.6036
   },
   "m7g.large": {
     "price": 0.0867000000,
@@ -4058,6 +6362,15 @@
     "ratio": 10.845045982994968,
     "price_monthly": 210.3495
   },
+  "g7e.24xlarge": {
+    "price": 18.3543800000,
+    "vcpus": 96,
+    "baseline": 400.0,
+    "burst": "800 Gigabit",
+    "max_egress": 200,
+    "ratio": 10.896581633375794,
+    "price_monthly": 13398.6974
+  },
   "r6idn.large": {
     "price": 0.2825300000,
     "vcpus": 2,
@@ -4066,6 +6379,15 @@
     "max_egress": 3.125,
     "ratio": 11.060772307365589,
     "price_monthly": 206.2469
+  },
+  "m8ib.large": {
+    "price": 0.1837900000,
+    "vcpus": 2,
+    "baseline": 2.083,
+    "burst": "Up to 16.66 Gigabit",
+    "max_egress": 2.083,
+    "ratio": 11.333587246313728,
+    "price_monthly": 134.16670000000002
   },
   "c7gd.medium": {
     "price": 0.0454000000,
@@ -4103,6 +6425,15 @@
     "ratio": 11.770244821092279,
     "price_monthly": 1550.52
   },
+  "c8gb.12xlarge": {
+    "price": 4.2050400000,
+    "vcpus": 48,
+    "baseline": 100.0,
+    "burst": "100 Gigabit",
+    "max_egress": 50,
+    "ratio": 11.89049331278656,
+    "price_monthly": 3069.6792
+  },
   "m7g.medium": {
     "price": 0.0434000000,
     "vcpus": 1,
@@ -4111,6 +6442,33 @@
     "max_egress": 0.52,
     "ratio": 11.981566820276498,
     "price_monthly": 31.682000000000002
+  },
+  "g7.8xlarge": {
+    "price": 4.1422400000,
+    "vcpus": 32,
+    "baseline": 100.0,
+    "burst": "100 Gigabit",
+    "max_egress": 50,
+    "ratio": 12.070763644791224,
+    "price_monthly": 3023.8352
+  },
+  "a1.medium": {
+    "price": 0.0414000000,
+    "vcpus": 1,
+    "baseline": 0.5,
+    "burst": "Up to 10 Gigabit",
+    "max_egress": 0.5,
+    "ratio": 12.077294685990339,
+    "price_monthly": 30.221999999999998
+  },
+  "g7.24xlarge": {
+    "price": 14.3816400000,
+    "vcpus": 96,
+    "baseline": 350.0,
+    "burst": "350 Gigabit",
+    "max_egress": 175,
+    "ratio": 12.168292350524696,
+    "price_monthly": 10498.5972
   },
   "c6in.12xlarge": {
     "price": 3.0777600000,
@@ -4121,15 +6479,6 @@
     "ratio": 12.184185901434809,
     "price_monthly": 2246.7648
   },
-  "m5dn.xlarge": {
-    "price": 0.3320000000,
-    "vcpus": 4,
-    "baseline": 4.1,
-    "burst": "Up to 25 Gigabit",
-    "max_egress": 4.1,
-    "ratio": 12.349397590361445,
-    "price_monthly": 242.36
-  },
   "m5zn.12xlarge": {
     "price": 4.0481000000,
     "vcpus": 48,
@@ -4138,6 +6487,87 @@
     "max_egress": 50,
     "ratio": 12.351473530792225,
     "price_monthly": 2955.113
+  },
+  "m5dn.xlarge": {
+    "price": 0.3300000000,
+    "vcpus": 4,
+    "baseline": 4.1,
+    "burst": "Up to 25 Gigabit",
+    "max_egress": 4.1,
+    "ratio": 12.424242424242422,
+    "price_monthly": 240.9
+  },
+  "m8ib.xlarge": {
+    "price": 0.3341600000,
+    "vcpus": 4,
+    "baseline": 4.166,
+    "burst": "Up to 20 Gigabit",
+    "max_egress": 4.166,
+    "ratio": 12.467081637538904,
+    "price_monthly": 243.9368
+  },
+  "m5dn.large": {
+    "price": 0.1650000000,
+    "vcpus": 2,
+    "baseline": 2.1,
+    "burst": "Up to 25 Gigabit",
+    "max_egress": 2.1,
+    "ratio": 12.727272727272727,
+    "price_monthly": 120.45
+  },
+  "c8gn.48xlarge": {
+    "price": 11.7120000000,
+    "vcpus": 192,
+    "baseline": 300.0,
+    "burst": "600 Gigabit",
+    "max_egress": 150,
+    "ratio": 12.807377049180328,
+    "price_monthly": 8549.76
+  },
+  "r8gn.24xlarge": {
+    "price": 11.6501000000,
+    "vcpus": 96,
+    "baseline": 300.0,
+    "burst": "300 Gigabit",
+    "max_egress": 150,
+    "ratio": 12.87542596200891,
+    "price_monthly": 8504.573
+  },
+  "m8ine.large": {
+    "price": 0.2376500000,
+    "vcpus": 2,
+    "baseline": 3.125,
+    "burst": "3.125 Gigabit",
+    "max_egress": 3.125,
+    "ratio": 13.149589732800337,
+    "price_monthly": 173.4845
+  },
+  "m8gb.24xlarge": {
+    "price": 7.5710400000,
+    "vcpus": 96,
+    "baseline": 200.0,
+    "burst": "200 Gigabit",
+    "max_egress": 100,
+    "ratio": 13.20822502588812,
+    "price_monthly": 5526.8592
+  },
+  "c8in.xlarge": {
+    "price": 0.3669800000,
+    "vcpus": 4,
+    "baseline": 6.25,
+    "burst": "Up to 30 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 13.62472069322579,
+    "price_monthly": 267.8954
+  },
+  "c6in.24xlarge": {
+    "price": 5.4432000000,
+    "vcpus": 96,
+    "baseline": 150.0,
+    "burst": "150 Gigabit",
+    "max_egress": 75,
+    "ratio": 13.778659611992945,
+    "price_monthly": 3973.536
   },
   "c6in.32xlarge": {
     "price": 7.2576000000,
@@ -4157,14 +6587,32 @@
     "ratio": 13.863216266173751,
     "price_monthly": 39.493
   },
+  "m8gb.12xlarge": {
+    "price": 3.5760000000,
+    "vcpus": 48,
+    "baseline": 100.0,
+    "burst": "100 Gigabit",
+    "max_egress": 50,
+    "ratio": 13.982102908277405,
+    "price_monthly": 2610.48
+  },
   "c6in.large": {
-    "price": 0.2187400000,
+    "price": 0.2211400000,
     "vcpus": 2,
     "baseline": 3.125,
     "burst": "Up to 25 Gigabit",
     "max_egress": 3.125,
-    "ratio": 14.286367376794368,
-    "price_monthly": 159.68019999999999
+    "ratio": 14.131319526092069,
+    "price_monthly": 161.4322
+  },
+  "m8gn.xlarge": {
+    "price": 0.3486000000,
+    "vcpus": 4,
+    "baseline": 12.5,
+    "burst": "Up to 40 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 14.343086632243258,
+    "price_monthly": 254.478
   },
   "c6gn.2xlarge": {
     "price": 0.3456000000,
@@ -4184,14 +6632,41 @@
     "ratio": 15.830115830115828,
     "price_monthly": 189.07
   },
-  "c6gn.large": {
-    "price": 0.1814000000,
+  "m8gb.xlarge": {
+    "price": 0.3154600000,
+    "vcpus": 4,
+    "baseline": 8.333,
+    "burst": "Up to 26.66 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 15.849870031065745,
+    "price_monthly": 230.28580000000002
+  },
+  "c8gb.16xlarge": {
+    "price": 4.1445200000,
+    "vcpus": 64,
+    "baseline": 133.333,
+    "burst": "133.33 Gigabit",
+    "max_egress": 66.6665,
+    "ratio": 16.085457423296305,
+    "price_monthly": 3025.4996
+  },
+  "r8gb.large": {
+    "price": 0.2494100000,
     "vcpus": 2,
-    "baseline": 3.0,
-    "burst": "Up to 25 Gigabit",
-    "max_egress": 3.0,
-    "ratio": 16.5380374862183,
-    "price_monthly": 132.422
+    "baseline": 4.166,
+    "burst": "Up to 20 Gigabit",
+    "max_egress": 4.166,
+    "ratio": 16.70342007136843,
+    "price_monthly": 182.0693
+  },
+  "r8gn.8xlarge": {
+    "price": 2.9709000000,
+    "vcpus": 32,
+    "baseline": 100.0,
+    "burst": "100 Gigabit",
+    "max_egress": 50,
+    "ratio": 16.829916860210712,
+    "price_monthly": 2168.757
   },
   "c5n.xlarge": {
     "price": 0.2970000000,
@@ -4201,6 +6676,24 @@
     "max_egress": 5.0,
     "ratio": 16.835016835016837,
     "price_monthly": 216.81
+  },
+  "r8idn.24xlarge": {
+    "price": 4.4160000000,
+    "vcpus": 96,
+    "baseline": 150.0,
+    "burst": "150 Gigabit",
+    "max_egress": 75,
+    "ratio": 16.98369565217391,
+    "price_monthly": 3223.6800000000003
+  },
+  "r8idn.32xlarge": {
+    "price": 5.8880000000,
+    "vcpus": 128,
+    "baseline": 200.0,
+    "burst": "200 Gigabit",
+    "max_egress": 100,
+    "ratio": 16.983695652173914,
+    "price_monthly": 4298.24
   },
   "r6in.8xlarge": {
     "price": 1.4720000000,
@@ -4220,6 +6713,150 @@
     "ratio": 17.38042269187987,
     "price_monthly": 2100.064
   },
+  "c8ine.large": {
+    "price": 0.1736000000,
+    "vcpus": 2,
+    "baseline": 3.125,
+    "burst": "3.125 Gigabit",
+    "max_egress": 3.125,
+    "ratio": 18.00115207373272,
+    "price_monthly": 126.72800000000001
+  },
+  "m8azn.medium": {
+    "price": 0.1153000000,
+    "vcpus": 1,
+    "baseline": 2.08,
+    "burst": "Up to 25 Gigabit",
+    "max_egress": 2.08,
+    "ratio": 18.039895923677363,
+    "price_monthly": 84.169
+  },
+  "m8gn.8xlarge": {
+    "price": 2.6736000000,
+    "vcpus": 32,
+    "baseline": 100.0,
+    "burst": "100 Gigabit",
+    "max_egress": 50,
+    "ratio": 18.70137642130461,
+    "price_monthly": 1951.728
+  },
+  "m8gn.24xlarge": {
+    "price": 8.0208000000,
+    "vcpus": 96,
+    "baseline": 300.0,
+    "burst": "300 Gigabit",
+    "max_egress": 150,
+    "ratio": 18.70137642130461,
+    "price_monthly": 5855.183999999999
+  },
+  "g7e.12xlarge": {
+    "price": 10.4442900000,
+    "vcpus": 48,
+    "baseline": 400.0,
+    "burst": "400 Gigabit",
+    "max_egress": 200,
+    "ratio": 19.149219334200794,
+    "price_monthly": 7624.331700000001
+  },
+  "c8gn.xlarge": {
+    "price": 0.2582000000,
+    "vcpus": 4,
+    "baseline": 12.5,
+    "burst": "Up to 40 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 19.364833462432223,
+    "price_monthly": 188.486
+  },
+  "c6gn.large": {
+    "price": 0.1502000000,
+    "vcpus": 2,
+    "baseline": 3.0,
+    "burst": "Up to 25 Gigabit",
+    "max_egress": 3.0,
+    "ratio": 19.97336884154461,
+    "price_monthly": 109.646
+  },
+  "m8gn.16xlarge": {
+    "price": 4.9354000000,
+    "vcpus": 64,
+    "baseline": 200.0,
+    "burst": "200 Gigabit",
+    "max_egress": 100,
+    "ratio": 20.261782226364634,
+    "price_monthly": 3602.8419999999996
+  },
+  "r8gn.large": {
+    "price": 0.2460000000,
+    "vcpus": 2,
+    "baseline": 6.25,
+    "burst": "Up to 30 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 20.32520325203252,
+    "price_monthly": 179.57999999999998
+  },
+  "c8in.large": {
+    "price": 0.1496900000,
+    "vcpus": 2,
+    "baseline": 3.125,
+    "burst": "Up to 25 Gigabit",
+    "max_egress": 3.125,
+    "ratio": 20.87647805464627,
+    "price_monthly": 109.27369999999999
+  },
+  "r8gn.medium": {
+    "price": 0.1474000000,
+    "vcpus": 1,
+    "baseline": 3.125,
+    "burst": "Up to 25 Gigabit",
+    "max_egress": 3.125,
+    "ratio": 21.200814111261874,
+    "price_monthly": 107.602
+  },
+  "inf1.xlarge": {
+    "price": 0.2350000000,
+    "vcpus": 4,
+    "baseline": 5.0,
+    "burst": "Up to 25 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 21.27659574468085,
+    "price_monthly": 171.54999999999998
+  },
+  "g6e.48xlarge": {
+    "price": 8.8320000000,
+    "vcpus": 192,
+    "baseline": 400.0,
+    "burst": "400 Gigabit",
+    "max_egress": 200,
+    "ratio": 22.644927536231883,
+    "price_monthly": 6447.360000000001
+  },
+  "m8gb.medium": {
+    "price": 0.0915200000,
+    "vcpus": 1,
+    "baseline": 2.083,
+    "burst": "Up to 16.66 Gigabit",
+    "max_egress": 2.083,
+    "ratio": 22.76005244755245,
+    "price_monthly": 66.8096
+  },
+  "m8gn.large": {
+    "price": 0.2180000000,
+    "vcpus": 2,
+    "baseline": 6.25,
+    "burst": "Up to 30 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 22.93577981651376,
+    "price_monthly": 159.14
+  },
+  "c8gn.16xlarge": {
+    "price": 4.1315000000,
+    "vcpus": 64,
+    "baseline": 200.0,
+    "burst": "200 Gigabit",
+    "max_egress": 100,
+    "ratio": 24.20428415829602,
+    "price_monthly": 3015.995
+  },
   "c7gn.8xlarge": {
     "price": 1.9968000000,
     "vcpus": 32,
@@ -4238,6 +6875,15 @@
     "ratio": 25.370407956159934,
     "price_monthly": 143.8684
   },
+  "c8gn.24xlarge": {
+    "price": 5.8560000000,
+    "vcpus": 96,
+    "baseline": 300.0,
+    "burst": "300 Gigabit",
+    "max_egress": 150,
+    "ratio": 25.614754098360656,
+    "price_monthly": 4274.88
+  },
   "c7gn.large": {
     "price": 0.1811000000,
     "vcpus": 2,
@@ -4246,6 +6892,24 @@
     "max_egress": 5.0,
     "ratio": 27.609055770292656,
     "price_monthly": 132.203
+  },
+  "m8gn.medium": {
+    "price": 0.1047000000,
+    "vcpus": 1,
+    "baseline": 3.125,
+    "burst": "Up to 25 Gigabit",
+    "max_egress": 3.125,
+    "ratio": 29.847182425978986,
+    "price_monthly": 76.431
+  },
+  "hpc7g.16xlarge": {
+    "price": 3.2704000000,
+    "vcpus": 64,
+    "baseline": 200.0,
+    "burst": "200 Gigabit",
+    "max_egress": 100,
+    "ratio": 30.577299412915853,
+    "price_monthly": 2387.392
   },
   "c6gn.medium": {
     "price": 0.0449500000,
@@ -4256,6 +6920,15 @@
     "ratio": 35.59510567296997,
     "price_monthly": 32.8135
   },
+  "c8gn.large": {
+    "price": 0.1256000000,
+    "vcpus": 2,
+    "baseline": 6.25,
+    "burst": "Up to 30 Gigabit",
+    "max_egress": 5.0,
+    "ratio": 39.80891719745223,
+    "price_monthly": 91.68799999999999
+  },
   "c7gn.medium": {
     "price": 0.0661000000,
     "vcpus": 1,
@@ -4264,5 +6937,14 @@
     "max_egress": 3.125,
     "ratio": 47.2768532526475,
     "price_monthly": 48.25300000000001
+  },
+  "hpc7g.8xlarge": {
+    "price": 2.0288000000,
+    "vcpus": 32,
+    "baseline": 200.0,
+    "burst": "200 Gigabit",
+    "max_egress": 100,
+    "ratio": 49.290220820189276,
+    "price_monthly": 1481.024
   }
 }
