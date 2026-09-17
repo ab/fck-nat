@@ -1,0 +1,3746 @@
+{
+  "a1.2xlarge": {
+    "price": 0.3314000000
+  },
+  "a1.4xlarge": {
+    "price": 0E-10
+  },
+  "a1.large": {
+    "price": 0.0541000000
+  },
+  "a1.medium": {
+    "price": 0.0414000000
+  },
+  "a1.xlarge": {
+    "price": 0.1596000000
+  },
+  "c1.medium": {
+    "price": 0.2310000000
+  },
+  "c1.xlarge": {
+    "price": 1.1600000000
+  },
+  "c3.2xlarge": {
+    "price": 0E-10
+  },
+  "c3.4xlarge": {
+    "price": 7.0130000000
+  },
+  "c3.8xlarge": {
+    "price": 1.6800000000
+  },
+  "c3.large": {
+    "price": 0.1730000000
+  },
+  "c3.xlarge": {
+    "price": 0E-10
+  },
+  "c4.2xlarge": {
+    "price": 1.6550000000
+  },
+  "c4.4xlarge": {
+    "price": 7.6120000000
+  },
+  "c4.8xlarge": {
+    "price": 0E-10
+  },
+  "c4.large": {
+    "price": 0E-10
+  },
+  "c4.xlarge": {
+    "price": 0E-10
+  },
+  "c5.12xlarge": {
+    "price": 0E-10
+  },
+  "c5.18xlarge": {
+    "price": 11.7000000000
+  },
+  "c5.24xlarge": {
+    "price": 4.3250000000
+  },
+  "c5.2xlarge": {
+    "price": 0.5950000000
+  },
+  "c5.4xlarge": {
+    "price": 0E-10
+  },
+  "c5.9xlarge": {
+    "price": 0E-10
+  },
+  "c5.large": {
+    "price": 0.6340000000
+  },
+  "c5.xlarge": {
+    "price": 0.1700000000
+  },
+  "c5a.12xlarge": {
+    "price": 8.9830000000
+  },
+  "c5a.16xlarge": {
+    "price": 26.4640000000
+  },
+  "c5a.24xlarge": {
+    "price": 0E-10
+  },
+  "c5a.2xlarge": {
+    "price": 0.3220000000
+  },
+  "c5a.4xlarge": {
+    "price": 0E-10
+  },
+  "c5a.8xlarge": {
+    "price": 6.6670000000
+  },
+  "c5a.large": {
+    "price": 0.0810000000
+  },
+  "c5a.xlarge": {
+    "price": 0.2370000000
+  },
+  "c5ad.12xlarge": {
+    "price": 22.2720000000
+  },
+  "c5ad.16xlarge": {
+    "price": 3.1520000000
+  },
+  "c5ad.24xlarge": {
+    "price": 0E-10
+  },
+  "c5ad.2xlarge": {
+    "price": 0.3440000000
+  },
+  "c5ad.4xlarge": {
+    "price": 0E-10
+  },
+  "c5ad.8xlarge": {
+    "price": 0E-10
+  },
+  "c5ad.large": {
+    "price": 0.5660000000
+  },
+  "c5ad.xlarge": {
+    "price": 0E-10
+  },
+  "c5d.12xlarge": {
+    "price": 3.2540000000
+  },
+  "c5d.18xlarge": {
+    "price": 0E-10
+  },
+  "c5d.24xlarge": {
+    "price": 40.6080000000
+  },
+  "c5d.2xlarge": {
+    "price": 0E-10
+  },
+  "c5d.4xlarge": {
+    "price": 7.2110000000
+  },
+  "c5d.9xlarge": {
+    "price": 2.7250000000
+  },
+  "c5d.large": {
+    "price": 0.1600000000
+  },
+  "c5d.xlarge": {
+    "price": 0.8000000000
+  },
+  "c5n.18xlarge": {
+    "price": 13.3060000000
+  },
+  "c5n.2xlarge": {
+    "price": 0E-10
+  },
+  "c5n.4xlarge": {
+    "price": 0.8640000000
+  },
+  "c5n.9xlarge": {
+    "price": 2.1240000000
+  },
+  "c5n.large": {
+    "price": 0.5880000000
+  },
+  "c5n.xlarge": {
+    "price": 0.2970000000
+  },
+  "c6a.12xlarge": {
+    "price": 0E-10
+  },
+  "c6a.16xlarge": {
+    "price": 2.4480000000
+  },
+  "c6a.24xlarge": {
+    "price": 19.6080000000
+  },
+  "c6a.2xlarge": {
+    "price": 0E-10
+  },
+  "c6a.32xlarge": {
+    "price": 0E-10
+  },
+  "c6a.48xlarge": {
+    "price": 9.1872000000
+  },
+  "c6a.4xlarge": {
+    "price": 3.3292000000
+  },
+  "c6a.8xlarge": {
+    "price": 0E-10
+  },
+  "c6a.large": {
+    "price": 0E-10
+  },
+  "c6a.xlarge": {
+    "price": 0E-10
+  },
+  "c6g.12xlarge": {
+    "price": 1.7160000000
+  },
+  "c6g.16xlarge": {
+    "price": 2.3010000000
+  },
+  "c6g.2xlarge": {
+    "price": 0E-10
+  },
+  "c6g.4xlarge": {
+    "price": 0E-10
+  },
+  "c6g.8xlarge": {
+    "price": 1.0880000000
+  },
+  "c6g.large": {
+    "price": 0E-10
+  },
+  "c6g.medium": {
+    "price": 0.0484000000
+  },
+  "c6g.xlarge": {
+    "price": 0.1360000000
+  },
+  "c6gd.12xlarge": {
+    "price": 2.3616000000
+  },
+  "c6gd.16xlarge": {
+    "price": 2.5696000000
+  },
+  "c6gd.2xlarge": {
+    "price": 0E-10
+  },
+  "c6gd.4xlarge": {
+    "price": 1.0481000000
+  },
+  "c6gd.8xlarge": {
+    "price": 2.0961000000
+  },
+  "c6gd.large": {
+    "price": 0.1406000000
+  },
+  "c6gd.medium": {
+    "price": 0.0528000000
+  },
+  "c6gd.xlarge": {
+    "price": 0.2191000000
+  },
+  "c6gn.12xlarge": {
+    "price": 0E-10
+  },
+  "c6gn.16xlarge": {
+    "price": 2.8768000000
+  },
+  "c6gn.2xlarge": {
+    "price": 0.3456000000
+  },
+  "c6gn.4xlarge": {
+    "price": 1.0880000000
+  },
+  "c6gn.8xlarge": {
+    "price": 0E-10
+  },
+  "c6gn.large": {
+    "price": 0.1502000000
+  },
+  "c6gn.medium": {
+    "price": 0.0449500000
+  },
+  "c6gn.xlarge": {
+    "price": 0.1970800000
+  },
+  "c6i.12xlarge": {
+    "price": 5.0592000000
+  },
+  "c6i.16xlarge": {
+    "price": 11.9872000000
+  },
+  "c6i.24xlarge": {
+    "price": 42.8688000000
+  },
+  "c6i.2xlarge": {
+    "price": 3.3740000000
+  },
+  "c6i.32xlarge": {
+    "price": 0E-10
+  },
+  "c6i.4xlarge": {
+    "price": 0.7480000000
+  },
+  "c6i.8xlarge": {
+    "price": 0E-10
+  },
+  "c6i.large": {
+    "price": 0E-10
+  },
+  "c6i.xlarge": {
+    "price": 0.8340000000
+  },
+  "c6id.12xlarge": {
+    "price": 0E-10
+  },
+  "c6id.16xlarge": {
+    "price": 0E-10
+  },
+  "c6id.24xlarge": {
+    "price": 0E-10
+  },
+  "c6id.2xlarge": {
+    "price": 0.4032000000
+  },
+  "c6id.32xlarge": {
+    "price": 27.6992000000
+  },
+  "c6id.4xlarge": {
+    "price": 3.5430400000
+  },
+  "c6id.8xlarge": {
+    "price": 0E-10
+  },
+  "c6id.large": {
+    "price": 0E-10
+  },
+  "c6id.xlarge": {
+    "price": 1.7592000000
+  },
+  "c6in.12xlarge": {
+    "price": 3.0777600000
+  },
+  "c6in.16xlarge": {
+    "price": 0E-10
+  },
+  "c6in.24xlarge": {
+    "price": 5.4432000000
+  },
+  "c6in.2xlarge": {
+    "price": 0.4676000000
+  },
+  "c6in.32xlarge": {
+    "price": 7.2576000000
+  },
+  "c6in.4xlarge": {
+    "price": 0E-10
+  },
+  "c6in.8xlarge": {
+    "price": 0E-10
+  },
+  "c6in.large": {
+    "price": 0.2211400000
+  },
+  "c6in.xlarge": {
+    "price": 0E-10
+  },
+  "c7a.12xlarge": {
+    "price": 2.4633600000
+  },
+  "c7a.16xlarge": {
+    "price": 0E-10
+  },
+  "c7a.24xlarge": {
+    "price": 17.9761900000
+  },
+  "c7a.2xlarge": {
+    "price": 0E-10
+  },
+  "c7a.32xlarge": {
+    "price": 9.7986600000
+  },
+  "c7a.48xlarge": {
+    "price": 10.1894400000
+  },
+  "c7a.4xlarge": {
+    "price": 7.0760300000
+  },
+  "c7a.8xlarge": {
+    "price": 14.4358400000
+  },
+  "c7a.large": {
+    "price": 0E-10
+  },
+  "c7a.medium": {
+    "price": 0.5313200000
+  },
+  "c7a.xlarge": {
+    "price": 0E-10
+  },
+  "c7g.12xlarge": {
+    "price": 2.2584000000
+  },
+  "c7g.16xlarge": {
+    "price": 2.4320000000
+  },
+  "c7g.2xlarge": {
+    "price": 0E-10
+  },
+  "c7g.4xlarge": {
+    "price": 0.6080000000
+  },
+  "c7g.8xlarge": {
+    "price": 0E-10
+  },
+  "c7g.large": {
+    "price": 0.1363000000
+  },
+  "c7g.medium": {
+    "price": 0E-10
+  },
+  "c7g.xlarge": {
+    "price": 0.2104000000
+  },
+  "c7gd.12xlarge": {
+    "price": 0E-10
+  },
+  "c7gd.16xlarge": {
+    "price": 3.5942000000
+  },
+  "c7gd.2xlarge": {
+    "price": 0E-10
+  },
+  "c7gd.4xlarge": {
+    "price": 0.7693000000
+  },
+  "c7gd.8xlarge": {
+    "price": 2.3322000000
+  },
+  "c7gd.large": {
+    "price": 0.0997000000
+  },
+  "c7gd.medium": {
+    "price": 0.0454000000
+  },
+  "c7gd.xlarge": {
+    "price": 0.2486000000
+  },
+  "c7gn.12xlarge": {
+    "price": 0E-10
+  },
+  "c7gn.16xlarge": {
+    "price": 0E-10
+  },
+  "c7gn.2xlarge": {
+    "price": 0.5292000000
+  },
+  "c7gn.4xlarge": {
+    "price": 1.3952000000
+  },
+  "c7gn.8xlarge": {
+    "price": 1.9968000000
+  },
+  "c7gn.large": {
+    "price": 0.1811000000
+  },
+  "c7gn.medium": {
+    "price": 0.0661000000
+  },
+  "c7gn.xlarge": {
+    "price": 0E-10
+  },
+  "c7i-flex.12xlarge": {
+    "price": 8.9853000000
+  },
+  "c7i-flex.16xlarge": {
+    "price": 3.7948000000
+  },
+  "c7i-flex.2xlarge": {
+    "price": 3.5943500000
+  },
+  "c7i-flex.4xlarge": {
+    "price": 0E-10
+  },
+  "c7i-flex.8xlarge": {
+    "price": 13.3566000000
+  },
+  "c7i-flex.large": {
+    "price": 0.5647900000
+  },
+  "c7i-flex.xlarge": {
+    "price": 0.2947800000
+  },
+  "c7i.12xlarge": {
+    "price": 2.1420000000
+  },
+  "c7i.16xlarge": {
+    "price": 0E-10
+  },
+  "c7i.24xlarge": {
+    "price": 0E-10
+  },
+  "c7i.2xlarge": {
+    "price": 0E-10
+  },
+  "c7i.48xlarge": {
+    "price": 0E-10
+  },
+  "c7i.4xlarge": {
+    "price": 1.0558000000
+  },
+  "c7i.8xlarge": {
+    "price": 1.4720000000
+  },
+  "c7i.large": {
+    "price": 0E-10
+  },
+  "c7i.xlarge": {
+    "price": 0.8603500000
+  },
+  "c8a.12xlarge": {
+    "price": 0E-10
+  },
+  "c8a.16xlarge": {
+    "price": 0E-10
+  },
+  "c8a.24xlarge": {
+    "price": 43.5537600000
+  },
+  "c8a.2xlarge": {
+    "price": 0.7245900000
+  },
+  "c8a.48xlarge": {
+    "price": 14.2051200000
+  },
+  "c8a.4xlarge": {
+    "price": 3.6043800000
+  },
+  "c8a.8xlarge": {
+    "price": 2.2651200000
+  },
+  "c8a.large": {
+    "price": 0.1748500000
+  },
+  "c8a.medium": {
+    "price": 0E-10
+  },
+  "c8a.xlarge": {
+    "price": 0.8795400000
+  },
+  "c8g.12xlarge": {
+    "price": 0E-10
+  },
+  "c8g.16xlarge": {
+    "price": 0E-10
+  },
+  "c8g.24xlarge": {
+    "price": 4.3363300000
+  },
+  "c8g.2xlarge": {
+    "price": 0.3509400000
+  },
+  "c8g.48xlarge": {
+    "price": 7.6569600000
+  },
+  "c8g.4xlarge": {
+    "price": 0.8108800000
+  },
+  "c8g.8xlarge": {
+    "price": 1.7493800000
+  },
+  "c8g.large": {
+    "price": 0E-10
+  },
+  "c8g.medium": {
+    "price": 0E-10
+  },
+  "c8g.xlarge": {
+    "price": 0.1824700000
+  },
+  "c8gb.12xlarge": {
+    "price": 4.2050400000
+  },
+  "c8gb.16xlarge": {
+    "price": 4.1445200000
+  },
+  "c8gb.24xlarge": {
+    "price": 0E-10
+  },
+  "c8gb.2xlarge": {
+    "price": 0.6176400000
+  },
+  "c8gb.48xlarge": {
+    "price": 15.2352000000
+  },
+  "c8gb.4xlarge": {
+    "price": 1.4016800000
+  },
+  "c8gb.8xlarge": {
+    "price": 0E-10
+  },
+  "c8gb.large": {
+    "price": 0E-10
+  },
+  "c8gb.medium": {
+    "price": 0E-10
+  },
+  "c8gb.xlarge": {
+    "price": 0E-10
+  },
+  "c8gd.12xlarge": {
+    "price": 2.4355200000
+  },
+  "c8gd.16xlarge": {
+    "price": 0E-10
+  },
+  "c8gd.24xlarge": {
+    "price": 0E-10
+  },
+  "c8gd.2xlarge": {
+    "price": 0.5169200000
+  },
+  "c8gd.48xlarge": {
+    "price": 0E-10
+  },
+  "c8gd.4xlarge": {
+    "price": 0.8118400000
+  },
+  "c8gd.8xlarge": {
+    "price": 2.3612800000
+  },
+  "c8gd.large": {
+    "price": 0.1014800000
+  },
+  "c8gd.medium": {
+    "price": 0E-10
+  },
+  "c8gd.xlarge": {
+    "price": 0.2535600000
+  },
+  "c8gn.12xlarge": {
+    "price": 0E-10
+  },
+  "c8gn.16xlarge": {
+    "price": 4.1315000000
+  },
+  "c8gn.24xlarge": {
+    "price": 5.8560000000
+  },
+  "c8gn.2xlarge": {
+    "price": 0E-10
+  },
+  "c8gn.48xlarge": {
+    "price": 11.7120000000
+  },
+  "c8gn.4xlarge": {
+    "price": 0E-10
+  },
+  "c8gn.8xlarge": {
+    "price": 0E-10
+  },
+  "c8gn.large": {
+    "price": 0.1256000000
+  },
+  "c8gn.medium": {
+    "price": 0E-10
+  },
+  "c8gn.xlarge": {
+    "price": 0.2582000000
+  },
+  "c8i-flex.12xlarge": {
+    "price": 7.8964800000
+  },
+  "c8i-flex.16xlarge": {
+    "price": 12.1158400000
+  },
+  "c8i-flex.2xlarge": {
+    "price": 3.3560800000
+  },
+  "c8i-flex.4xlarge": {
+    "price": 0E-10
+  },
+  "c8i-flex.8xlarge": {
+    "price": 1.4243200000
+  },
+  "c8i-flex.large": {
+    "price": 0E-10
+  },
+  "c8i-flex.xlarge": {
+    "price": 0.8328400000
+  },
+  "c8i.12xlarge": {
+    "price": 0E-10
+  },
+  "c8i.16xlarge": {
+    "price": 13.6227200000
+  },
+  "c8i.24xlarge": {
+    "price": 5.9846900000
+  },
+  "c8i.2xlarge": {
+    "price": 0E-10
+  },
+  "c8i.32xlarge": {
+    "price": 0E-10
+  },
+  "c8i.48xlarge": {
+    "price": 8.9961600000
+  },
+  "c8i.4xlarge": {
+    "price": 2.6696800000
+  },
+  "c8i.8xlarge": {
+    "price": 14.4429000000
+  },
+  "c8i.96xlarge": {
+    "price": 67.7587200000
+  },
+  "c8i.large": {
+    "price": 0.1575100000
+  },
+  "c8i.xlarge": {
+    "price": 0E-10
+  },
+  "c8ib.12xlarge": {
+    "price": 3.2659200000
+  },
+  "c8ib.16xlarge": {
+    "price": 31.2985600000
+  },
+  "c8ib.24xlarge": {
+    "price": 43.5686400000
+  },
+  "c8ib.2xlarge": {
+    "price": 0.7237500000
+  },
+  "c8ib.32xlarge": {
+    "price": 12.9720300000
+  },
+  "c8ib.48xlarge": {
+    "price": 86.9068800000
+  },
+  "c8ib.4xlarge": {
+    "price": 0.7360000000
+  },
+  "c8ib.8xlarge": {
+    "price": 0E-10
+  },
+  "c8ib.96xlarge": {
+    "price": 0E-10
+  },
+  "c8ib.large": {
+    "price": 0E-10
+  },
+  "c8ib.xlarge": {
+    "price": 0E-10
+  },
+  "c8id.12xlarge": {
+    "price": 0E-10
+  },
+  "c8id.16xlarge": {
+    "price": 0E-10
+  },
+  "c8id.24xlarge": {
+    "price": 0E-10
+  },
+  "c8id.2xlarge": {
+    "price": 0.5787200000
+  },
+  "c8id.32xlarge": {
+    "price": 0E-10
+  },
+  "c8id.48xlarge": {
+    "price": 0E-10
+  },
+  "c8id.4xlarge": {
+    "price": 7.2838400000
+  },
+  "c8id.8xlarge": {
+    "price": 1.9514900000
+  },
+  "c8id.96xlarge": {
+    "price": 85.0329600000
+  },
+  "c8id.large": {
+    "price": 0.6196800000
+  },
+  "c8id.xlarge": {
+    "price": 0E-10
+  },
+  "c8in.12xlarge": {
+    "price": 0E-10
+  },
+  "c8in.16xlarge": {
+    "price": 0E-10
+  },
+  "c8in.24xlarge": {
+    "price": 0E-10
+  },
+  "c8in.2xlarge": {
+    "price": 0E-10
+  },
+  "c8in.32xlarge": {
+    "price": 12.1011200000
+  },
+  "c8in.48xlarge": {
+    "price": 14.3700500000
+  },
+  "c8in.4xlarge": {
+    "price": 3.1814400000
+  },
+  "c8in.8xlarge": {
+    "price": 2.7406100000
+  },
+  "c8in.96xlarge": {
+    "price": 26.1273600000
+  },
+  "c8in.large": {
+    "price": 0.1496900000
+  },
+  "c8in.xlarge": {
+    "price": 0.3669800000
+  },
+  "c8ine.12xlarge": {
+    "price": 0E-10
+  },
+  "c8ine.2xlarge": {
+    "price": 3.6804000000
+  },
+  "c8ine.4xlarge": {
+    "price": 1.3608000000
+  },
+  "c8ine.8xlarge": {
+    "price": 6.9072000000
+  },
+  "c8ine.large": {
+    "price": 0.1736000000
+  },
+  "c8ine.xlarge": {
+    "price": 0E-10
+  },
+  "c9g.12xlarge": {
+    "price": 2.2952200000
+  },
+  "c9g.16xlarge": {
+    "price": 0E-10
+  },
+  "c9g.24xlarge": {
+    "price": 0E-10
+  },
+  "c9g.2xlarge": {
+    "price": 0.6377400000
+  },
+  "c9g.48xlarge": {
+    "price": 8.6822400000
+  },
+  "c9g.4xlarge": {
+    "price": 0.7650700000
+  },
+  "c9g.8xlarge": {
+    "price": 0E-10
+  },
+  "c9g.large": {
+    "price": 0.1244300000
+  },
+  "c9g.medium": {
+    "price": 0E-10
+  },
+  "c9g.xlarge": {
+    "price": 0.2475700000
+  },
+  "c9gd.12xlarge": {
+    "price": 2.6882000000
+  },
+  "c9gd.16xlarge": {
+    "price": 4.4505600000
+  },
+  "c9gd.24xlarge": {
+    "price": 6.6758400000
+  },
+  "c9gd.2xlarge": {
+    "price": 0.7251200000
+  },
+  "c9gd.48xlarge": {
+    "price": 10.3778000000
+  },
+  "c9gd.4xlarge": {
+    "price": 0E-10
+  },
+  "c9gd.8xlarge": {
+    "price": 0E-10
+  },
+  "c9gd.large": {
+    "price": 0.1737800000
+  },
+  "c9gd.medium": {
+    "price": 0.0604900000
+  },
+  "c9gd.xlarge": {
+    "price": 0.2206000000
+  },
+  "cc2.8xlarge": {
+    "price": 4.4100000000
+  },
+  "cr1.8xlarge": {
+    "price": 3.6000000000
+  },
+  "d2.2xlarge": {
+    "price": 0E-10
+  },
+  "d2.4xlarge": {
+    "price": 3.1460000000
+  },
+  "d2.8xlarge": {
+    "price": 5.5830000000
+  },
+  "d2.xlarge": {
+    "price": 0.8690000000
+  },
+  "d3.2xlarge": {
+    "price": 4.0990000000
+  },
+  "d3.4xlarge": {
+    "price": 4.8540000000
+  },
+  "d3.8xlarge": {
+    "price": 4.9358700000
+  },
+  "d3.xlarge": {
+    "price": 2.2330000000
+  },
+  "d3en.12xlarge": {
+    "price": 0E-10
+  },
+  "d3en.2xlarge": {
+    "price": 2.0110000000
+  },
+  "d3en.4xlarge": {
+    "price": 0E-10
+  },
+  "d3en.6xlarge": {
+    "price": 0E-10
+  },
+  "d3en.8xlarge": {
+    "price": 6.6391400000
+  },
+  "d3en.xlarge": {
+    "price": 1.0580000000
+  },
+  "dl1.24xlarge": {
+    "price": 13.1090400000
+  },
+  "f1.16xlarge": {
+    "price": 13.2000000000
+  },
+  "f1.2xlarge": {
+    "price": 0E-10
+  },
+  "f1.4xlarge": {
+    "price": 3.7300000000
+  },
+  "f2.12xlarge": {
+    "price": 0E-10
+  },
+  "f2.48xlarge": {
+    "price": 15.9650000000
+  },
+  "f2.6xlarge": {
+    "price": 2.0220000000
+  },
+  "g2.2xlarge": {
+    "price": 0E-10
+  },
+  "g2.8xlarge": {
+    "price": 2.7000000000
+  },
+  "g3.16xlarge": {
+    "price": 4.6720000000
+  },
+  "g3.4xlarge": {
+    "price": 0E-10
+  },
+  "g3.8xlarge": {
+    "price": 3.3016000000
+  },
+  "g3s.xlarge": {
+    "price": 0E-10
+  },
+  "g4ad.16xlarge": {
+    "price": 0E-10
+  },
+  "g4ad.2xlarge": {
+    "price": 0.5952900000
+  },
+  "g4ad.4xlarge": {
+    "price": 1.6897000000
+  },
+  "g4ad.8xlarge": {
+    "price": 0E-10
+  },
+  "g4ad.xlarge": {
+    "price": 0E-10
+  },
+  "g4dn.12xlarge": {
+    "price": 4.0370000000
+  },
+  "g4dn.16xlarge": {
+    "price": 0E-10
+  },
+  "g4dn.2xlarge": {
+    "price": 0.7660000000
+  },
+  "g4dn.4xlarge": {
+    "price": 0E-10
+  },
+  "g4dn.8xlarge": {
+    "price": 0E-10
+  },
+  "g4dn.xlarge": {
+    "price": 0.5650000000
+  },
+  "g5.12xlarge": {
+    "price": 7.8800000000
+  },
+  "g5.16xlarge": {
+    "price": 7.4496000000
+  },
+  "g5.24xlarge": {
+    "price": 12.5600000000
+  },
+  "g5.2xlarge": {
+    "price": 0E-10
+  },
+  "g5.48xlarge": {
+    "price": 0E-10
+  },
+  "g5.4xlarge": {
+    "price": 1.8144000000
+  },
+  "g5.8xlarge": {
+    "price": 2.4480000000
+  },
+  "g5.xlarge": {
+    "price": 0E-10
+  },
+  "g5g.16xlarge": {
+    "price": 4.3312000000
+  },
+  "g5g.2xlarge": {
+    "price": 0.5894000000
+  },
+  "g5g.4xlarge": {
+    "price": 0E-10
+  },
+  "g5g.8xlarge": {
+    "price": 1.3720000000
+  },
+  "g5g.xlarge": {
+    "price": 0.4763000000
+  },
+  "g6.12xlarge": {
+    "price": 0E-10
+  },
+  "g6.16xlarge": {
+    "price": 30.3408000000
+  },
+  "g6.24xlarge": {
+    "price": 0E-10
+  },
+  "g6.2xlarge": {
+    "price": 0E-10
+  },
+  "g6.48xlarge": {
+    "price": 87.1936000000
+  },
+  "g6.4xlarge": {
+    "price": 0E-10
+  },
+  "g6.8xlarge": {
+    "price": 2.3408400000
+  },
+  "g6.xlarge": {
+    "price": 0.8048000000
+  },
+  "g6e.12xlarge": {
+    "price": 12.0603000000
+  },
+  "g6e.16xlarge": {
+    "price": 0E-10
+  },
+  "g6e.24xlarge": {
+    "price": 0E-10
+  },
+  "g6e.2xlarge": {
+    "price": 0E-10
+  },
+  "g6e.48xlarge": {
+    "price": 8.8320000000
+  },
+  "g6e.4xlarge": {
+    "price": 0E-10
+  },
+  "g6e.8xlarge": {
+    "price": 0E-10
+  },
+  "g6e.xlarge": {
+    "price": 0E-10
+  },
+  "g6f.2xlarge": {
+    "price": 0E-10
+  },
+  "g6f.4xlarge": {
+    "price": 7.2178000000
+  },
+  "g6f.large": {
+    "price": 0.2055000000
+  },
+  "g6f.xlarge": {
+    "price": 0E-10
+  },
+  "g7.12xlarge": {
+    "price": 0E-10
+  },
+  "g7.24xlarge": {
+    "price": 14.3816400000
+  },
+  "g7.2xlarge": {
+    "price": 0E-10
+  },
+  "g7.48xlarge": {
+    "price": 32.3724800000
+  },
+  "g7.4xlarge": {
+    "price": 3.2148800000
+  },
+  "g7.8xlarge": {
+    "price": 4.1422400000
+  },
+  "g7e.12xlarge": {
+    "price": 10.4442900000
+  },
+  "g7e.24xlarge": {
+    "price": 18.3543800000
+  },
+  "g7e.2xlarge": {
+    "price": 6.6183200000
+  },
+  "g7e.48xlarge": {
+    "price": 56.1843200000
+  },
+  "g7e.4xlarge": {
+    "price": 4.2685600000
+  },
+  "g7e.8xlarge": {
+    "price": 0E-10
+  },
+  "gr6.4xlarge": {
+    "price": 1.9824000000
+  },
+  "gr6.8xlarge": {
+    "price": 0E-10
+  },
+  "gr6f.4xlarge": {
+    "price": 1.4430000000
+  },
+  "h1.16xlarge": {
+    "price": 11.4240000000
+  },
+  "h1.2xlarge": {
+    "price": 1.4580000000
+  },
+  "h1.4xlarge": {
+    "price": 2.1780000000
+  },
+  "h1.8xlarge": {
+    "price": 1.8720000000
+  },
+  "hpc7g.16xlarge": {
+    "price": 3.2704000000
+  },
+  "hpc7g.4xlarge": {
+    "price": 1.8082000000
+  },
+  "hpc7g.8xlarge": {
+    "price": 2.0288000000
+  },
+  "hs1.8xlarge": {
+    "price": 5.1440000000
+  },
+  "i2.2xlarge": {
+    "price": 5.2440000000
+  },
+  "i2.4xlarge": {
+    "price": 0E-10
+  },
+  "i2.8xlarge": {
+    "price": 6.8200000000
+  },
+  "i2.large": {
+    "price": 0E-10
+  },
+  "i2.xlarge": {
+    "price": 2.4110000000
+  },
+  "i3.16xlarge": {
+    "price": 0E-10
+  },
+  "i3.2xlarge": {
+    "price": 0.7860000000
+  },
+  "i3.4xlarge": {
+    "price": 0E-10
+  },
+  "i3.8xlarge": {
+    "price": 3.0910000000
+  },
+  "i3.large": {
+    "price": 0.2560000000
+  },
+  "i3.xlarge": {
+    "price": 0.8230000000
+  },
+  "i3en.12xlarge": {
+    "price": 0E-10
+  },
+  "i3en.24xlarge": {
+    "price": 0E-10
+  },
+  "i3en.2xlarge": {
+    "price": 0E-10
+  },
+  "i3en.3xlarge": {
+    "price": 1.5740000000
+  },
+  "i3en.6xlarge": {
+    "price": 4.3980000000
+  },
+  "i3en.large": {
+    "price": 0.3220000000
+  },
+  "i3en.xlarge": {
+    "price": 0E-10
+  },
+  "i4g.16xlarge": {
+    "price": 5.0540800000
+  },
+  "i4g.2xlarge": {
+    "price": 0.8729600000
+  },
+  "i4g.4xlarge": {
+    "price": 1.5318700000
+  },
+  "i4g.8xlarge": {
+    "price": 2.8166400000
+  },
+  "i4g.large": {
+    "price": 0.2336800000
+  },
+  "i4g.xlarge": {
+    "price": 0.4673700000
+  },
+  "i4i.12xlarge": {
+    "price": 5.4480000000
+  },
+  "i4i.16xlarge": {
+    "price": 7.0780000000
+  },
+  "i4i.24xlarge": {
+    "price": 14.2752000000
+  },
+  "i4i.2xlarge": {
+    "price": 3.9420000000
+  },
+  "i4i.32xlarge": {
+    "price": 11.1074000000
+  },
+  "i4i.4xlarge": {
+    "price": 1.5100000000
+  },
+  "i4i.8xlarge": {
+    "price": 2.7460000000
+  },
+  "i4i.large": {
+    "price": 0E-10
+  },
+  "i4i.xlarge": {
+    "price": 1.9710000000
+  },
+  "i7i.12xlarge": {
+    "price": 6.0006000000
+  },
+  "i7i.16xlarge": {
+    "price": 6.1523000000
+  },
+  "i7i.24xlarge": {
+    "price": 46.0973000000
+  },
+  "i7i.2xlarge": {
+    "price": 1.7150000000
+  },
+  "i7i.48xlarge": {
+    "price": 93.9802000000
+  },
+  "i7i.4xlarge": {
+    "price": 0E-10
+  },
+  "i7i.8xlarge": {
+    "price": 8.5188000000
+  },
+  "i7i.large": {
+    "price": 0E-10
+  },
+  "i7i.xlarge": {
+    "price": 0.9385000000
+  },
+  "i7ie.12xlarge": {
+    "price": 6.3626000000
+  },
+  "i7ie.18xlarge": {
+    "price": 0E-10
+  },
+  "i7ie.24xlarge": {
+    "price": 0E-10
+  },
+  "i7ie.2xlarge": {
+    "price": 0E-10
+  },
+  "i7ie.3xlarge": {
+    "price": 0E-10
+  },
+  "i7ie.48xlarge": {
+    "price": 49.6087000000
+  },
+  "i7ie.6xlarge": {
+    "price": 3.7267000000
+  },
+  "i7ie.large": {
+    "price": 0.2634000000
+  },
+  "i7ie.xlarge": {
+    "price": 0E-10
+  },
+  "i8g.12xlarge": {
+    "price": 0E-10
+  },
+  "i8g.16xlarge": {
+    "price": 6.7315200000
+  },
+  "i8g.24xlarge": {
+    "price": 9.2284800000
+  },
+  "i8g.2xlarge": {
+    "price": 0.9416000000
+  },
+  "i8g.48xlarge": {
+    "price": 0E-10
+  },
+  "i8g.4xlarge": {
+    "price": 0E-10
+  },
+  "i8g.8xlarge": {
+    "price": 0E-10
+  },
+  "i8g.large": {
+    "price": 0.1923000000
+  },
+  "i8g.xlarge": {
+    "price": 0E-10
+  },
+  "i8ge.12xlarge": {
+    "price": 5.6952000000
+  },
+  "i8ge.18xlarge": {
+    "price": 9.3204000000
+  },
+  "i8ge.24xlarge": {
+    "price": 11.5154000000
+  },
+  "i8ge.2xlarge": {
+    "price": 0E-10
+  },
+  "i8ge.3xlarge": {
+    "price": 1.5488000000
+  },
+  "i8ge.48xlarge": {
+    "price": 26.1058000000
+  },
+  "i8ge.6xlarge": {
+    "price": 0E-10
+  },
+  "i8ge.large": {
+    "price": 0E-10
+  },
+  "i8ge.xlarge": {
+    "price": 0E-10
+  },
+  "im4gn.16xlarge": {
+    "price": 7.4078700000
+  },
+  "im4gn.2xlarge": {
+    "price": 0.7415800000
+  },
+  "im4gn.4xlarge": {
+    "price": 0E-10
+  },
+  "im4gn.8xlarge": {
+    "price": 3.3263700000
+  },
+  "im4gn.large": {
+    "price": 0E-10
+  },
+  "im4gn.xlarge": {
+    "price": 0E-10
+  },
+  "inf1.24xlarge": {
+    "price": 0E-10
+  },
+  "inf1.2xlarge": {
+    "price": 1.3440000000
+  },
+  "inf1.6xlarge": {
+    "price": 0E-10
+  },
+  "inf1.xlarge": {
+    "price": 0.2350000000
+  },
+  "inf2.24xlarge": {
+    "price": 6.4906300000
+  },
+  "inf2.48xlarge": {
+    "price": 16.1225900000
+  },
+  "inf2.8xlarge": {
+    "price": 0E-10
+  },
+  "inf2.xlarge": {
+    "price": 0.8158000000
+  },
+  "is4gen.2xlarge": {
+    "price": 0E-10
+  },
+  "is4gen.4xlarge": {
+    "price": 2.4302000000
+  },
+  "is4gen.8xlarge": {
+    "price": 4.7354000000
+  },
+  "is4gen.large": {
+    "price": 0.2881500000
+  },
+  "is4gen.medium": {
+    "price": 0.1440800000
+  },
+  "is4gen.xlarge": {
+    "price": 0.5833000000
+  },
+  "m1.large": {
+    "price": 1.0510000000
+  },
+  "m1.medium": {
+    "price": 0.0870000000
+  },
+  "m1.small": {
+    "price": 0E-10
+  },
+  "m1.xlarge": {
+    "price": 0E-10
+  },
+  "m2.2xlarge": {
+    "price": 0.6900000000
+  },
+  "m2.4xlarge": {
+    "price": 1.1930000000
+  },
+  "m2.xlarge": {
+    "price": 0.2700000000
+  },
+  "m3.2xlarge": {
+    "price": 3.5360000000
+  },
+  "m3.large": {
+    "price": 0.1330000000
+  },
+  "m3.medium": {
+    "price": 0E-10
+  },
+  "m3.xlarge": {
+    "price": 0E-10
+  },
+  "m4.10xlarge": {
+    "price": 2.0700000000
+  },
+  "m4.16xlarge": {
+    "price": 30.1440000000
+  },
+  "m4.2xlarge": {
+    "price": 0E-10
+  },
+  "m4.4xlarge": {
+    "price": 1.1968000000
+  },
+  "m4.large": {
+    "price": 0.2020000000
+  },
+  "m4.xlarge": {
+    "price": 0E-10
+  },
+  "m5.12xlarge": {
+    "price": 0E-10
+  },
+  "m5.16xlarge": {
+    "price": 0E-10
+  },
+  "m5.24xlarge": {
+    "price": 10.6460000000
+  },
+  "m5.2xlarge": {
+    "price": 1.6380000000
+  },
+  "m5.4xlarge": {
+    "price": 1.0180000000
+  },
+  "m5.8xlarge": {
+    "price": 2.1700000000
+  },
+  "m5.large": {
+    "price": 0E-10
+  },
+  "m5.xlarge": {
+    "price": 1.8760000000
+  },
+  "m5a.12xlarge": {
+    "price": 3.2540000000
+  },
+  "m5a.16xlarge": {
+    "price": 2.7520000000
+  },
+  "m5a.24xlarge": {
+    "price": 42.5090000000
+  },
+  "m5a.2xlarge": {
+    "price": 0E-10
+  },
+  "m5a.4xlarge": {
+    "price": 3.3860000000
+  },
+  "m5a.8xlarge": {
+    "price": 0E-10
+  },
+  "m5a.large": {
+    "price": 0E-10
+  },
+  "m5a.xlarge": {
+    "price": 0.7900000000
+  },
+  "m5ad.12xlarge": {
+    "price": 20.4720000000
+  },
+  "m5ad.16xlarge": {
+    "price": 10.9760000000
+  },
+  "m5ad.24xlarge": {
+    "price": 41.2450000000
+  },
+  "m5ad.2xlarge": {
+    "price": 3.5270000000
+  },
+  "m5ad.4xlarge": {
+    "price": 0.8740000000
+  },
+  "m5ad.8xlarge": {
+    "price": 1.8030000000
+  },
+  "m5ad.large": {
+    "price": 0.6180000000
+  },
+  "m5ad.xlarge": {
+    "price": 1.8340000000
+  },
+  "m5d.12xlarge": {
+    "price": 0E-10
+  },
+  "m5d.16xlarge": {
+    "price": 0E-10
+  },
+  "m5d.24xlarge": {
+    "price": 11.4620000000
+  },
+  "m5d.2xlarge": {
+    "price": 0.5520000000
+  },
+  "m5d.4xlarge": {
+    "price": 7.6400000000
+  },
+  "m5d.8xlarge": {
+    "price": 0E-10
+  },
+  "m5d.large": {
+    "price": 0E-10
+  },
+  "m5d.xlarge": {
+    "price": 0E-10
+  },
+  "m5dn.12xlarge": {
+    "price": 4.6500000000
+  },
+  "m5dn.16xlarge": {
+    "price": 0E-10
+  },
+  "m5dn.24xlarge": {
+    "price": 42.5280000000
+  },
+  "m5dn.2xlarge": {
+    "price": 0E-10
+  },
+  "m5dn.4xlarge": {
+    "price": 7.4850000000
+  },
+  "m5dn.8xlarge": {
+    "price": 2.9700000000
+  },
+  "m5dn.large": {
+    "price": 0.1650000000
+  },
+  "m5dn.xlarge": {
+    "price": 0.3300000000
+  },
+  "m5n.12xlarge": {
+    "price": 0E-10
+  },
+  "m5n.16xlarge": {
+    "price": 0E-10
+  },
+  "m5n.24xlarge": {
+    "price": 19.6130000000
+  },
+  "m5n.2xlarge": {
+    "price": 3.6200000000
+  },
+  "m5n.4xlarge": {
+    "price": 0E-10
+  },
+  "m5n.8xlarge": {
+    "price": 2.6980000000
+  },
+  "m5n.large": {
+    "price": 0E-10
+  },
+  "m5n.xlarge": {
+    "price": 0.2590000000
+  },
+  "m5zn.12xlarge": {
+    "price": 4.0481000000
+  },
+  "m5zn.2xlarge": {
+    "price": 0E-10
+  },
+  "m5zn.3xlarge": {
+    "price": 1.6421000000
+  },
+  "m5zn.6xlarge": {
+    "price": 5.9660000000
+  },
+  "m5zn.large": {
+    "price": 0E-10
+  },
+  "m5zn.xlarge": {
+    "price": 0E-10
+  },
+  "m6a.12xlarge": {
+    "price": 0E-10
+  },
+  "m6a.16xlarge": {
+    "price": 3.1532800000
+  },
+  "m6a.24xlarge": {
+    "price": 15.6672000000
+  },
+  "m6a.2xlarge": {
+    "price": 0.8488000000
+  },
+  "m6a.32xlarge": {
+    "price": 0E-10
+  },
+  "m6a.48xlarge": {
+    "price": 35.1936000000
+  },
+  "m6a.4xlarge": {
+    "price": 0E-10
+  },
+  "m6a.8xlarge": {
+    "price": 1.6456400000
+  },
+  "m6a.large": {
+    "price": 0.0864000000
+  },
+  "m6a.xlarge": {
+    "price": 0.8368000000
+  },
+  "m6g.12xlarge": {
+    "price": 0E-10
+  },
+  "m6g.16xlarge": {
+    "price": 2.4640000000
+  },
+  "m6g.2xlarge": {
+    "price": 0.4416000000
+  },
+  "m6g.4xlarge": {
+    "price": 0.6440000000
+  },
+  "m6g.8xlarge": {
+    "price": 1.2320000000
+  },
+  "m6g.large": {
+    "price": 0.0816000000
+  },
+  "m6g.medium": {
+    "price": 0E-10
+  },
+  "m6g.xlarge": {
+    "price": 0.1540000000
+  },
+  "m6gd.12xlarge": {
+    "price": 0E-10
+  },
+  "m6gd.16xlarge": {
+    "price": 2.8928000000
+  },
+  "m6gd.2xlarge": {
+    "price": 0E-10
+  },
+  "m6gd.4xlarge": {
+    "price": 0E-10
+  },
+  "m6gd.8xlarge": {
+    "price": 1.7920000000
+  },
+  "m6gd.large": {
+    "price": 0.1521000000
+  },
+  "m6gd.medium": {
+    "price": 0.0771000000
+  },
+  "m6gd.xlarge": {
+    "price": 0.2371000000
+  },
+  "m6i.12xlarge": {
+    "price": 3.3456000000
+  },
+  "m6i.16xlarge": {
+    "price": 0E-10
+  },
+  "m6i.24xlarge": {
+    "price": 5.1938000000
+  },
+  "m6i.2xlarge": {
+    "price": 0E-10
+  },
+  "m6i.32xlarge": {
+    "price": 7.3728000000
+  },
+  "m6i.4xlarge": {
+    "price": 0E-10
+  },
+  "m6i.8xlarge": {
+    "price": 2.4224000000
+  },
+  "m6i.large": {
+    "price": 0E-10
+  },
+  "m6i.xlarge": {
+    "price": 0.3388000000
+  },
+  "m6id.12xlarge": {
+    "price": 2.8476000000
+  },
+  "m6id.16xlarge": {
+    "price": 27.7968000000
+  },
+  "m6id.24xlarge": {
+    "price": 5.6952000000
+  },
+  "m6id.2xlarge": {
+    "price": 0.7250000000
+  },
+  "m6id.32xlarge": {
+    "price": 13.4816000000
+  },
+  "m6id.4xlarge": {
+    "price": 0E-10
+  },
+  "m6id.8xlarge": {
+    "price": 0E-10
+  },
+  "m6id.large": {
+    "price": 0.6274500000
+  },
+  "m6id.xlarge": {
+    "price": 0E-10
+  },
+  "m6idn.12xlarge": {
+    "price": 0E-10
+  },
+  "m6idn.16xlarge": {
+    "price": 9.1174400000
+  },
+  "m6idn.24xlarge": {
+    "price": 24.3375400000
+  },
+  "m6idn.2xlarge": {
+    "price": 1.0681300000
+  },
+  "m6idn.32xlarge": {
+    "price": 10.4076800000
+  },
+  "m6idn.4xlarge": {
+    "price": 1.6697600000
+  },
+  "m6idn.8xlarge": {
+    "price": 15.1461100000
+  },
+  "m6idn.large": {
+    "price": 0E-10
+  },
+  "m6idn.xlarge": {
+    "price": 0E-10
+  },
+  "m6in.12xlarge": {
+    "price": 10.6260700000
+  },
+  "m6in.16xlarge": {
+    "price": 6.4881000000
+  },
+  "m6in.24xlarge": {
+    "price": 0E-10
+  },
+  "m6in.2xlarge": {
+    "price": 0.7478100000
+  },
+  "m6in.32xlarge": {
+    "price": 30.1587200000
+  },
+  "m6in.4xlarge": {
+    "price": 7.5106400000
+  },
+  "m6in.8xlarge": {
+    "price": 6.0676800000
+  },
+  "m6in.large": {
+    "price": 0E-10
+  },
+  "m6in.xlarge": {
+    "price": 0.9424600000
+  },
+  "m7a.12xlarge": {
+    "price": 20.7820800000
+  },
+  "m7a.16xlarge": {
+    "price": 3.7094400000
+  },
+  "m7a.24xlarge": {
+    "price": 18.1209600000
+  },
+  "m7a.2xlarge": {
+    "price": 1.7252500000
+  },
+  "m7a.32xlarge": {
+    "price": 62.0487700000
+  },
+  "m7a.48xlarge": {
+    "price": 14.9875200000
+  },
+  "m7a.4xlarge": {
+    "price": 1.3241600000
+  },
+  "m7a.8xlarge": {
+    "price": 13.8547200000
+  },
+  "m7a.large": {
+    "price": 0.1447200000
+  },
+  "m7a.medium": {
+    "price": 0E-10
+  },
+  "m7a.xlarge": {
+    "price": 1.7894400000
+  },
+  "m7g.12xlarge": {
+    "price": 2.0818000000
+  },
+  "m7g.16xlarge": {
+    "price": 2.7362000000
+  },
+  "m7g.2xlarge": {
+    "price": 0E-10
+  },
+  "m7g.4xlarge": {
+    "price": 0E-10
+  },
+  "m7g.8xlarge": {
+    "price": 1.3616000000
+  },
+  "m7g.large": {
+    "price": 0.0867000000
+  },
+  "m7g.medium": {
+    "price": 0.0434000000
+  },
+  "m7g.xlarge": {
+    "price": 0.1632000000
+  },
+  "m7gd.12xlarge": {
+    "price": 2.5628000000
+  },
+  "m7gd.16xlarge": {
+    "price": 0E-10
+  },
+  "m7gd.2xlarge": {
+    "price": 0.5521000000
+  },
+  "m7gd.4xlarge": {
+    "price": 1.2511000000
+  },
+  "m7gd.8xlarge": {
+    "price": 1.8111000000
+  },
+  "m7gd.large": {
+    "price": 0.1132000000
+  },
+  "m7gd.medium": {
+    "price": 0E-10
+  },
+  "m7gd.xlarge": {
+    "price": 0.2827000000
+  },
+  "m7i-flex.12xlarge": {
+    "price": 0E-10
+  },
+  "m7i-flex.16xlarge": {
+    "price": 0E-10
+  },
+  "m7i-flex.2xlarge": {
+    "price": 0E-10
+  },
+  "m7i-flex.4xlarge": {
+    "price": 3.3852800000
+  },
+  "m7i-flex.8xlarge": {
+    "price": 6.1657600000
+  },
+  "m7i-flex.large": {
+    "price": 0.0992600000
+  },
+  "m7i-flex.xlarge": {
+    "price": 0E-10
+  },
+  "m7i.12xlarge": {
+    "price": 0E-10
+  },
+  "m7i.16xlarge": {
+    "price": 7.2512000000
+  },
+  "m7i.24xlarge": {
+    "price": 0E-10
+  },
+  "m7i.2xlarge": {
+    "price": 0.5184000000
+  },
+  "m7i.48xlarge": {
+    "price": 14.7648000000
+  },
+  "m7i.4xlarge": {
+    "price": 0.8064000000
+  },
+  "m7i.8xlarge": {
+    "price": 5.6140800000
+  },
+  "m7i.large": {
+    "price": 0E-10
+  },
+  "m7i.xlarge": {
+    "price": 0.2016000000
+  },
+  "m8a.12xlarge": {
+    "price": 3.2134100000
+  },
+  "m8a.16xlarge": {
+    "price": 0E-10
+  },
+  "m8a.24xlarge": {
+    "price": 6.4268200000
+  },
+  "m8a.2xlarge": {
+    "price": 3.6020800000
+  },
+  "m8a.48xlarge": {
+    "price": 0E-10
+  },
+  "m8a.4xlarge": {
+    "price": 3.1639400000
+  },
+  "m8a.8xlarge": {
+    "price": 0E-10
+  },
+  "m8a.large": {
+    "price": 0E-10
+  },
+  "m8a.medium": {
+    "price": 0E-10
+  },
+  "m8a.xlarge": {
+    "price": 0.3686400000
+  },
+  "m8azn.12xlarge": {
+    "price": 25.6585400000
+  },
+  "m8azn.24xlarge": {
+    "price": 11.9378900000
+  },
+  "m8azn.3xlarge": {
+    "price": 0E-10
+  },
+  "m8azn.6xlarge": {
+    "price": 2.7672700000
+  },
+  "m8azn.large": {
+    "price": 0E-10
+  },
+  "m8azn.medium": {
+    "price": 0.1153000000
+  },
+  "m8azn.xlarge": {
+    "price": 0E-10
+  },
+  "m8g.12xlarge": {
+    "price": 2.2792400000
+  },
+  "m8g.16xlarge": {
+    "price": 3.2715500000
+  },
+  "m8g.24xlarge": {
+    "price": 4.7393300000
+  },
+  "m8g.2xlarge": {
+    "price": 0.3730400000
+  },
+  "m8g.48xlarge": {
+    "price": 8.6169600000
+  },
+  "m8g.4xlarge": {
+    "price": 1.1148800000
+  },
+  "m8g.8xlarge": {
+    "price": 0E-10
+  },
+  "m8g.large": {
+    "price": 0.0897600000
+  },
+  "m8g.medium": {
+    "price": 0E-10
+  },
+  "m8g.xlarge": {
+    "price": 0.2371200000
+  },
+  "m8gb.12xlarge": {
+    "price": 3.5760000000
+  },
+  "m8gb.16xlarge": {
+    "price": 0E-10
+  },
+  "m8gb.24xlarge": {
+    "price": 7.5710400000
+  },
+  "m8gb.2xlarge": {
+    "price": 0.7321200000
+  },
+  "m8gb.48xlarge": {
+    "price": 0E-10
+  },
+  "m8gb.4xlarge": {
+    "price": 1.3368000000
+  },
+  "m8gb.8xlarge": {
+    "price": 0E-10
+  },
+  "m8gb.large": {
+    "price": 0E-10
+  },
+  "m8gb.medium": {
+    "price": 0.0915200000
+  },
+  "m8gb.xlarge": {
+    "price": 0.3154600000
+  },
+  "m8gd.12xlarge": {
+    "price": 4.2348500000
+  },
+  "m8gd.16xlarge": {
+    "price": 4.1712600000
+  },
+  "m8gd.24xlarge": {
+    "price": 0E-10
+  },
+  "m8gd.2xlarge": {
+    "price": 0E-10
+  },
+  "m8gd.48xlarge": {
+    "price": 12.9139200000
+  },
+  "m8gd.4xlarge": {
+    "price": 0E-10
+  },
+  "m8gd.8xlarge": {
+    "price": 1.9011200000
+  },
+  "m8gd.large": {
+    "price": 0.1303500000
+  },
+  "m8gd.medium": {
+    "price": 0.1197300000
+  },
+  "m8gd.xlarge": {
+    "price": 0E-10
+  },
+  "m8gn.12xlarge": {
+    "price": 0E-10
+  },
+  "m8gn.16xlarge": {
+    "price": 4.9354000000
+  },
+  "m8gn.24xlarge": {
+    "price": 8.0208000000
+  },
+  "m8gn.2xlarge": {
+    "price": 0E-10
+  },
+  "m8gn.48xlarge": {
+    "price": 14.3040000000
+  },
+  "m8gn.4xlarge": {
+    "price": 1.2890000000
+  },
+  "m8gn.8xlarge": {
+    "price": 2.6736000000
+  },
+  "m8gn.large": {
+    "price": 0.2180000000
+  },
+  "m8gn.medium": {
+    "price": 0.1047000000
+  },
+  "m8gn.xlarge": {
+    "price": 0.3486000000
+  },
+  "m8i-flex.12xlarge": {
+    "price": 8.6916000000
+  },
+  "m8i-flex.16xlarge": {
+    "price": 27.2176000000
+  },
+  "m8i-flex.2xlarge": {
+    "price": 0E-10
+  },
+  "m8i-flex.4xlarge": {
+    "price": 0.8044000000
+  },
+  "m8i-flex.8xlarge": {
+    "price": 0E-10
+  },
+  "m8i-flex.large": {
+    "price": 0.1005500000
+  },
+  "m8i-flex.xlarge": {
+    "price": 0E-10
+  },
+  "m8i.12xlarge": {
+    "price": 9.4905600000
+  },
+  "m8i.16xlarge": {
+    "price": 0E-10
+  },
+  "m8i.24xlarge": {
+    "price": 5.0803200000
+  },
+  "m8i.2xlarge": {
+    "price": 0.4233600000
+  },
+  "m8i.32xlarge": {
+    "price": 57.3465600000
+  },
+  "m8i.48xlarge": {
+    "price": 10.2856400000
+  },
+  "m8i.4xlarge": {
+    "price": 0E-10
+  },
+  "m8i.8xlarge": {
+    "price": 1.8627800000
+  },
+  "m8i.96xlarge": {
+    "price": 0E-10
+  },
+  "m8i.large": {
+    "price": 1.7084200000
+  },
+  "m8i.xlarge": {
+    "price": 0.7128500000
+  },
+  "m8ib.12xlarge": {
+    "price": 4.0099200000
+  },
+  "m8ib.16xlarge": {
+    "price": 15.1484200000
+  },
+  "m8ib.24xlarge": {
+    "price": 49.2378200000
+  },
+  "m8ib.2xlarge": {
+    "price": 0E-10
+  },
+  "m8ib.32xlarge": {
+    "price": 0E-10
+  },
+  "m8ib.48xlarge": {
+    "price": 40.6836500000
+  },
+  "m8ib.4xlarge": {
+    "price": 1.7407000000
+  },
+  "m8ib.8xlarge": {
+    "price": 0E-10
+  },
+  "m8ib.96xlarge": {
+    "price": 32.0793600000
+  },
+  "m8ib.large": {
+    "price": 0.1837900000
+  },
+  "m8ib.xlarge": {
+    "price": 0.3341600000
+  },
+  "m8id.12xlarge": {
+    "price": 10.0828800000
+  },
+  "m8id.16xlarge": {
+    "price": 0E-10
+  },
+  "m8id.24xlarge": {
+    "price": 4.4160000000
+  },
+  "m8id.2xlarge": {
+    "price": 1.6494900000
+  },
+  "m8id.32xlarge": {
+    "price": 62.2412800000
+  },
+  "m8id.48xlarge": {
+    "price": 0E-10
+  },
+  "m8id.4xlarge": {
+    "price": 0E-10
+  },
+  "m8id.8xlarge": {
+    "price": 2.4339200000
+  },
+  "m8id.96xlarge": {
+    "price": 32.7782400000
+  },
+  "m8id.large": {
+    "price": 0.2073700000
+  },
+  "m8id.xlarge": {
+    "price": 0E-10
+  },
+  "m8idb.12xlarge": {
+    "price": 0E-10
+  },
+  "m8idb.16xlarge": {
+    "price": 33.0540800000
+  },
+  "m8idb.24xlarge": {
+    "price": 0E-10
+  },
+  "m8idb.2xlarge": {
+    "price": 0E-10
+  },
+  "m8idb.32xlarge": {
+    "price": 34.6901800000
+  },
+  "m8idb.48xlarge": {
+    "price": 0E-10
+  },
+  "m8idb.4xlarge": {
+    "price": 0E-10
+  },
+  "m8idb.8xlarge": {
+    "price": 3.9013400000
+  },
+  "m8idb.96xlarge": {
+    "price": 0E-10
+  },
+  "m8idb.large": {
+    "price": 0E-10
+  },
+  "m8idb.xlarge": {
+    "price": 0.9000700000
+  },
+  "m8idn.12xlarge": {
+    "price": 10.8609600000
+  },
+  "m8idn.16xlarge": {
+    "price": 0E-10
+  },
+  "m8idn.24xlarge": {
+    "price": 10.2496300000
+  },
+  "m8idn.2xlarge": {
+    "price": 0.8989600000
+  },
+  "m8idn.32xlarge": {
+    "price": 12.2201600000
+  },
+  "m8idn.48xlarge": {
+    "price": 0E-10
+  },
+  "m8idn.4xlarge": {
+    "price": 7.9243200000
+  },
+  "m8idn.8xlarge": {
+    "price": 15.4006400000
+  },
+  "m8idn.96xlarge": {
+    "price": 0E-10
+  },
+  "m8idn.large": {
+    "price": 0E-10
+  },
+  "m8idn.xlarge": {
+    "price": 0.6040700000
+  },
+  "m8in.12xlarge": {
+    "price": 6.6189100000
+  },
+  "m8in.16xlarge": {
+    "price": 0E-10
+  },
+  "m8in.24xlarge": {
+    "price": 21.3786200000
+  },
+  "m8in.2xlarge": {
+    "price": 0E-10
+  },
+  "m8in.32xlarge": {
+    "price": 0E-10
+  },
+  "m8in.48xlarge": {
+    "price": 0E-10
+  },
+  "m8in.4xlarge": {
+    "price": 7.7334400000
+  },
+  "m8in.8xlarge": {
+    "price": 14.6732800000
+  },
+  "m8in.96xlarge": {
+    "price": 81.8457600000
+  },
+  "m8in.large": {
+    "price": 0.6758800000
+  },
+  "m8in.xlarge": {
+    "price": 1.9251800000
+  },
+  "m8ine.12xlarge": {
+    "price": 24.2028000000
+  },
+  "m8ine.2xlarge": {
+    "price": 0.9706000000
+  },
+  "m8ine.4xlarge": {
+    "price": 2.4068000000
+  },
+  "m8ine.8xlarge": {
+    "price": 16.8136000000
+  },
+  "m8ine.large": {
+    "price": 0.2376500000
+  },
+  "m8ine.xlarge": {
+    "price": 0E-10
+  },
+  "m9g.12xlarge": {
+    "price": 0E-10
+  },
+  "m9g.16xlarge": {
+    "price": 3.2558800000
+  },
+  "m9g.24xlarge": {
+    "price": 5.3339500000
+  },
+  "m9g.2xlarge": {
+    "price": 0.5163600000
+  },
+  "m9g.48xlarge": {
+    "price": 10.4569000000
+  },
+  "m9g.4xlarge": {
+    "price": 0E-10
+  },
+  "m9g.8xlarge": {
+    "price": 1.8469800000
+  },
+  "m9g.large": {
+    "price": 0.1541400000
+  },
+  "m9g.medium": {
+    "price": 0.0633200000
+  },
+  "m9g.xlarge": {
+    "price": 0.2152500000
+  },
+  "m9gd.12xlarge": {
+    "price": 0E-10
+  },
+  "m9gd.16xlarge": {
+    "price": 4.4246400000
+  },
+  "m9gd.24xlarge": {
+    "price": 9.0177600000
+  },
+  "m9gd.2xlarge": {
+    "price": 0E-10
+  },
+  "m9gd.48xlarge": {
+    "price": 0E-10
+  },
+  "m9gd.4xlarge": {
+    "price": 0E-10
+  },
+  "m9gd.8xlarge": {
+    "price": 2.3373200000
+  },
+  "m9gd.large": {
+    "price": 0.1670700000
+  },
+  "m9gd.medium": {
+    "price": 0.0835400000
+  },
+  "m9gd.xlarge": {
+    "price": 0E-10
+  },
+  "p2.16xlarge": {
+    "price": 14.4000000000
+  },
+  "p2.8xlarge": {
+    "price": 0E-10
+  },
+  "p2.xlarge": {
+    "price": 0.9970000000
+  },
+  "p3.16xlarge": {
+    "price": 0E-10
+  },
+  "p3.2xlarge": {
+    "price": 3.2590000000
+  },
+  "p3.8xlarge": {
+    "price": 0E-10
+  },
+  "p3dn.24xlarge": {
+    "price": 35.6280000000
+  },
+  "p4d.24xlarge": {
+    "price": 24.1534062000
+  },
+  "p4de.24xlarge": {
+    "price": 0E-10
+  },
+  "p5.48xlarge": {
+    "price": 55.0400000000
+  },
+  "p5.4xlarge": {
+    "price": 0E-10
+  },
+  "p5en.48xlarge": {
+    "price": 0E-10
+  },
+  "p6-b200.48xlarge": {
+    "price": 0E-10
+  },
+  "p6-b300.48xlarge": {
+    "price": 151.2969600000
+  },
+  "r3.2xlarge": {
+    "price": 1.6240000000
+  },
+  "r3.4xlarge": {
+    "price": 5.0440000000
+  },
+  "r3.8xlarge": {
+    "price": 3.1970000000
+  },
+  "r3.large": {
+    "price": 0E-10
+  },
+  "r3.xlarge": {
+    "price": 0E-10
+  },
+  "r4.16xlarge": {
+    "price": 5.8432000000
+  },
+  "r4.2xlarge": {
+    "price": 0E-10
+  },
+  "r4.4xlarge": {
+    "price": 0E-10
+  },
+  "r4.8xlarge": {
+    "price": 0E-10
+  },
+  "r4.large": {
+    "price": 0.1751000000
+  },
+  "r4.xlarge": {
+    "price": 0E-10
+  },
+  "r5.12xlarge": {
+    "price": 3.0240000000
+  },
+  "r5.16xlarge": {
+    "price": 0E-10
+  },
+  "r5.24xlarge": {
+    "price": 6.1730000000
+  },
+  "r5.2xlarge": {
+    "price": 0.5040000000
+  },
+  "r5.4xlarge": {
+    "price": 0E-10
+  },
+  "r5.8xlarge": {
+    "price": 0E-10
+  },
+  "r5.large": {
+    "price": 0.1260000000
+  },
+  "r5.xlarge": {
+    "price": 0E-10
+  },
+  "r5a.12xlarge": {
+    "price": 2.8750000000
+  },
+  "r5a.16xlarge": {
+    "price": 5.2030000000
+  },
+  "r5a.24xlarge": {
+    "price": 6.4610000000
+  },
+  "r5a.2xlarge": {
+    "price": 1.4390000000
+  },
+  "r5a.4xlarge": {
+    "price": 1.1740000000
+  },
+  "r5a.8xlarge": {
+    "price": 1.9720000000
+  },
+  "r5a.large": {
+    "price": 0.2050000000
+  },
+  "r5a.xlarge": {
+    "price": 0.4240000000
+  },
+  "r5ad.12xlarge": {
+    "price": 3.4580000000
+  },
+  "r5ad.16xlarge": {
+    "price": 13.7110000000
+  },
+  "r5ad.24xlarge": {
+    "price": 18.8450000000
+  },
+  "r5ad.2xlarge": {
+    "price": 0.6800000000
+  },
+  "r5ad.4xlarge": {
+    "price": 0E-10
+  },
+  "r5ad.8xlarge": {
+    "price": 0E-10
+  },
+  "r5ad.large": {
+    "price": 0E-10
+  },
+  "r5ad.xlarge": {
+    "price": 1.9460000000
+  },
+  "r5b.12xlarge": {
+    "price": 3.5760000000
+  },
+  "r5b.16xlarge": {
+    "price": 0E-10
+  },
+  "r5b.24xlarge": {
+    "price": 7.1520000000
+  },
+  "r5b.2xlarge": {
+    "price": 0E-10
+  },
+  "r5b.4xlarge": {
+    "price": 0E-10
+  },
+  "r5b.8xlarge": {
+    "price": 4.6352000000
+  },
+  "r5b.large": {
+    "price": 0E-10
+  },
+  "r5b.xlarge": {
+    "price": 0E-10
+  },
+  "r5d.12xlarge": {
+    "price": 4.4750000000
+  },
+  "r5d.16xlarge": {
+    "price": 4.6080000000
+  },
+  "r5d.24xlarge": {
+    "price": 0E-10
+  },
+  "r5d.2xlarge": {
+    "price": 0E-10
+  },
+  "r5d.4xlarge": {
+    "price": 0E-10
+  },
+  "r5d.8xlarge": {
+    "price": 3.2360000000
+  },
+  "r5d.large": {
+    "price": 0E-10
+  },
+  "r5d.xlarge": {
+    "price": 0.3630000000
+  },
+  "r5dn.12xlarge": {
+    "price": 4.3324800000
+  },
+  "r5dn.16xlarge": {
+    "price": 14.9318400000
+  },
+  "r5dn.24xlarge": {
+    "price": 8.1840000000
+  },
+  "r5dn.2xlarge": {
+    "price": 0.6680000000
+  },
+  "r5dn.4xlarge": {
+    "price": 8.1520000000
+  },
+  "r5dn.8xlarge": {
+    "price": 0E-10
+  },
+  "r5dn.large": {
+    "price": 0.6758000000
+  },
+  "r5dn.xlarge": {
+    "price": 1.9116400000
+  },
+  "r5n.12xlarge": {
+    "price": 0E-10
+  },
+  "r5n.16xlarge": {
+    "price": 0E-10
+  },
+  "r5n.24xlarge": {
+    "price": 0E-10
+  },
+  "r5n.2xlarge": {
+    "price": 0E-10
+  },
+  "r5n.4xlarge": {
+    "price": 1.2640000000
+  },
+  "r5n.8xlarge": {
+    "price": 3.0680000000
+  },
+  "r5n.large": {
+    "price": 0.2050000000
+  },
+  "r5n.xlarge": {
+    "price": 0.4820000000
+  },
+  "r6a.12xlarge": {
+    "price": 2.2080000000
+  },
+  "r6a.16xlarge": {
+    "price": 6.9356800000
+  },
+  "r6a.24xlarge": {
+    "price": 0E-10
+  },
+  "r6a.2xlarge": {
+    "price": 0E-10
+  },
+  "r6a.32xlarge": {
+    "price": 0E-10
+  },
+  "r6a.48xlarge": {
+    "price": 35.7696000000
+  },
+  "r6a.4xlarge": {
+    "price": 0E-10
+  },
+  "r6a.8xlarge": {
+    "price": 3.2864000000
+  },
+  "r6a.large": {
+    "price": 0E-10
+  },
+  "r6a.xlarge": {
+    "price": 0.7644000000
+  },
+  "r6g.12xlarge": {
+    "price": 2.5442000000
+  },
+  "r6g.16xlarge": {
+    "price": 0E-10
+  },
+  "r6g.2xlarge": {
+    "price": 0.4274000000
+  },
+  "r6g.4xlarge": {
+    "price": 0.8064000000
+  },
+  "r6g.8xlarge": {
+    "price": 2.4064000000
+  },
+  "r6g.large": {
+    "price": 0E-10
+  },
+  "r6g.medium": {
+    "price": 0.0844000000
+  },
+  "r6g.xlarge": {
+    "price": 0E-10
+  },
+  "r6gd.12xlarge": {
+    "price": 3.9552000000
+  },
+  "r6gd.16xlarge": {
+    "price": 3.7984000000
+  },
+  "r6gd.2xlarge": {
+    "price": 0E-10
+  },
+  "r6gd.4xlarge": {
+    "price": 0E-10
+  },
+  "r6gd.8xlarge": {
+    "price": 0E-10
+  },
+  "r6gd.large": {
+    "price": 0.1509000000
+  },
+  "r6gd.medium": {
+    "price": 0.0576000000
+  },
+  "r6gd.xlarge": {
+    "price": 0.2512000000
+  },
+  "r6i.12xlarge": {
+    "price": 21.5424000000
+  },
+  "r6i.16xlarge": {
+    "price": 0E-10
+  },
+  "r6i.24xlarge": {
+    "price": 18.6048000000
+  },
+  "r6i.2xlarge": {
+    "price": 0.5684000000
+  },
+  "r6i.32xlarge": {
+    "price": 0E-10
+  },
+  "r6i.4xlarge": {
+    "price": 1.0080000000
+  },
+  "r6i.8xlarge": {
+    "price": 0E-10
+  },
+  "r6i.large": {
+    "price": 0.7106000000
+  },
+  "r6i.xlarge": {
+    "price": 0.4048000000
+  },
+  "r6id.12xlarge": {
+    "price": 0E-10
+  },
+  "r6id.16xlarge": {
+    "price": 0E-10
+  },
+  "r6id.24xlarge": {
+    "price": 0E-10
+  },
+  "r6id.2xlarge": {
+    "price": 1.8200000000
+  },
+  "r6id.32xlarge": {
+    "price": 26.2656000000
+  },
+  "r6id.4xlarge": {
+    "price": 3.6473600000
+  },
+  "r6id.8xlarge": {
+    "price": 0E-10
+  },
+  "r6id.large": {
+    "price": 0E-10
+  },
+  "r6id.xlarge": {
+    "price": 0E-10
+  },
+  "r6idn.12xlarge": {
+    "price": 0E-10
+  },
+  "r6idn.16xlarge": {
+    "price": 0E-10
+  },
+  "r6idn.24xlarge": {
+    "price": 0E-10
+  },
+  "r6idn.2xlarge": {
+    "price": 2.1095600000
+  },
+  "r6idn.32xlarge": {
+    "price": 0E-10
+  },
+  "r6idn.4xlarge": {
+    "price": 0E-10
+  },
+  "r6idn.8xlarge": {
+    "price": 7.7598400000
+  },
+  "r6idn.large": {
+    "price": 0.2825300000
+  },
+  "r6idn.xlarge": {
+    "price": 0.4298600000
+  },
+  "r6in.12xlarge": {
+    "price": 4.7273100000
+  },
+  "r6in.16xlarge": {
+    "price": 15.4036200000
+  },
+  "r6in.24xlarge": {
+    "price": 11.8638200000
+  },
+  "r6in.2xlarge": {
+    "price": 0E-10
+  },
+  "r6in.32xlarge": {
+    "price": 0E-10
+  },
+  "r6in.4xlarge": {
+    "price": 0E-10
+  },
+  "r6in.8xlarge": {
+    "price": 1.4720000000
+  },
+  "r6in.large": {
+    "price": 0.7005600000
+  },
+  "r6in.xlarge": {
+    "price": 0E-10
+  },
+  "r7a.12xlarge": {
+    "price": 0E-10
+  },
+  "r7a.16xlarge": {
+    "price": 0E-10
+  },
+  "r7a.24xlarge": {
+    "price": 0E-10
+  },
+  "r7a.2xlarge": {
+    "price": 0E-10
+  },
+  "r7a.32xlarge": {
+    "price": 10.8363600000
+  },
+  "r7a.48xlarge": {
+    "price": 14.6064000000
+  },
+  "r7a.4xlarge": {
+    "price": 1.2172000000
+  },
+  "r7a.8xlarge": {
+    "price": 6.5178400000
+  },
+  "r7a.large": {
+    "price": 0E-10
+  },
+  "r7a.medium": {
+    "price": 0.5780800000
+  },
+  "r7a.xlarge": {
+    "price": 0.9119000000
+  },
+  "r7g.12xlarge": {
+    "price": 2.8573000000
+  },
+  "r7g.16xlarge": {
+    "price": 0E-10
+  },
+  "r7g.2xlarge": {
+    "price": 0.6836000000
+  },
+  "r7g.4xlarge": {
+    "price": 0.8848000000
+  },
+  "r7g.8xlarge": {
+    "price": 2.1672000000
+  },
+  "r7g.large": {
+    "price": 0E-10
+  },
+  "r7g.medium": {
+    "price": 0.1099000000
+  },
+  "r7g.xlarge": {
+    "price": 0.2212000000
+  },
+  "r7gd.12xlarge": {
+    "price": 0E-10
+  },
+  "r7gd.16xlarge": {
+    "price": 5.0458000000
+  },
+  "r7gd.2xlarge": {
+    "price": 0E-10
+  },
+  "r7gd.4xlarge": {
+    "price": 0E-10
+  },
+  "r7gd.8xlarge": {
+    "price": 2.3076000000
+  },
+  "r7gd.large": {
+    "price": 0E-10
+  },
+  "r7gd.medium": {
+    "price": 0.0698000000
+  },
+  "r7gd.xlarge": {
+    "price": 0.3461000000
+  },
+  "r7i.12xlarge": {
+    "price": 3.1752000000
+  },
+  "r7i.16xlarge": {
+    "price": 13.9241600000
+  },
+  "r7i.24xlarge": {
+    "price": 0E-10
+  },
+  "r7i.2xlarge": {
+    "price": 1.0324000000
+  },
+  "r7i.48xlarge": {
+    "price": 0E-10
+  },
+  "r7i.4xlarge": {
+    "price": 0E-10
+  },
+  "r7i.8xlarge": {
+    "price": 0E-10
+  },
+  "r7i.large": {
+    "price": 0.6123000000
+  },
+  "r7i.xlarge": {
+    "price": 0.2646000000
+  },
+  "r7iz.12xlarge": {
+    "price": 10.6704000000
+  },
+  "r7iz.16xlarge": {
+    "price": 6.0640000000
+  },
+  "r7iz.2xlarge": {
+    "price": 0.9336000000
+  },
+  "r7iz.32xlarge": {
+    "price": 0E-10
+  },
+  "r7iz.4xlarge": {
+    "price": 8.0336000000
+  },
+  "r7iz.8xlarge": {
+    "price": 0E-10
+  },
+  "r7iz.large": {
+    "price": 0.2609000000
+  },
+  "r7iz.xlarge": {
+    "price": 0.5368000000
+  },
+  "r8a.12xlarge": {
+    "price": 11.1680600000
+  },
+  "r8a.16xlarge": {
+    "price": 15.7363200000
+  },
+  "r8a.24xlarge": {
+    "price": 12.8513300000
+  },
+  "r8a.2xlarge": {
+    "price": 0E-10
+  },
+  "r8a.48xlarge": {
+    "price": 20.4249600000
+  },
+  "r8a.4xlarge": {
+    "price": 2.0140800000
+  },
+  "r8a.8xlarge": {
+    "price": 2.5561600000
+  },
+  "r8a.large": {
+    "price": 0.1632600000
+  },
+  "r8a.medium": {
+    "price": 0.1117800000
+  },
+  "r8a.xlarge": {
+    "price": 0E-10
+  },
+  "r8g.12xlarge": {
+    "price": 3.1944500000
+  },
+  "r8g.16xlarge": {
+    "price": 4.4614400000
+  },
+  "r8g.24xlarge": {
+    "price": 0E-10
+  },
+  "r8g.2xlarge": {
+    "price": 0.6336100000
+  },
+  "r8g.48xlarge": {
+    "price": 11.6467200000
+  },
+  "r8g.4xlarge": {
+    "price": 1.3393600000
+  },
+  "r8g.8xlarge": {
+    "price": 1.8851200000
+  },
+  "r8g.large": {
+    "price": 0E-10
+  },
+  "r8g.medium": {
+    "price": 0.1211000000
+  },
+  "r8g.xlarge": {
+    "price": 0.2932400000
+  },
+  "r8gb.12xlarge": {
+    "price": 0E-10
+  },
+  "r8gb.16xlarge": {
+    "price": 6.1795500000
+  },
+  "r8gb.24xlarge": {
+    "price": 9.2693200000
+  },
+  "r8gb.2xlarge": {
+    "price": 0E-10
+  },
+  "r8gb.48xlarge": {
+    "price": 17.4892800000
+  },
+  "r8gb.4xlarge": {
+    "price": 1.7176900000
+  },
+  "r8gb.8xlarge": {
+    "price": 3.7084800000
+  },
+  "r8gb.large": {
+    "price": 0.2494100000
+  },
+  "r8gb.medium": {
+    "price": 0E-10
+  },
+  "r8gb.xlarge": {
+    "price": 0E-10
+  },
+  "r8gd.12xlarge": {
+    "price": 3.6520400000
+  },
+  "r8gd.16xlarge": {
+    "price": 4.8147200000
+  },
+  "r8gd.24xlarge": {
+    "price": 0E-10
+  },
+  "r8gd.2xlarge": {
+    "price": 0E-10
+  },
+  "r8gd.48xlarge": {
+    "price": 14.4441600000
+  },
+  "r8gd.4xlarge": {
+    "price": 0E-10
+  },
+  "r8gd.8xlarge": {
+    "price": 2.4073600000
+  },
+  "r8gd.large": {
+    "price": 0.2254600000
+  },
+  "r8gd.medium": {
+    "price": 0.1297800000
+  },
+  "r8gd.xlarge": {
+    "price": 0E-10
+  },
+  "r8gn.12xlarge": {
+    "price": 0E-10
+  },
+  "r8gn.16xlarge": {
+    "price": 0E-10
+  },
+  "r8gn.24xlarge": {
+    "price": 11.6501000000
+  },
+  "r8gn.2xlarge": {
+    "price": 0.7287000000
+  },
+  "r8gn.48xlarge": {
+    "price": 0E-10
+  },
+  "r8gn.4xlarge": {
+    "price": 0E-10
+  },
+  "r8gn.8xlarge": {
+    "price": 2.9709000000
+  },
+  "r8gn.large": {
+    "price": 0.2460000000
+  },
+  "r8gn.medium": {
+    "price": 0.1474000000
+  },
+  "r8gn.xlarge": {
+    "price": 0E-10
+  },
+  "r8i-flex.12xlarge": {
+    "price": 3.1672800000
+  },
+  "r8i-flex.16xlarge": {
+    "price": 4.9142400000
+  },
+  "r8i-flex.2xlarge": {
+    "price": 0.6528800000
+  },
+  "r8i-flex.4xlarge": {
+    "price": 0E-10
+  },
+  "r8i-flex.8xlarge": {
+    "price": 14.9051200000
+  },
+  "r8i-flex.large": {
+    "price": 0.1319700000
+  },
+  "r8i-flex.xlarge": {
+    "price": 1.8215400000
+  },
+  "r8i.12xlarge": {
+    "price": 3.4590800000
+  },
+  "r8i.16xlarge": {
+    "price": 6.2182400000
+  },
+  "r8i.24xlarge": {
+    "price": 18.8549800000
+  },
+  "r8i.2xlarge": {
+    "price": 0E-10
+  },
+  "r8i.32xlarge": {
+    "price": 27.7127700000
+  },
+  "r8i.48xlarge": {
+    "price": 37.7099500000
+  },
+  "r8i.4xlarge": {
+    "price": 1.2225000000
+  },
+  "r8i.8xlarge": {
+    "price": 6.6305900000
+  },
+  "r8i.96xlarge": {
+    "price": 170.6726400000
+  },
+  "r8i.large": {
+    "price": 0.2065200000
+  },
+  "r8i.xlarge": {
+    "price": 0E-10
+  },
+  "r8ib.12xlarge": {
+    "price": 24.2112000000
+  },
+  "r8ib.16xlarge": {
+    "price": 0E-10
+  },
+  "r8ib.24xlarge": {
+    "price": 47.0784000000
+  },
+  "r8ib.2xlarge": {
+    "price": 1.7968000000
+  },
+  "r8ib.32xlarge": {
+    "price": 13.3888000000
+  },
+  "r8ib.48xlarge": {
+    "price": 20.0832000000
+  },
+  "r8ib.4xlarge": {
+    "price": 4.1577600000
+  },
+  "r8ib.8xlarge": {
+    "price": 3.3472000000
+  },
+  "r8ib.96xlarge": {
+    "price": 0E-10
+  },
+  "r8ib.large": {
+    "price": 0E-10
+  },
+  "r8ib.xlarge": {
+    "price": 2.1442400000
+  },
+  "r8id.12xlarge": {
+    "price": 11.3412500000
+  },
+  "r8id.16xlarge": {
+    "price": 0E-10
+  },
+  "r8id.24xlarge": {
+    "price": 7.9833600000
+  },
+  "r8id.2xlarge": {
+    "price": 0.7804800000
+  },
+  "r8id.32xlarge": {
+    "price": 59.8732800000
+  },
+  "r8id.48xlarge": {
+    "price": 19.4065900000
+  },
+  "r8id.4xlarge": {
+    "price": 0E-10
+  },
+  "r8id.8xlarge": {
+    "price": 4.1331200000
+  },
+  "r8id.96xlarge": {
+    "price": 35.6198400000
+  },
+  "r8id.large": {
+    "price": 0.6917500000
+  },
+  "r8id.xlarge": {
+    "price": 0E-10
+  },
+  "r8idb.12xlarge": {
+    "price": 0E-10
+  },
+  "r8idb.16xlarge": {
+    "price": 0E-10
+  },
+  "r8idb.24xlarge": {
+    "price": 0E-10
+  },
+  "r8idb.2xlarge": {
+    "price": 1.1930800000
+  },
+  "r8idb.32xlarge": {
+    "price": 0E-10
+  },
+  "r8idb.48xlarge": {
+    "price": 0E-10
+  },
+  "r8idb.4xlarge": {
+    "price": 7.8757600000
+  },
+  "r8idb.8xlarge": {
+    "price": 0E-10
+  },
+  "r8idb.96xlarge": {
+    "price": 45.0182400000
+  },
+  "r8idb.large": {
+    "price": 0E-10
+  },
+  "r8idb.xlarge": {
+    "price": 0E-10
+  },
+  "r8idn.12xlarge": {
+    "price": 8.3980100000
+  },
+  "r8idn.16xlarge": {
+    "price": 0E-10
+  },
+  "r8idn.24xlarge": {
+    "price": 4.4160000000
+  },
+  "r8idn.2xlarge": {
+    "price": 1.3058800000
+  },
+  "r8idn.32xlarge": {
+    "price": 5.8880000000
+  },
+  "r8idn.48xlarge": {
+    "price": 0E-10
+  },
+  "r8idn.4xlarge": {
+    "price": 4.3801400000
+  },
+  "r8idn.8xlarge": {
+    "price": 0E-10
+  },
+  "r8idn.96xlarge": {
+    "price": 196.7366400000
+  },
+  "r8idn.large": {
+    "price": 0E-10
+  },
+  "r8idn.xlarge": {
+    "price": 0.6434300000
+  },
+  "r8in.12xlarge": {
+    "price": 25.2288000000
+  },
+  "r8in.16xlarge": {
+    "price": 0E-10
+  },
+  "r8in.24xlarge": {
+    "price": 11.0457600000
+  },
+  "r8in.2xlarge": {
+    "price": 2.1648000000
+  },
+  "r8in.32xlarge": {
+    "price": 0E-10
+  },
+  "r8in.48xlarge": {
+    "price": 46.9824000000
+  },
+  "r8in.4xlarge": {
+    "price": 1.8689600000
+  },
+  "r8in.8xlarge": {
+    "price": 3.4032000000
+  },
+  "r8in.96xlarge": {
+    "price": 57.8304000000
+  },
+  "r8in.large": {
+    "price": 0E-10
+  },
+  "r8in.xlarge": {
+    "price": 0E-10
+  },
+  "r9g.12xlarge": {
+    "price": 4.5806900000
+  },
+  "r9g.16xlarge": {
+    "price": 4.1094400000
+  },
+  "r9g.24xlarge": {
+    "price": 7.8173800000
+  },
+  "r9g.2xlarge": {
+    "price": 0E-10
+  },
+  "r9g.48xlarge": {
+    "price": 17.4203500000
+  },
+  "r9g.4xlarge": {
+    "price": 0E-10
+  },
+  "r9g.8xlarge": {
+    "price": 2.3161900000
+  },
+  "r9g.large": {
+    "price": 0.1975600000
+  },
+  "r9g.medium": {
+    "price": 0.0706300000
+  },
+  "r9g.xlarge": {
+    "price": 0E-10
+  },
+  "r9gd.12xlarge": {
+    "price": 4.3537500000
+  },
+  "r9gd.16xlarge": {
+    "price": 0E-10
+  },
+  "r9gd.24xlarge": {
+    "price": 8.7254400000
+  },
+  "r9gd.2xlarge": {
+    "price": 0.7187900000
+  },
+  "r9gd.48xlarge": {
+    "price": 0E-10
+  },
+  "r9gd.4xlarge": {
+    "price": 1.5823800000
+  },
+  "r9gd.8xlarge": {
+    "price": 0E-10
+  },
+  "r9gd.large": {
+    "price": 0.1797000000
+  },
+  "r9gd.medium": {
+    "price": 0.0800900000
+  },
+  "r9gd.xlarge": {
+    "price": 0E-10
+  },
+  "t1.micro": {
+    "price": 0.0200000000
+  },
+  "t2.2xlarge": {
+    "price": 0.3712000000
+  },
+  "t2.large": {
+    "price": 0.1208000000
+  },
+  "t2.medium": {
+    "price": 0.0499000000
+  },
+  "t2.micro": {
+    "price": 0.0260000000
+  },
+  "t2.nano": {
+    "price": 0.0058000000
+  },
+  "t2.small": {
+    "price": 0.1052000000
+  },
+  "t2.xlarge": {
+    "price": 0.1856000000
+  },
+  "t3.2xlarge": {
+    "price": 0.3667000000
+  },
+  "t3.large": {
+    "price": 0.1784000000
+  },
+  "t3.medium": {
+    "price": 0E-10
+  },
+  "t3.micro": {
+    "price": 0.0104000000
+  },
+  "t3.nano": {
+    "price": 0E-10
+  },
+  "t3.small": {
+    "price": 0E-10
+  },
+  "t3.xlarge": {
+    "price": 0.1664000000
+  },
+  "t3a.2xlarge": {
+    "price": 3.4480000000
+  },
+  "t3a.large": {
+    "price": 0.1704000000
+  },
+  "t3a.medium": {
+    "price": 0E-10
+  },
+  "t3a.micro": {
+    "price": 0.0382000000
+  },
+  "t3a.nano": {
+    "price": 0.0082000000
+  },
+  "t3a.small": {
+    "price": 0.0188000000
+  },
+  "t3a.xlarge": {
+    "price": 0.2780000000
+  },
+  "t4g.2xlarge": {
+    "price": 0E-10
+  },
+  "t4g.large": {
+    "price": 0E-10
+  },
+  "t4g.medium": {
+    "price": 0.0371000000
+  },
+  "t4g.micro": {
+    "price": 0E-10
+  },
+  "t4g.nano": {
+    "price": 0.0042000000
+  },
+  "t4g.small": {
+    "price": 0.0456000000
+  },
+  "t4g.xlarge": {
+    "price": 0.1414000000
+  },
+  "trn1.2xlarge": {
+    "price": 1.4687500000
+  },
+  "trn1.32xlarge": {
+    "price": 21.6250000000
+  },
+  "trn1n.32xlarge": {
+    "price": 24.7800000000
+  },
+  "u-12tb1.112xlarge": {
+    "price": 137.3792000000
+  },
+  "u-18tb1.112xlarge": {
+    "price": 0E-10
+  },
+  "u-24tb1.112xlarge": {
+    "price": 0E-10
+  },
+  "u-3tb1.56xlarge": {
+    "price": 29.4504000000
+  },
+  "u-6tb1.112xlarge": {
+    "price": 226.9008000000
+  },
+  "u-6tb1.56xlarge": {
+    "price": 130.4039100000
+  },
+  "u-9tb1.112xlarge": {
+    "price": 7.5712000000
+  },
+  "u7i-12tb.224xlarge": {
+    "price": 166.7978200000
+  },
+  "u7i-6tb.112xlarge": {
+    "price": 90.9692000000
+  },
+  "u7i-8tb.112xlarge": {
+    "price": 0E-10
+  },
+  "u7in-16tb.224xlarge": {
+    "price": 189.0771800000
+  },
+  "u7in-24tb.224xlarge": {
+    "price": 396.2608800000
+  },
+  "u7in-32tb.224xlarge": {
+    "price": 0E-10
+  },
+  "vt1.24xlarge": {
+    "price": 0E-10
+  },
+  "vt1.3xlarge": {
+    "price": 0E-10
+  },
+  "vt1.6xlarge": {
+    "price": 0E-10
+  },
+  "x1.16xlarge": {
+    "price": 31.3600000000
+  },
+  "x1.32xlarge": {
+    "price": 0E-10
+  },
+  "x1e.16xlarge": {
+    "price": 0E-10
+  },
+  "x1e.2xlarge": {
+    "price": 4.9230000000
+  },
+  "x1e.32xlarge": {
+    "price": 0E-10
+  },
+  "x1e.4xlarge": {
+    "price": 0E-10
+  },
+  "x1e.8xlarge": {
+    "price": 9.3520000000
+  },
+  "x1e.xlarge": {
+    "price": 0E-10
+  },
+  "x2gd.12xlarge": {
+    "price": 4.4088000000
+  },
+  "x2gd.16xlarge": {
+    "price": 5.4560000000
+  },
+  "x2gd.2xlarge": {
+    "price": 0E-10
+  },
+  "x2gd.4xlarge": {
+    "price": 0E-10
+  },
+  "x2gd.8xlarge": {
+    "price": 0E-10
+  },
+  "x2gd.large": {
+    "price": 0.1958000000
+  },
+  "x2gd.medium": {
+    "price": 0E-10
+  },
+  "x2gd.xlarge": {
+    "price": 0.4250000000
+  },
+  "x2idn.16xlarge": {
+    "price": 6.6690000000
+  },
+  "x2idn.24xlarge": {
+    "price": 0E-10
+  },
+  "x2idn.32xlarge": {
+    "price": 0E-10
+  },
+  "x2iedn.16xlarge": {
+    "price": 23.9620000000
+  },
+  "x2iedn.24xlarge": {
+    "price": 35.9430000000
+  },
+  "x2iedn.2xlarge": {
+    "price": 2.8824500000
+  },
+  "x2iedn.32xlarge": {
+    "price": 0E-10
+  },
+  "x2iedn.4xlarge": {
+    "price": 9.8407500000
+  },
+  "x2iedn.8xlarge": {
+    "price": 0E-10
+  },
+  "x2iedn.xlarge": {
+    "price": 1.0852300000
+  },
+  "x2iezn.12xlarge": {
+    "price": 11.1984000000
+  },
+  "x2iezn.2xlarge": {
+    "price": 0E-10
+  },
+  "x2iezn.4xlarge": {
+    "price": 3.7792000000
+  },
+  "x2iezn.6xlarge": {
+    "price": 0E-10
+  },
+  "x2iezn.8xlarge": {
+    "price": 10.5120000000
+  },
+  "x8g.12xlarge": {
+    "price": 5.2080000000
+  },
+  "x8g.16xlarge": {
+    "price": 6.3778000000
+  },
+  "x8g.24xlarge": {
+    "price": 0E-10
+  },
+  "x8g.2xlarge": {
+    "price": 0E-10
+  },
+  "x8g.48xlarge": {
+    "price": 0E-10
+  },
+  "x8g.4xlarge": {
+    "price": 0E-10
+  },
+  "x8g.8xlarge": {
+    "price": 3.1824000000
+  },
+  "x8g.large": {
+    "price": 0.1954000000
+  },
+  "x8g.medium": {
+    "price": 0.1218700000
+  },
+  "x8g.xlarge": {
+    "price": 0.3978000000
+  },
+  "x8i.12xlarge": {
+    "price": 5.2519200000
+  },
+  "x8i.16xlarge": {
+    "price": 11.0281600000
+  },
+  "x8i.24xlarge": {
+    "price": 0E-10
+  },
+  "x8i.2xlarge": {
+    "price": 0E-10
+  },
+  "x8i.32xlarge": {
+    "price": 64.6344300000
+  },
+  "x8i.48xlarge": {
+    "price": 0E-10
+  },
+  "x8i.4xlarge": {
+    "price": 0E-10
+  },
+  "x8i.64xlarge": {
+    "price": 0E-10
+  },
+  "x8i.8xlarge": {
+    "price": 0E-10
+  },
+  "x8i.96xlarge": {
+    "price": 0E-10
+  },
+  "x8i.large": {
+    "price": 0E-10
+  },
+  "x8i.xlarge": {
+    "price": 0.9614300000
+  },
+  "z1d.12xlarge": {
+    "price": 6.6720000000
+  },
+  "z1d.2xlarge": {
+    "price": 4.1570000000
+  },
+  "z1d.3xlarge": {
+    "price": 5.8130000000
+  },
+  "z1d.6xlarge": {
+    "price": 2.4910000000
+  },
+  "z1d.large": {
+    "price": 0.7410000000
+  },
+  "z1d.xlarge": {
+    "price": 0.8520000000
+  }
+}
